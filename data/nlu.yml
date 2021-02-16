@@ -1,0 +1,54 @@
+language: es
+version: "2.0"
+nlu:
+- intent: greet
+  examples: |
+    - ¡Hola!
+    - ¡Hola mayordomo!
+
+- intent: goodbye
+  examples: |
+    - ¡Adiós!        
+    - ¡Adiós mayordomo!
+    - ¡Buenas noches!
+
+- intent: thanks
+  examples: |
+    - ¡Gracias!
+    - ¡Gracias mayordomo!
+    - Eso fue de gran ayuda
+    - Estoy agradecido
+    - Estoy agradecida
+    - Buen trabajo
+    - Entendido
+    - Tiene sentido
+
+- intent: affirm
+  examples: |
+    - y
+    - Y
+    - si
+    - Si
+    - Verdadero
+    - Verdadera
+    - Adelante
+    - Bueno
+    - segura
+    - seguro
+    - buena
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - N
+    - Nunca
+    - Hoy no
+    - Por favor no
+
+- intent: lang_search
+  examples: |
+    - Quiero saber más sobre [hindi](language)
+    - ¿Puedes buscar [spanish](language)?
+    - Necesito más información para [french](language)
+    - Buscar [gujrati](language)

@@ -1,0 +1,43 @@
+language: es
+version: '2.0'
+session_config:
+  session_expiration_time: 120
+  carry_over_slots_to_new_session: true
+intents:
+  - greet
+  - goodbye
+  - thanks
+  - affirm
+  - deny
+  - lang_search
+entities:
+  - language
+responses:
+  utter_greet:
+  - text: ¡Hola!
+  - text: ¡Hola señor!
+  - text: ¿Cómo estás?
+  utter_goodbye:
+  - text: ¡Adiós!
+  - text: ¡Adiós señor!
+  utter_thanks: 
+  - text: ¡Gracias!
+  - text: ¡Gracias señor!
+  utter_req_feedback:
+  - text: ¿Fue útil esto?
+  - text: ¿Su consulta se resolvió?
+  utter_thanks_feedback:
+  - text: ¡Gracias por tus comentarios!
+  - text: Me alegro que le haya resultado útil.
+  utter_sorry_feedback:
+  - text: Lamento no haber sido más útil.
+  - text: ¡Vaya, parece que necesito mejorar!
+actions:
+- '...'
+- utter_greet
+- utter_goodbye
+- action_lang_search
+- utter_thanks
+- utter_req_feedback
+- utter_thanks_feedback
+- utter_sorry_feedback
