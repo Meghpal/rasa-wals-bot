@@ -14,7 +14,21 @@ rules:
    steps:
    - intent: lang_search
    - action: action_lang_search
-   - action: utter_req_feedback
+
+ - rule: for a language search the value of a particular feature
+   steps:
+   - intent: feature_of_lang_search
+   - action: action_feature_of_lang_search
+
+ - rule: for the value of a particular feature search some languages that have the same
+   steps:
+   - intent: random_type_search
+   - action: action_random_type_search
+
+ - rule: get all the types a particular feature can behave
+   steps:
+   - intent: feature_cat_search
+   - action: action_feature_cat_search
 
  - rule: respond positively when the user says thank you
    steps:

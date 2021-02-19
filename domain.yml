@@ -10,8 +10,13 @@ intents:
   - affirm
   - deny
   - lang_search
+  - feature_of_lang_search
+  - random_type_search
+  - feature_cat_search
 entities:
   - language
+  - feature
+  - val
 responses:
   utter_greet:
   - text: ¡Hola!
@@ -37,6 +42,9 @@ actions:
 - utter_greet
 - utter_goodbye
 - action_lang_search
+- action_feature_of_lang_search
+- action_random_type_search
+- action_feature_cat_search
 - utter_thanks
 - utter_req_feedback
 - utter_thanks_feedback

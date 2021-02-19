@@ -5,12 +5,20 @@ nlu:
   examples: |
     - ¡Hola!
     - ¡Hola mayordomo!
+    - ¡Mayordomo!
+    - Atiendeme
+    - ¿Dónde estás?
+    - Encantado de conocerte
+    - ¡Buenos dias!
+    - Buen día
 
 - intent: goodbye
   examples: |
     - ¡Adiós!        
     - ¡Adiós mayordomo!
     - ¡Buenas noches!
+    - Más tarde
+    - Después
 
 - intent: thanks
   examples: |
@@ -52,3 +60,96 @@ nlu:
     - ¿Puedes buscar [spanish](language)?
     - Necesito más información para [french](language)
     - Buscar [gujrati](language)
+    - ¿Qué tipo de idioma es el [english](language)
+    - Que es [German](language)
+    - Tengo curiosidad por el [Gujarati](language)
+    - ¿Sabes de [French]?(language)
+    - ¿Qué tal [Italian]?(language)
+    - No se sobre [Bagirmi](language)
+    - Quiero saber sobre [Scottish Gaelic](language)
+
+- intent: feature_of_lang_search
+  examples: |
+    - ¿Cuál es el valor de característica [Asymmetrical Case-Marking](feature) de [English](language)?
+    - ¿Qué es el [Lateral Consonants](feature) de [Hindi](language)?
+    - ¿Cuál es el valor de característica [Reason Clauses](feature) de [Spanish](language)?
+    - ¿Qué es el [The Optative](feature) de [French](language)?
+    - ¿Qué es el [Asymmetrical Case-Marking](feature) de [Afrikaans](language)?
+    - ¿Qué es el [Irregular Negatives in Sign Languages](feature) de [Arabic](language)?
+    - ¿Qué es el [Presence of Uncommon Consonants](feature) de [Chinese](language)?
+    - ¿Qué es el [Glottalized Consonants](feature) de [Danish](language)?
+    - ¿Qué es el [Pronominal and Adnominal Demonstratives](feature) de [Dutch](language)?
+    - ¿Qué es el [Number of Basic Colour Categories](feature) de [English](language)?
+    - ¿Qué es el [Suppletion According to Tense and Aspect](feature) de [Esperanto](language)?
+    - ¿Qué es el [Suppletion in Imperatives and Hortatives](feature) de [Estonian](language)?
+    - ¿Qué es el [Genitives, Adjectives and Relative Clauses](feature) de [Filipino](language)?
+    - ¿Qué es el [Vowel Nasalization](feature) de [Finnish](language)?
+    - ¿Qué es el [Nasal Vowels in West Africa](feature) de [French](language)?
+    - ¿Qué es el [Verbal Number and Suppletion](feature) de [German](language)?
+    - ¿Qué es el [Purpose Clauses](feature) de [Greek](language)?
+    - ¿Qué es el [Obligatory Possessive Inflection](feature) de [Gujarati](language)?
+    - ¿Qué es el [Number of Possessive Nouns](feature) de [Hawaiian](language)?
+    - ¿Qué es el [Fixed Stress Locations](feature) de [Hindi](language)?
+    - ¿Qué es el [Red and Yellow](feature) de [Hungarian](language)?
+    - ¿Qué es el [Distributive Numerals](feature) de [Indonesian](language)?
+    - ¿Qué es el [Perfective/Imperfective Aspect](feature) de [Irish](language)?
+    - ¿Qué es el [Plurality in Independent Personal Pronouns](feature) de [Italian](language)?
+    - ¿Cuál es el valor de característica [Systems of Gender Assignment](feature) de [Japanese](language)?
+    - ¿Cuál es el valor de característica [Coding of Nominal Plurality](feature) de [Kannada](language)?
+    - ¿Cuál es el valor de característica [Order of Subject, Object and Verb](feature) de [Korean](language)?
+    - ¿Cuál es el valor de característica [Languages with two Dominant Orders of Subject, Object, and Verb](feature) de [Kurdish](language)?
+    - ¿Cuál es el valor de característica [Locus of Marking in Possessive Noun Phrases](feature) de [Latin](language)?
+    - ¿Cuál es el valor de característica [Order of Degree Word and Adjective](feature) de [Malayalam](language)?
+    - ¿Cuál es el valor de característica [Inclusive/Exclusive Distinction in Independent Pronouns](feature) de [Maori](language)?
+    - ¿Cuál es el valor de característica [Inclusive/Exclusive Forms in Pama-Nyungan](feature) de [Marathi](language)?
+    - ¿Cuál es el valor de característica [Distance Contrasts in Demonstratives](feature) de [Nepali](language)?
+    - ¿Cuál es el valor de característica [Inclusive/Exclusive Distinction in Verbal Inflection](feature) de [Persian](language)?
+    - ¿Cuál es el valor de característica [Order of Demonstrative and Noun](feature) de [Polish](language)?
+    - ¿Cuál es el valor de característica [Uvular Consonants](feature) de [Portuguese](language)?
+    - ¿Cuál es el valor de característica [Negative Morphemes](feature) de [Punjabi](language)?
+    - ¿Cuál es el valor de característica [Relativization on Obliques "When Clauses"](feature) de [Russian](language)?
+    - ¿Cuál es el valor de característica [Action Nominal Constructions](feature) de [Scottish Gaelic](language)?
+    - ¿Cuál es el valor de característica [The Position of Negative Morphemes in Object-Initial Languages](feature) de [Slovak](language)?
+    - ¿Cuál es el valor de característica [NegSOV Order](feature) de [Sundanese](language)?
+    - ¿Cuál es el valor de característica [SVNegO Order](feature) de [Swahili](language)?
+    - ¿Cuál es el valor de característica [Obligatory Double Negation in SOV languages](feature) de [Swedish](language)?
+    - ¿Cuál es el valor de característica [SOVNeg Order](feature) de [Tajik](language)?
+    - ¿Cuál es el valor de característica [Inflectional Synthesis of the Verb](feature) de [Tamil](language)?
+    - ¿Cuál es el valor de característica [Rhythm Types](feature) de [Tatar](language)?
+    - ¿Cuál es el valor de característica [Applicative Constructions](feature) de [Telugu](language)?
+    - ¿Cuál es el valor de característica [Other Roles of Applied Objects](feature) de [Thai](language)?
+    - ¿Cuál es el valor de característica [The Past Tense](feature) de [Turkish](language)?
+    - ¿Cuál es el valor de característica [Consonant Inventories](feature) de [Turkmen](language)?
+    - ¿Cuál es el valor de característica [Weight Factors in Weight-Sensitive Stress Systems](feature) de [Ukrainian](language)?
+    - ¿Cuál es el valor de característica [Nominal and Verbal Conjunction](feature) de [Urdu](language)?
+    - ¿Cuál es el valor de característica [Subtypes of Asymmetric Standard Negation](feature) de [Uyghur](language)?
+    - ¿Cuál es el valor de característica [Number of Non-Derived Basic Colour Categories](feature) de [Uzbek](language)?
+    - ¿Cuál es el valor de característica [Order of Numeral and Noun](feature) de [Vietnamese](language)?
+    - ¿Cuál es el valor de característica [Periphrastic Causative Constructions](feature) de [Welsh](language)?
+    - ¿Cuál es el valor de característica [Indefinite Pronouns](feature) de [Western Frisian](language)?
+    - ¿Cuál es el valor de característica [Tone](feature) de [Xhosa](language)?
+    - ¿Cuál es el valor de característica [Locus of Marking in the Clause](feature) de [Yiddish](language)?
+    - ¿Cuál es el valor de característica [Voicing in Plosives and Fricatives](feature) de [Yoruba](language)?
+    - ¿Cuál es el valor de característica [Position of Pronominal Possessive Affixes](feature) de [Zulu](language)?
+    - ¿Cuál es el valor de característica [Passive Constructions](feature) de [French](language)?
+    - ¿Cuál es el valor de característica [Alignment of Case Marking of Pronouns](feature) de [German](language)?
+    - ¿Cuál es el valor de característica [Position of Interrogative Phrases in Content Questions](feature) de [Urdu](language)?
+
+- intent: random_type_search
+  examples: |
+    - ¿Cuáles son algunos otros idiomas con el valor [Uvular stops only](val) para la característica [Uvular Consonants](feature)?
+    - ¿Cuáles son algunos otros idiomas con el valor [Uvular continuants only](val) para la característica [Uvular Consonants](feature)?
+    - ¿Cuáles son algunos otros idiomas con el valor [Uvular stops and continuants](val) para la característica [Uvular Consonants](feature)?
+    - ¿Cuáles son algunos otros idiomas con el valor [Simple tone system](val) para la característica [Tone](feature)?
+    - ¿Cuáles son algunos otros idiomas con el valor [Complex tone system](val) para la característica [Tone](feature)?
+    - ¿Cuáles son algunos otros idiomas con el valor [No tones](val) para la característica [Tone](feature)?
+    - ¿Cuáles son algunos otros idiomas con el valor [Trochaic](val) para la característica [Rhythm Types](feature)?
+    - ¿Cuáles son algunos otros idiomas con el valor [Iambic](val) para la característica [Rhythm Types](feature)?
+    - ¿Cuáles son algunos otros idiomas con el valor [No rhythmic stress](val) para la característica [Rhythm Types](feature)?
+    - ¿Cuáles son algunos otros idiomas con el valor [Undetermined](val) para la característica [Rhythm Types](feature)?
+    - ¿Cuáles son algunos otros idiomas con el valor [Dual: both trochaic and iambic](val) para la característica [Rhythm Types](feature)?
+
+- intent: feature_cat_search
+  examples: |
+    - ¿Qué tipos puede ser esta característica [Rhythm Types](feature)?
+    - ¿Qué categorías hay en la característica [Tone](feature)?

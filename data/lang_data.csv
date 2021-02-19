@@ -1,0 +1,3024 @@
+iso_code,lang_name,lat,long,country_id,country_name,continent
+arr,Arrernte,-24.0,134.0,AU,Australia,Australia & Oceania
+dda,Dhuwal (Dätiwuy),-12.166666666700001,136.25,AU,Australia,Australia & Oceania
+gml,Gamilaraay,-29.8333333333,149.5,AU,Australia,Australia & Oceania
+gmt,Gumatj,-12.5,135.5,AU,Australia,Australia & Oceania
+kij,Kitja,-17.5,127.75,AU,Australia,Australia & Oceania
+mdb,Mudburra,-17.3333333333,132.08333333299998,AU,Australia,Australia & Oceania
+ngy,Ngarinyman,-16.5,130.5,AU,Australia,Australia & Oceania
+pak,Pakanha,-14.5,142.41666666700002,AU,Australia,Australia & Oceania
+aus,Auslan,-30.0,145.0,AU,Australia,Australia & Oceania
+bca,Bandjalang (Casino),-28.9166666667,153.0,AU,Australia,Australia & Oceania
+clc,Colac,-38.3333333333,143.5,AU,Australia,Australia & Oceania
+gji,Gurindji,-17.6666666667,130.66666666700002,AU,Australia,Australia & Oceania
+kaq,Kaurna,-34.25,138.5,AU,Australia,Australia & Oceania
+lrd,Lardil,-16.5,139.33333333299998,AU,Australia,Australia & Oceania
+nlu,Ngarluma,-20.8333333333,117.5,AU,Australia,Australia & Oceania
+nju,Nyungar,-33.75,122.0,AU,Australia,Australia & Oceania
+toy,Tasmanian (Oyster Bay to Pitwater),-42.5,147.75,AU,Australia,Australia & Oceania
+wgu,Warrongo,-18.0,145.0,AU,Australia,Australia & Oceania
+yyo,Yorta Yorta,-36.0,146.0,AU,Australia,Australia & Oceania
+bnl,Banggarla,-32.0,137.0,AU,Australia,Australia & Oceania
+gny,Gunya,-26.5,146.5,AU,Australia,Australia & Oceania
+lla,Lamu-Lamu,-14.833333333299999,144.5,AU,Australia,Australia & Oceania
+thp,Thaypan,-14.833333333299999,143.16666666700002,AU,Australia,Australia & Oceania
+dhu,Dhurga,-35.6666666667,150.0,AU,Australia,Australia & Oceania
+glp,Gaalpu,-12.666666666700001,136.75,AU,Australia,Australia & Oceania
+mnj,Mantjiltjara,-22.6666666667,125.083333333,AU,Australia,Australia & Oceania
+mwa,Martu Wangka,-21.5,126.0,AU,Australia,Australia & Oceania
+myy,Mayi-Yapi,-20.0,141.0,AU,Australia,Australia & Oceania
+wlw,Warluwara,-22.0,138.5,AU,Australia,Australia & Oceania
+wwr,Woiwurrung,-37.5,145.5,AU,Australia,Australia & Oceania
+ylb,Yulparija,-21.0,124.0,AU,Australia,Australia & Oceania
+kfc,Kriol (Fitzroy Crossing),-18.1666666667,125.583333333,AU,Australia,Australia & Oceania
+knq,Kriol (Ngukurr),-14.833333333299999,135.0,AU,Australia,Australia & Oceania
+kjn,Kunjen,-16.5,142.5,AU,Australia,Australia & Oceania
+ngr,Ngarinyeri,-36.0,140.0,AU,Australia,Australia & Oceania
+nyr,Nyangumarda,-20.0,121.0,AU,Australia,Australia & Oceania
+tsm,Tasmanian,-42.1666666667,146.5,AU,Australia,Australia & Oceania
+tye,Tyeraity,-13.0,130.33333333299998,AU,Australia,Australia & Oceania
+bwa,Bandjalang (Waalubal),-29.0833333333,152.58333333299998,AU,Australia,Australia & Oceania
+mir,Miriwung,-15.666666666700001,129.0,AU,Australia,Australia & Oceania
+pin,Pintupi,-23.0,129.0,AU,Australia,Australia & Oceania
+yyg,Yaygir,-29.6666666667,153.0,AU,Australia,Australia & Oceania
+bnr,Bilinarra,-16.0,131.66666666700002,AU,Australia,Australia & Oceania
+bro,Broken,-10.1666666667,143.0,AU,Australia,Australia & Oceania
+rmb,Rembarnga,-12.833333333299999,134.58333333299998,AU,Australia,Australia & Oceania
+wlm,Walmatjari,-19.5,125.75,AU,Australia,Australia & Oceania
+wn,Wik Ngathana,-13.916666666700001,141.5,AU,Australia,Australia & Oceania
+ynk,Yankuntjatjara,-27.0,132.0,AU,Australia,Australia & Oceania
+dhw,Dharawal,-34.5,150.5,AU,Australia,Australia & Oceania
+dhb,Dharumbal,-22.75,150.5,AU,Australia,Australia & Oceania
+mrr,Maringarr,-14.25,130.0,AU,Australia,Australia & Oceania
+nkk,Nakkara,-12.1166666667,134.41666666700002,AU,Australia,Australia & Oceania
+wrb,Warrnambool,-38.25,142.5,AU,Australia,Australia & Oceania
+krj,Karadjeri,-19.0,122.0,AU,Australia,Australia & Oceania
+wag,Wagiman,-14.0,131.25,AU,Australia,Australia & Oceania
+kmw,Kamu,-13.583333333299999,130.83333333299998,AU,Australia,Australia & Oceania
+mdl,Matngele,-13.833333333299999,130.41666666700002,AU,Australia,Australia & Oceania
+wor,Worora,-15.666666666700001,124.666666667,AU,Australia,Australia & Oceania
+yir,Yir Yoront,-14.833333333299999,141.83333333299998,AU,Australia,Australia & Oceania
+bnu,Bularnu,-21.0,138.0,AU,Australia,Australia & Oceania
+emm,Emmi,-13.5,130.0,AU,Australia,Australia & Oceania
+ngj,Ngadjumaja,-32.3333333333,123.833333333,AU,Australia,Australia & Oceania
+wdo,Western Desert (Ooldea),-30.5,132.0,AU,Australia,Australia & Oceania
+wir,Wirangu,-32.0,134.0,AU,Australia,Australia & Oceania
+bac,Bachamal,-13.166666666700001,130.16666666700002,AU,Australia,Australia & Oceania
+brd,Bardi,-16.5833333333,122.916666667,AU,Australia,Australia & Oceania
+pun,Pungupungu,-13.5,130.41666666700002,AU,Australia,Australia & Oceania
+djn,Djinang,-12.333333333299999,134.83333333299998,AU,Australia,Australia & Oceania
+ngg,Ngan'gityemerri,-14.25,130.41666666700002,AU,Australia,Australia & Oceania
+ngw,Ngawun,-19.0,141.5,AU,Australia,Australia & Oceania
+nyn,Nyigina,-18.0,124.333333333,AU,Australia,Australia & Oceania
+wth,Wathawurrung,-38.0,144.0,AU,Australia,Australia & Oceania
+adn,Adynyamathanha,-30.5,139.5,AU,Australia,Australia & Oceania
+ann,Anindilyakwa,-14.0,136.5,AU,Australia,Australia & Oceania
+byu,Bandjalang (Yugumbir),-27.9166666667,153.0,AU,Australia,Australia & Oceania
+gaa,Gaagudju,-12.583333333299999,132.83333333299998,AU,Australia,Australia & Oceania
+nya,Nyawaygi,-19.0,146.16666666700002,AU,Australia,Australia & Oceania
+ywr,Yawuru,-18.0,122.5,AU,Australia,Australia & Oceania
+bnb,Bunuba,-17.75,125.75,AU,Australia,Australia & Oceania
+gnn,Gunin,-14.25,126.666666667,AU,Australia,Australia & Oceania
+grg,Gurr-goni,-12.25,134.41666666700002,AU,Australia,Australia & Oceania
+kly,Kala Lagaw Ya,-10.116666666699999,142.116666667,AU,Australia,Australia & Oceania
+kuu,Kuuku Ya'u,-12.583333333299999,143.08333333299998,AU,Australia,Australia & Oceania
+nkb,Ngalkbun,-13.5,134.83333333299998,AU,Australia,Australia & Oceania
+wan,Wangkumara,-27.3333333333,143.0,AU,Australia,Australia & Oceania
+awe,Arrernte (Western),-24.0,132.5,AU,Australia,Australia & Oceania
+dhr,Dhargari,-23.75,114.916666667,AU,Australia,Australia & Oceania
+dja,Djabugay,-16.75,145.58333333299998,AU,Australia,Australia & Oceania
+ggu,Gureng Gureng,-25.25,151.0,AU,Australia,Australia & Oceania
+mrh,Marrithiyel,-13.833333333299999,130.0,AU,Australia,Australia & Oceania
+djm,Djambarrpuyngu,-12.166666666700001,135.5,AU,Australia,Australia & Oceania
+gnb,Gunbalang,-12.0,134.0,AU,Australia,Australia & Oceania
+iwa,Iwaidja,-11.5,132.66666666700002,AU,Australia,Australia & Oceania
+lml,Limilngan,-12.5,131.91666666700002,AU,Australia,Australia & Oceania
+mer,Meryam Mir,-9.916666666669999,144.08333333299998,AU,Australia,Australia & Oceania
+thy,Kuuk Thaayorre,-14.583333333299999,141.83333333299998,AU,Australia,Australia & Oceania
+gug,Gugada,-30.0,134.0,AU,Australia,Australia & Oceania
+mbb,Mbabaram,-17.1666666667,145.0,AU,Australia,Australia & Oceania
+wrw,Warrwa,-17.5,123.5,AU,Australia,Australia & Oceania
+gid,Gidabal,-28.4166666667,152.41666666700002,AU,Australia,Australia & Oceania
+mdm,Madimadi,-34.5,143.5,AU,Australia,Australia & Oceania
+ngn,Ngandi,-13.833333333299999,135.0,AU,Australia,Australia & Oceania
+agt,Anguthimri,-12.333333333299999,141.83333333299998,AU,Australia,Australia & Oceania
+bdm,Badimaya,-27.6666666667,118.0,AU,Australia,Australia & Oceania
+jam,Jaminjung,-15.083333333299999,130.5,AU,Australia,Australia & Oceania
+lar,Laragia,-12.666666666700001,130.83333333299998,AU,Australia,Australia & Oceania
+nha,Nhanda,-27.0,114.166666667,AU,Australia,Australia & Oceania
+rit,Ritharngu,-12.833333333299999,135.5,AU,Australia,Australia & Oceania
+mrw,Muruwari,-28.75,147.0,AU,Australia,Australia & Oceania
+wrn,Warndarang,-14.416666666700001,135.58333333299998,AU,Australia,Australia & Oceania
+bii,Biri,-20.5,146.5,AU,Australia,Australia & Oceania
+ntj,Ngaanyatjarra,-26.0,126.5,AU,Australia,Australia & Oceania
+yng,Yingkarta,-25.1666666667,114.833333333,AU,Australia,Australia & Oceania
+mny,Margany,-27.0,144.5,AU,Australia,Australia & Oceania
+wat,Watjarri,-26.0,117.5,AU,Australia,Australia & Oceania
+yny,Yanyuwa,-16.4166666667,137.16666666700002,AU,Australia,Australia & Oceania
+abn,Arabana,-28.25,136.25,AU,Australia,Australia & Oceania
+bnj,Bandjalang,-28.75,153.0,AU,Australia,Australia & Oceania
+ndj,Ndjébbana,-12.166666666700001,134.116666667,AU,Australia,Australia & Oceania
+nyu,Nyulnyul,-17.0,122.833333333,AU,Australia,Australia & Oceania
+pkn,Paakantyi,-32.5,142.5,AU,Australia,Australia & Oceania
+pny,Panyjima,-22.8333333333,118.416666667,AU,Australia,Australia & Oceania
+bua,Burarra,-12.25,134.58333333299998,AU,Australia,Australia & Oceania
+knc,Kugu Nganhcara,-14.416666666700001,142.0,AU,Australia,Australia & Oceania
+mra,Mara,-15.0,135.16666666700002,AU,Australia,Australia & Oceania
+ngk,Ngankikurungkurr,-14.0,130.5,AU,Australia,Australia & Oceania
+wry,Waray (in Australia),-13.166666666700001,131.25,AU,Australia,Australia & Oceania
+wrg,Warrgamay,-18.5833333333,146.08333333299998,AU,Australia,Australia & Oceania
+wmu,Wik Munkan,-13.916666666700001,141.75,AU,Australia,Australia & Oceania
+yin,Yindjibarndi,-21.75,117.916666667,AU,Australia,Australia & Oceania
+wem,Wembawemba,-35.3333333333,144.0,AU,Australia,Australia & Oceania
+yuw,Yuwaalaraay,-29.5,148.0,AU,Australia,Australia & Oceania
+djr,Djaru,-18.75,128.0,AU,Australia,Australia & Oceania
+dji,Djingili,-17.75,134.0,AU,Australia,Australia & Oceania
+ppi,Pitta Pitta,-22.8333333333,140.0,AU,Australia,Australia & Oceania
+wrl,Warlpiri,-20.0,132.33333333299998,AU,Australia,Australia & Oceania
+gum,Gumbaynggir,-30.1666666667,152.5,AU,Australia,Australia & Oceania
+aly,Alyawarra,-22.5,135.0,AU,Australia,Australia & Oceania
+mpa,Murrinh-Patha,-14.666666666700001,129.66666666700002,AU,Australia,Australia & Oceania
+yuk,Yukulta,-17.3333333333,138.83333333299998,AU,Australia,Australia & Oceania
+kya,Kuku-Yalanji,-16.0,145.0,AU,Australia,Australia & Oceania
+alw,Alawa,-15.166666666700001,134.25,AU,Australia,Australia & Oceania
+bbw,Bininj Gun-Wok,-12.5,133.75,AU,Australia,Australia & Oceania
+grr,Garrwa,-17.0833333333,137.16666666700002,AU,Australia,Australia & Oceania
+kgu,Kalkatungu,-21.0,139.5,AU,Australia,Australia & Oceania
+uhi,Uradhi,-11.916666666700001,142.41666666700002,AU,Australia,Australia & Oceania
+guu,Guugu Yimidhirr,-15.0,144.83333333299998,AU,Australia,Australia & Oceania
+djp,Djapu,-12.666666666700001,136.0,AU,Australia,Australia & Oceania
+mlk,Malakmalak,-13.416666666700001,130.41666666700002,AU,Australia,Australia & Oceania
+ngl,Ngalakan,-14.25,134.0,AU,Australia,Australia & Oceania
+amp,Arrernte (Mparntwe),-24.0,136.0,AU,Australia,Australia & Oceania
+diy,Diyari,-28.0,139.0,AU,Australia,Australia & Oceania
+dyi,Dyirbal,-17.8333333333,145.58333333299998,AU,Australia,Australia & Oceania
+wam,Wambaya,-18.6666666667,135.75,AU,Australia,Australia & Oceania
+mku,Maranungku,-13.666666666700001,130.0,AU,Australia,Australia & Oceania
+pit,Pitjantjatjara,-26.0,130.0,AU,Australia,Australia & Oceania
+wrd,Wardaman,-15.5,131.0,AU,Australia,Australia & Oceania
+ung,Ungarinjin,-16.3333333333,126.0,AU,Australia,Australia & Oceania
+yid,Yidiny,-17.0,145.75,AU,Australia,Australia & Oceania
+nug,Nunggubuyu,-13.75,135.66666666700002,AU,Australia,Australia & Oceania
+mau,Maung,-11.916666666700001,133.5,AU,Australia,Australia & Oceania
+goo,Gooniyandi,-18.3333333333,126.333333333,AU,Australia,Australia & Oceania
+mrt,Martuthunira,-20.8333333333,116.5,AU,Australia,Australia & Oceania
+ngi,Ngiyambaa,-31.75,145.5,AU,Australia,Australia & Oceania
+myi,Mangarrayi,-14.666666666700001,133.5,AU,Australia,Australia & Oceania
+tiw,Tiwi,-11.5,131.0,AU,Australia,Australia & Oceania
+kay,Kayardild,-17.05,139.5,AU,Australia,Australia & Oceania
+bly,Balyku,-22.0,120.0,AU,Australia,Australia & Oceania
+bxj,Bayungu,-23.0,114.0,AU,Australia,Australia & Oceania
+dhl,Dhalandji,-22.08,115.0,AU,Australia,Australia & Oceania
+ggd,Gugadj,-18.5,140.5,AU,Australia,Australia & Oceania
+guf,Gupapuyngu,-12.0,136.0,AU,Australia,Australia & Oceania
+vka,Kariera,-20.5,118.5,AU,Australia,Australia & Oceania
+kyt,Kaytej,-21.0,134.0,AU,Australia,Australia & Oceania
+lnj,Linngithig,-12.5,142.83,AU,Australia,Australia & Oceania
+mrj,Mirniny,-31.0,129.0,AU,Australia,Australia & Oceania
+nlr,Ngarla,-20.0,119.0,AU,Australia,Australia & Oceania
+nly,Nyamal,-21.0,119.0,AU,Australia,Australia & Oceania
+ump,Umpila,-13.5,143.5,AU,Australia,Australia & Oceania
+wkw,Wagawaga,-26.5,152.5,AU,Australia,Australia & Oceania
+wgg,Wangkangurru,-27.0,137.0,AU,Australia,Australia & Oceania
+wbt,Wanman,-22.0,123.0,AU,Australia,Australia & Oceania
+wru,Warumungu,-19.5,134.5,AU,Australia,Australia & Oceania
+ylr,Yalarnnga,-22.0,140.0,AU,Australia,Australia & Oceania
+inn,Innamincka,-27.75,140.75,AU,Australia,Australia & Oceania
+awk,Akwa,10.0833333333,6.333333333330001,NG,Nigeria,Africa
+arn,Arabic (Borno Nigerian),8.583333333330001,12.416666666700001,NG,Nigeria,Africa
+bpa,Bura-Pabir,10.5,12.25,NG,Nigeria,Africa
+ets,Etsako,7.25,6.5,NG,Nigeria,Africa
+gho,Ghotuo,7.083333333330001,5.75,NG,Nigeria,Africa
+ibi,Ibibio,5.25,7.833333333330001,NG,Nigeria,Africa
+kgm,Kagoma,9.25,8.166666666669999,NG,Nigeria,Africa
+mdz,Mada (in Nigeria),8.75,8.25,NG,Nigeria,Africa
+ora,Emai,7.083333333330001,5.916666666669999,NG,Nigeria,Africa
+urh,Urhobo,5.583333333330001,6.0,NG,Nigeria,Africa
+bad,Bade,12.833333333299999,10.5,NG,Nigeria,Africa
+klb,Kilba,10.3333333333,13.166666666700001,NG,Nigeria,Africa
+blq,Bole,11.333333333299999,11.25,NG,Nigeria,Africa
+def,Defaka,4.58333333333,7.5,NG,Nigeria,Africa
+gad,Gade,8.666666666669999,7.416666666669999,NG,Nigeria,Africa
+gdf,Guduf,11.2333333333,13.8,NG,Nigeria,Africa
+ise,Isekiri,5.666666666669999,5.5,NG,Nigeria,Africa
+npi,Nigerian Pidgin,6.5,3.33333333333,NG,Nigeria,Africa
+hdi,Hdi,11.8666666667,13.7166666667,NG,Nigeria,Africa
+bok,Boko,10.5,3.5,NG,Nigeria,Africa
+kwm,Kwami,10.4166666667,11.0,NG,Nigeria,Africa
+nke,Nkem,6.583333333330001,8.583333333330001,NG,Nigeria,Africa
+tan,Tangale,9.75,11.333333333299999,NG,Nigeria,Africa
+ebi,Ebira,8.166666666669999,7.0,NG,Nigeria,Africa
+kbu,Kanembu,14.0,15.0,NG,Nigeria,Africa
+gwo,Gworok,9.916666666669999,8.166666666669999,NG,Nigeria,Africa
+brb,Bariba,10.0,2.5,NG,Nigeria,Africa
+gnd,Ga'anda,10.3333333333,12.583333333299999,NG,Nigeria,Africa
+ido,Idoma,6.916666666669999,7.5,NG,Nigeria,Africa
+koh,Kohumono,6.0,8.11666666667,NG,Nigeria,Africa
+tiv,Tiv,7.5,9.0,NG,Nigeria,Africa
+iso,Isoko,5.5,6.25,NG,Nigeria,Africa
+kpa,Kpan,7.583333333330001,10.1666666667,NG,Nigeria,Africa
+ogb,Ogbia,4.66666666667,6.25,NG,Nigeria,Africa
+tok,Tarok,9.0,10.0833333333,NG,Nigeria,Africa
+ron,Ron,9.0,8.75,NG,Nigeria,Africa
+ige,Igede,7.0,8.166666666669999,NG,Nigeria,Africa
+bni,Bini,6.416666666669999,5.833333333330001,NG,Nigeria,Africa
+deg,Degema,4.75,6.75,NG,Nigeria,Africa
+sle,Samba Leko,8.5,12.5,NG,Nigeria,Africa
+eja,Ejagham,5.416666666669999,8.666666666669999,NG,Nigeria,Africa
+bus,Busa,9.666666666669999,4.0,NG,Nigeria,Africa
+jar,Jarawa (in Nigeria),9.5,10.5,NG,Nigeria,Africa
+mla,Mambila,6.75,11.5,NG,Nigeria,Africa
+goe,Goemai,8.666666666669999,9.75,NG,Nigeria,Africa
+paa,Pa'a,11.0,9.25,NG,Nigeria,Africa
+juk,Jukun,6.916666666669999,10.4166666667,NG,Nigeria,Africa
+mlg,Malgwa,11.5,13.75,NG,Nigeria,Africa
+duk,Duka,11.166666666700001,5.08333333333,NG,Nigeria,Africa
+gok,Gokana,4.58333333333,7.333333333330001,NG,Nigeria,Africa
+izi,Izi,6.333333333330001,8.0,NG,Nigeria,Africa
+lmg,Lamang,11.25,13.583333333299999,NG,Nigeria,Africa
+efi,Efik,4.91666666667,8.5,NG,Nigeria,Africa
+obg,Ogbronuagum,4.75,6.86666666667,NG,Nigeria,Africa
+amo,Amo,10.3333333333,8.666666666669999,NG,Nigeria,Africa
+nup,Nupe,9.166666666669999,5.416666666669999,NG,Nigeria,Africa
+bud,Buduma,13.5,14.5,NG,Nigeria,Africa
+egn,Engenni,5.16666666667,6.38333333333,NG,Nigeria,Africa
+obo,Obolo,4.58333333333,7.833333333330001,NG,Nigeria,Africa
+anc,Angas,9.5,9.5,NG,Nigeria,Africa
+gud,Gude,10.4166666667,13.416666666700001,NG,Nigeria,Africa
+gwa,Gwari,9.5,7.0,NG,Nigeria,Africa
+kan,Kana,4.75,7.416666666669999,NG,Nigeria,Africa
+per,Pero,9.583333333330001,11.0,NG,Nigeria,Africa
+fye,Fyem,9.583333333330001,9.333333333330001,NG,Nigeria,Africa
+bir,Birom,9.666666666669999,8.833333333330001,NG,Nigeria,Africa
+knk,Kanakuru,10.0,12.0,NG,Nigeria,Africa
+fni,Fulfulde (Nigerian),10.25,11.25,NG,Nigeria,Africa
+mum,Mumuye,9.0,11.666666666700001,NG,Nigeria,Africa
+ter,Tera,11.0,11.833333333299999,NG,Nigeria,Africa
+mup,Mupun,9.5,8.833333333330001,NG,Nigeria,Africa
+miy,Miya,10.916666666700001,9.666666666669999,NG,Nigeria,Africa
+ngz,Ngizim,12.083333333299999,10.916666666700001,NG,Nigeria,Africa
+ijo,Ijo (Kolokuma),4.91666666667,5.666666666669999,NG,Nigeria,Africa
+mrg,Margi,11.0,13.0,NG,Nigeria,Africa
+igb,Igbo,6.0,7.333333333330001,NG,Nigeria,Africa
+knr,Kanuri,12.0,13.0,NG,Nigeria,Africa
+yor,Yoruba,8.0,4.33333333333,NG,Nigeria,Africa
+hau,Hausa,12.0,7.0,NG,Nigeria,Africa
+agb,Leggbó,6.0,8.0,NG,Nigeria,Africa
+gdf,Guduf,11.2333333333,13.8,CM,Cameroon,Africa
+hdi,Hdi,11.8666666667,13.7166666667,CM,Cameroon,Africa
+sle,Samba Leko,8.5,12.5,CM,Cameroon,Africa
+eja,Ejagham,5.416666666669999,8.666666666669999,CM,Cameroon,Africa
+mla,Mambila,6.75,11.5,CM,Cameroon,Africa
+bud,Buduma,13.5,14.5,CM,Cameroon,Africa
+gud,Gude,10.4166666667,13.416666666700001,CM,Cameroon,Africa
+buj,Bujeba,3.0,10.1666666667,CM,Cameroon,Africa
+gbk,Gbaya (Northwest),6.0,15.0,CM,Cameroon,Africa
+mbm,Mbum,7.75,13.166666666700001,CM,Cameroon,Africa
+tpr,Tupuri,10.1666666667,14.75,CM,Cameroon,Africa
+klk,Koh (Lakka),8.0,15.5,CM,Cameroon,Africa
+lam,Lamé,9.0,14.5,CM,Cameroon,Africa
+mas,Masa,10.5,15.5,CM,Cameroon,Africa
+mgu,Musgu,10.833333333299999,14.916666666700001,CM,Cameroon,Africa
+ngm,Ngambay,8.666666666669999,16.0,CM,Cameroon,Africa
+bmn,Bamun,5.5,10.916666666700001,CM,Cameroon,Africa
+ban,Bana,10.4166666667,13.583333333299999,CM,Cameroon,Africa
+gdr,Gidar,10.0,14.0,CM,Cameroon,Africa
+giz,Giziga,10.3333333333,14.166666666700001,CM,Cameroon,Africa
+kou,Kom,6.25,10.3333333333,CM,Cameroon,Africa
+lns,Lamnso',6.166666666669999,10.75,CM,Cameroon,Africa
+mbz,Mbe',6.283333333330001,11.083333333299999,CM,Cameroon,Africa
+nge,Ngemba,6.2,10.0,CM,Cameroon,Africa
+oku,Oku,6.25,10.5,CM,Cameroon,Africa
+ygd,Dii,8.0,14.0,CM,Cameroon,Africa
+yba,Yamba,6.416666666669999,11.083333333299999,CM,Cameroon,Africa
+yem,Yemba,5.416666666669999,10.0833333333,CM,Cameroon,Africa
+kyg,Kenyang,5.666666666669999,9.5,CM,Cameroon,Africa
+bkn,Bakundu,4.83333333333,9.333333333330001,CM,Cameroon,Africa
+buw,Bulu,3.0,11.0,CM,Cameroon,Africa
+dab,Daba,10.1666666667,13.75,CM,Cameroon,Africa
+gun,Gunu,4.58333333333,11.25,CM,Cameroon,Africa
+mkz,Makaa,3.41666666667,12.25,CM,Cameroon,Africa
+tki,Tuki,4.58333333333,11.5,CM,Cameroon,Africa
+mud,Mundani,5.666666666669999,9.916666666669999,CM,Cameroon,Africa
+mda,Mada (in Cameroon),10.833333333299999,14.166666666700001,CM,Cameroon,Africa
+bnk,Bankon,4.41666666667,9.583333333330001,CM,Cameroon,Africa
+bfi,Bafia,5.0,11.166666666700001,CM,Cameroon,Africa
+baf,Bafut,6.25,9.916666666669999,CM,Cameroon,Africa
+mgk,Mungaka,5.916666666669999,10.0,CM,Cameroon,Africa
+bas,Basaá,3.91666666667,10.5,CM,Cameroon,Africa
+fef,Fe'fe',5.25,10.1666666667,CM,Cameroon,Africa
+tik,Tikar,5.833333333330001,11.666666666700001,CM,Cameroon,Africa
+bku,Bakueri,4.25,9.25,CM,Cameroon,Africa
+agh,Aghem,6.666666666669999,10.0,CM,Cameroon,Africa
+ldo,Londo,5.0,9.166666666669999,CM,Cameroon,Africa
+mof,Mofu-Gudur,10.5,14.0,CM,Cameroon,Africa
+dua,Duala,4.0,9.416666666669999,CM,Cameroon,Africa
+pod,Podoko,11.0,14.083333333299999,CM,Cameroon,Africa
+mbi,Mbili,6.11666666667,10.2,CM,Cameroon,Africa
+lag,Lagwan,11.5,14.833333333299999,CM,Cameroon,Africa
+uld,Uldeme,10.95,14.1166666667,CM,Cameroon,Africa
+bak,Baka (in Cameroon),2.58333333333,13.583333333299999,CM,Cameroon,Africa
+tnn,Tunen,4.75,10.6666666667,CM,Cameroon,Africa
+fua,Fulfulde (Adamawa),9.166666666669999,13.5,CM,Cameroon,Africa
+non,Noni,6.416666666669999,10.5833333333,CM,Cameroon,Africa
+ewo,Ewondo,4.0,12.0,CM,Cameroon,Africa
+bab,Babungo,6.11666666667,10.4166666667,CM,Cameroon,Africa
+doy,Doyayo,8.666666666669999,13.083333333299999,CM,Cameroon,Africa
+mkq,Mankon,6.0,10.1666666667,CM,Cameroon,Africa
+hna,Mina,10.3333333333,13.833333333299999,CM,Cameroon,Africa
+bok,Boko,10.5,3.5,BJ,Benin,Africa
+brb,Bariba,10.0,2.5,BJ,Benin,Africa
+yor,Yoruba,8.0,4.33333333333,BJ,Benin,Africa
+anu,Anufo,10.0833333333,0.25,BJ,Benin,Africa
+tem,Tem,8.666666666669999,0.5,BJ,Benin,Africa
+wmn,Wéménugbé,6.666666666669999,2.5,BJ,Benin,Africa
+ntn,Nateni,10.5,1.16666666667,BJ,Benin,Africa
+fon,Fongbe,6.416666666669999,2.16666666667,BJ,Benin,Africa
+wwa,Waama,10.5833333333,1.6666666666699999,BJ,Benin,Africa
+ajg,Ajagbe,7.0,1.75,BJ,Benin,Africa
+guw,Gungbe,6.5,2.5,BJ,Benin,Africa
+kbu,Kanembu,14.0,15.0,TD,Chad,Africa
+bud,Buduma,13.5,14.5,TD,Chad,Africa
+knr,Kanuri,12.0,13.0,TD,Chad,Africa
+run,Runga,10.3333333333,21.0,TD,Chad,Africa
+mbm,Mbum,7.75,13.166666666700001,TD,Chad,Africa
+ksp,Kosop,9.916666666669999,15.916666666700001,TD,Chad,Africa
+tmk,Tumak,9.5,17.3333333333,TD,Chad,Africa
+abb,Arabic (Chadian),13.833333333299999,20.8333333333,TD,Chad,Africa
+gir,Gula Iro,10.25,19.4166666667,TD,Chad,Africa
+mig,Migama,12.166666666700001,19.8333333333,TD,Chad,Africa
+mko,Mokilko,11.916666666700001,18.0833333333,TD,Chad,Africa
+tpr,Tupuri,10.1666666667,14.75,TD,Chad,Africa
+klk,Koh (Lakka),8.0,15.5,TD,Chad,Africa
+mii,Miisiirii,13.5,22.0,TD,Chad,Africa
+sug,Sungor,13.75,21.5,TD,Chad,Africa
+sil,Sila,12.333333333299999,21.75,TD,Chad,Africa
+dnw,Dangaléat (Western),12.166666666700001,18.3333333333,TD,Chad,Africa
+lam,Lamé,9.0,14.5,TD,Chad,Africa
+lua,Lua,9.75,17.75,TD,Chad,Africa
+day,Day,8.75,17.8333333333,TD,Chad,Africa
+mdg,Mundang,9.666666666669999,14.5,TD,Chad,Africa
+bid,Bidiya,11.916666666700001,18.75,TD,Chad,Africa
+ken,Kenga,12.0,18.0,TD,Chad,Africa
+mas,Masa,10.5,15.5,TD,Chad,Africa
+laa,Laal,10.0,17.6666666667,TD,Chad,Africa
+mbr,Mbara,11.0,15.416666666700001,TD,Chad,Africa
+tma,Tama,14.5,22.0,TD,Chad,Africa
+mgu,Musgu,10.833333333299999,14.916666666700001,TD,Chad,Africa
+ngm,Ngambay,8.666666666669999,16.0,TD,Chad,Africa
+tbu,Tubu,16.0,15.0,TD,Chad,Africa
+msl,Masalit,13.333333333299999,22.0,TD,Chad,Africa
+mby,Mbay,8.25,17.5,TD,Chad,Africa
+lel,Lele,9.083333333330001,15.583333333299999,TD,Chad,Africa
+mab,Maba,13.75,20.8333333333,TD,Chad,Africa
+ker,Kera,9.833333333330001,15.083333333299999,TD,Chad,Africa
+bag,Bagirmi,11.666666666700001,16.0,TD,Chad,Africa
+mmi,Mambai,9.666666666669999,14.0,TD,Chad,Africa
+zag,Beria,16.0,23.0,TD,Chad,Africa
+mgq,Mango,8.75,17.0,TD,Chad,Africa
+kbu,Kanembu,14.0,15.0,NE,Niger,Africa
+knr,Kanuri,12.0,13.0,NE,Niger,Africa
+hau,Hausa,12.0,7.0,NE,Niger,Africa
+kse,Koyraboro Senni,16.0,0.0,NE,Niger,Africa
+tbu,Tubu,16.0,15.0,NE,Niger,Africa
+tug,Tuareg (Ahaggar),23.0,6.0,NE,Niger,Africa
+tai,Tuareg (Air),19.0,9.0,NE,Niger,Africa
+zar,Zarma,13.833333333299999,2.16666666667,NE,Niger,Africa
+knr,Kanuri,12.0,13.0,SD,Sudan,Africa
+ams,Arabic (Modern Standard),25.0,42.0,SD,Sudan,Africa
+mii,Miisiirii,13.5,22.0,SD,Sudan,Africa
+tma,Tama,14.5,22.0,SD,Sudan,Africa
+msl,Masalit,13.333333333299999,22.0,SD,Sudan,Africa
+nob,Nobiin,21.0,31.0,SD,Sudan,Africa
+gmz,Gumuz,12.5,35.8333333333,SD,Sudan,Africa
+ber,Berta,10.3333333333,34.6666666667,SD,Sudan,Africa
+bej,Beja,18.0,36.0,SD,Sudan,Africa
+otr,Otoro,11.166666666700001,30.5,SD,Sudan,Africa
+laf,Lafofa,10.25,31.25,SD,Sudan,Africa
+nbh,Ghulfan,12.0,31.0,SD,Sudan,Africa
+mid,Midob,15.083333333299999,26.25,SD,Sudan,Africa
+ddf,Daju (Dar Fur),12.25,25.25,SD,Sudan,Africa
+jom,Jomang,10.5833333333,30.5,SD,Sudan,Africa
+ktc,Katcha,10.833333333299999,29.6666666667,SD,Sudan,Africa
+ras,Rashad,11.833333333299999,31.05,SD,Sudan,Africa
+msk,Masakin,10.6666666667,30.0,SD,Sudan,Africa
+sht,Shatt,10.833333333299999,30.0,SD,Sudan,Africa
+ori,Orig,12.166666666700001,30.8333333333,SD,Sudan,Africa
+kad,Kadugli,11.0,29.6666666667,SD,Sudan,Africa
+ktl,Katla,11.833333333299999,29.3333333333,SD,Sudan,Africa
+tmn,Temein,11.916666666700001,29.4166666667,SD,Sudan,Africa
+nyi,Nyimang,12.166666666700001,29.3333333333,SD,Sudan,Africa
+igs,Ingessana,11.5,34.0,SD,Sudan,Africa
+mro,Moro,11.0,30.1666666667,SD,Sudan,Africa
+fur,Fur,13.5,25.0,SD,Sudan,Africa
+nbd,Nubian (Dongolese),18.25,30.75,SD,Sudan,Africa
+kro,Krongo,10.5,30.0,SD,Sudan,Africa
+tia,Tima,11.666666666700001,29.25,SD,Sudan,Africa
+zag,Beria,16.0,23.0,SD,Sudan,Africa
+tgl,Tshangla,27.8333333333,92.1666666667,BT,Bhutan,Asia
+lim,Limbu,27.1666666667,87.75,BT,Bhutan,Asia
+lep,Lepcha,27.1666666667,88.5,BT,Bhutan,Asia
+tgl,Tshangla,27.8333333333,92.1666666667,IN,India,Asia
+lim,Limbu,27.1666666667,87.75,IN,India,Asia
+lep,Lepcha,27.1666666667,88.5,IN,India,Asia
+bkt,Brokskat,35.3333333333,76.5,IN,India,Asia
+sdh,Sindhi,26.0,69.0,IN,India,Asia
+blt,Balti,35.0,76.0,IN,India,Asia
+pan,Panjabi,31.0,74.0,IN,India,Asia
+kas,Kashmiri,34.0,76.0,IN,India,Asia
+khg,Khaling,27.5,86.6666666667,IN,India,Asia
+miz,Mizo,23.1666666667,92.8333333333,IN,India,Asia
+ben,Bengali,24.0,90.0,IN,India,Asia
+baw,Bawm,22.5,92.25,IN,India,Asia
+apk,A-Pucikwar,12.166666666700001,92.8333333333,IN,India,Asia
+akb,Aka-Biada,11.666666666700001,92.5,IN,India,Asia
+akc,Aka-Cari,13.5,93.0,IN,India,Asia
+akk,Aka-Kede,12.75,92.75,IN,India,Asia
+bdg,Badaga,11.666666666700001,76.75,IN,India,Asia
+bgi,Bagri,29.5833333333,74.3333333333,IN,India,Asia
+dgi,Dogri,33.0,75.0,IN,India,Asia
+kbi,Kabui,24.8333333333,94.0,IN,India,Asia
+nic,Nicobarese,7.0,93.8333333333,IN,India,Asia
+pte,Paite,24.0,93.1666666667,IN,India,Asia
+tsp,Tamil (Spoken),11.0,78.0,IN,India,Asia
+tod,Tod,32.4166666667,77.25,IN,India,Asia
+ipi,Indo-Pakistani Sign Language (Indian dialects),24.0,80.0,IN,India,Asia
+jun,Juang,21.3333333333,86.0,IN,India,Asia
+mij,Miju,29.0,96.0,IN,India,Asia
+npn,Naga Pidgin,25.6666666667,94.0,IN,India,Asia
+oko,Oriya (Kotia),18.3333333333,83.0,IN,India,Asia
+pen,Pengo,19.8333333333,83.8333333333,IN,India,Asia
+shd,Sherdukpen,27.0,92.5,IN,India,Asia
+tda,Toda,11.416666666700001,76.75,IN,India,Asia
+goj,Gojri,32.75,76.25,IN,India,Asia
+kda,Konda,19.5,83.0,IN,India,Asia
+awd,Awadhi,27.5,81.5,IN,India,Asia
+bhi,Bhili,22.0,73.0,IN,India,Asia
+hlb,Halbi,21.0,81.0,IN,India,Asia
+kkz,Kokni,20.75,73.5,IN,India,Asia
+mwc,Mawchi,21.3333333333,73.6666666667,IN,India,Asia
+vas,Vasavi,24.5,71.5,IN,India,Asia
+boq,Bokar,28.5,94.6666666667,IN,India,Asia
+gdb,Gutob,19.0,83.6666666667,IN,India,Asia
+mil,Milang,28.5,95.25,IN,India,Asia
+prd,Parji (Dravidian),19.5,82.5,IN,India,Asia
+slg,Sulung,28.3333333333,93.25,IN,India,Asia
+jrw,Jarawa (in Andamans),12.0,92.5833333333,IN,India,Asia
+thd,Thadou,24.4166666667,93.9166666667,IN,India,Asia
+jad,Jad,30.8333333333,79.0,IN,India,Asia
+mgh,Magahi,23.5,85.5,IN,India,Asia
+mrc,Marchha,30.25,79.5833333333,IN,India,Asia
+chd,Chaudangsi,30.0,80.25,IN,India,Asia
+ghr,Bunan,32.5,77.0,IN,India,Asia
+bhu,Bhumij,21.3333333333,86.5,IN,India,Asia
+boj,Bori,28.3333333333,94.75,IN,India,Asia
+joh,Johari,30.6666666667,80.0,IN,India,Asia
+bgn,Bugun,27.5,92.5833333333,IN,India,Asia
+jug,Jugli,27.5,96.3333333333,IN,India,Asia
+kui,Kui (in India),20.0,83.5,IN,India,Asia
+mto,Malto,25.0,87.3333333333,IN,India,Asia
+spi,Spitian,32.25,78.0,IN,India,Asia
+deu,Deuri,26.0,90.25,IN,India,Asia
+kod,Kodava,12.166666666700001,76.8333333333,IN,India,Asia
+skw,Shekhawati,28.0,75.5,IN,India,Asia
+tni,Tinani,32.3333333333,77.1666666667,IN,India,Asia
+idu,Idu,29.3333333333,95.8333333333,IN,India,Asia
+lun,Lungchang,27.5,96.4166666667,IN,India,Asia
+nyk,Nyamkad,32.0,78.5,IN,India,Asia
+nah,Nahali,19.75,77.8333333333,IN,India,Asia
+kac,Kachari,26.5,91.0,IN,India,Asia
+kot,Kota,11.5,77.1666666667,IN,India,Asia
+dms,Dimasa,25.5,93.0,IN,India,Asia
+gal,Galo,28.1666666667,94.6666666667,IN,India,Asia
+kkn,Konkani,15.25,74.0,IN,India,Asia
+kum,Kumauni,30.0,80.0,IN,India,Asia
+kur,Kurukh,22.8333333333,85.5,IN,India,Asia
+nze,Naga (Zeme),25.1666666667,93.5,IN,India,Asia
+tao,Tarao,24.25,94.1666666667,IN,India,Asia
+ong,Onge,10.75,92.4166666667,IN,India,Asia
+drm,Darma,30.0,79.75,IN,India,Asia
+oya,Oriya,21.0,85.0,IN,India,Asia
+stl,Santali,24.5,87.0,IN,India,Asia
+ho,Ho,22.0,86.0,IN,India,Asia
+khr,Kharia,22.5,84.3333333333,IN,India,Asia
+knn,Kinnauri,31.5,78.0,IN,India,Asia
+noc,Nocte,27.0,95.5,IN,India,Asia
+hma,Hmar,24.1666666667,93.0,IN,India,Asia
+lot,Lotha,26.5,94.25,IN,India,Asia
+ptt,Pattani,32.75,76.75,IN,India,Asia
+prk,Purki,34.6666666667,76.0,IN,India,Asia
+sor,Sora,20.0,84.3333333333,IN,India,Asia
+ass,Assamese,26.0,93.0,IN,India,Asia
+gon,Gondi,19.0,81.0,IN,India,Asia
+nma,Naga (Mao),25.5,94.3333333333,IN,India,Asia
+apt,Apatani,27.5,93.75,IN,India,Asia
+chg,Chang,26.3333333333,94.75,IN,India,Asia
+cmr,Chin (Mara),23.0,93.1666666667,IN,India,Asia
+gan,Great Andamanese,12.0,92.6666666667,IN,India,Asia
+skk,Sikkimese,27.8333333333,88.5,IN,India,Asia
+bho,Bhojpuri,26.0,84.0,IN,India,Asia
+kok,Kokborok,24.3333333333,92.5,IN,India,Asia
+kuv,Kuvi,18.75,82.6666666667,IN,India,Asia
+msg,Mising,28.5,94.8333333333,IN,India,Asia
+agm,Angami,25.6666666667,94.5,IN,India,Asia
+mik,Mikir,26.3333333333,93.5,IN,India,Asia
+lmn,Lamani,17.0,77.0,IN,India,Asia
+ngt,Naga (Tangkhul),25.0,94.5,IN,India,Asia
+nnc,Nancowry,8.05,93.5,IN,India,Asia
+dig,Digaro,28.4166666667,96.0,IN,India,Asia
+guj,Gujarati,23.0,72.0,IN,India,Asia
+tul,Tulu,12.75,75.3333333333,IN,India,Asia
+sem,Sema,26.0,94.5,IN,India,Asia
+kku,Korku,22.5,78.5,IN,India,Asia
+nis,Nyishi,27.5,93.5,IN,India,Asia
+bya,Byansi,30.1666666667,80.5,IN,India,Asia
+kol,Kolami,20.0,78.5,IN,India,Asia
+bod,Bodo,26.8333333333,92.0,IN,India,Asia
+koy,Koya,17.5,81.3333333333,IN,India,Asia
+rem,Remo,18.0,82.0,IN,India,Asia
+mai,Maithili,26.0,86.0,IN,India,Asia
+ao,Ao,26.5833333333,94.6666666667,IN,India,Asia
+nca,Nicobarese (Car),9.0,93.0,IN,India,Asia
+mym,Malayalam,10.0,76.5,IN,India,Asia
+tel,Telugu,16.0,79.0,IN,India,Asia
+mhi,Marathi,19.0,76.0,IN,India,Asia
+tml,Tamil,11.0,78.5,IN,India,Asia
+lad,Ladakhi,34.0,78.0,IN,India,Asia
+gar,Garo,25.6666666667,90.5,IN,India,Asia
+mun,Mundari,23.0,84.6666666667,IN,India,Asia
+khs,Khasi,25.5,92.0,IN,India,Asia
+mei,Meithei,24.75,94.0,IN,India,Asia
+hin,Hindi,25.0,77.0,IN,India,Asia
+knd,Kannada,14.0,76.0,IN,India,Asia
+gdk,Gadaba (Kondekor),18.75,83.5,IN,India,Asia
+bkb,Betta Kurumba,11.5,76.75,IN,India,Asia
+rji,Raji,28.0,82.75,IN,India,Asia
+xns,Kanashi,32.0833333333,77.25,IN,India,Asia
+tvt,Tutsa,27.5,96.5,IN,India,Asia
+ral,Ralte,23.75,92.75,IN,India,Asia
+mhl,Miri (Hill):,27.9166666667,93.8333333333,IN,India,Asia
+smp,Shompen,7.0,93.75,IN,India,Asia
+lim,Limbu,27.1666666667,87.75,NP,Nepal,Asia
+lep,Lepcha,27.1666666667,88.5,NP,Nepal,Asia
+khg,Khaling,27.5,86.6666666667,NP,Nepal,Asia
+awd,Awadhi,27.5,81.5,NP,Nepal,Asia
+mai,Maithili,26.0,86.0,NP,Nepal,Asia
+brl,Baragaunle,28.8333333333,83.8333333333,NP,Nepal,Asia
+dhm,Dhimal,26.6666666667,87.75,NP,Nepal,Asia
+msy,Magar (Syangja),28.0833333333,83.8333333333,NP,Nepal,Asia
+klg,Kulung,27.5,87.0,NP,Nepal,Asia
+kus,Kusunda,28.0,84.6666666667,NP,Nepal,Asia
+lho,Lhomi,27.6666666667,87.4166666667,NP,Nepal,Asia
+dar,Darai,24.0,84.0,NP,Nepal,Asia
+mag,Magar,28.0,83.0,NP,Nepal,Asia
+thn,Thangmi,27.75,86.0,NP,Nepal,Asia
+cml,Camling,27.0,86.6666666667,NP,Nepal,Asia
+thu,Thulung,27.4166666667,86.5,NP,Nepal,Asia
+she,Sherpa,27.75,86.8333333333,NP,Nepal,Asia
+thk,Thakali,29.0,83.75,NP,Nepal,Asia
+nph,Nar-Phu,28.6666666667,84.25,NP,Nepal,Asia
+nwd,Newar (Dolakha),27.3333333333,86.0,NP,Nepal,Asia
+chn,Chantyal,28.5833333333,83.4166666667,NP,Nepal,Asia
+cpn,Chepang,27.6666666667,84.75,NP,Nepal,Asia
+gur,Gurung,28.3333333333,84.3333333333,NP,Nepal,Asia
+ath,Athpare,27.0,87.3333333333,NP,Nepal,Asia
+dmi,Dumi,27.25,86.6666666667,NP,Nepal,Asia
+hay,Hayu,27.25,86.0,NP,Nepal,Asia
+bel,Belhare,26.9666666667,87.3,NP,Nepal,Asia
+kmh,Kham,28.5,82.75,NP,Nepal,Asia
+new,Newari (Kathmandu),27.6666666667,85.5,NP,Nepal,Asia
+tam,Tamang (Eastern),27.5,85.666666666667,NP,Nepal,Asia
+nep,Nepali,28.0,85.0,NP,Nepal,Asia
+rji,Raji,28.0,82.75,NP,Nepal,Asia
+nmm,Manange,28.5833333333,84.0,NP,Nepal,Asia
+tbx,Tangbe,28.9166666667,83.75,NP,Nepal,Asia
+amt,Amdo (Themchen),38.0,98.0,NP,Nepal,Asia
+rpa,Rang Pas,30.3333333333,79.3333333333,NP,Nepal,Asia
+wme,Wambule,29.25,85.9166666667,NP,Nepal,Asia
+ybi,Yamphu,27.5833333333,87.3333333333,NP,Nepal,Asia
+aci,Achí,15.166666666700001,-90.5,GT,Guatemala,North America
+pcm,Poqomam,14.666666666700001,-90.5,GT,Guatemala,North America
+tec,Tectiteco,15.416666666700001,-92.0833333333,GT,Guatemala,North America
+kea,Kanjobal (Eastern),15.333333333299999,-91.6666666667,GT,Guatemala,North America
+coi,Chortí,14.833333333299999,-89.25,GT,Guatemala,North America
+pkm,Pokomchí,15.416666666700001,-90.5,GT,Guatemala,North America
+kwe,Kanjobal (Western),15.833333333299999,-91.8333333333,GT,Guatemala,North America
+qch,Quiché,15.0,-91.4166666667,GT,Guatemala,North America
+agu,Aguacatec,15.416666666700001,-91.3333333333,GT,Guatemala,North America
+chj,Chuj,15.916666666700001,-91.5833333333,GT,Guatemala,North America
+ixi,Ixil,15.5,-91.0,GT,Guatemala,North America
+itz,Itzaj,17.0,-89.8333333333,GT,Guatemala,North America
+kek,K'ekchí,16.0,-89.8333333333,GT,Guatemala,North America
+cak,Cakchiquel,14.5,-91.0,GT,Guatemala,North America
+grf,Garífuna,15.666666666700001,-88.0,GT,Guatemala,North America
+mam,Mam,15.0,-91.8333333333,GT,Guatemala,North America
+tzu,Tzutujil,14.666666666700001,-91.3333333333,GT,Guatemala,North America
+jak,Jakaltek,15.666666666700001,-91.6666666667,GT,Guatemala,North America
+qum,Sipakapense,15.25,-91.75,GT,Guatemala,North America
+tec,Tectiteco,15.416666666700001,-92.0833333333,MX,Mexico,North America
+cht,Chatino (Nopala),16.0833333333,-97.1666666667,MX,Mexico,North America
+csc,Chinantec (Sochiapan),17.75,-96.6666666667,MX,Mexico,North America
+mxl,Mixtec (Alacatlatzala),17.25,-98.5833333333,MX,Mexico,North America
+nhc,Nahuatl (Central),19.0,-98.25,MX,Mexico,North America
+nhp,Nahuatl (Pochutla),15.75,-96.5,MX,Mexico,North America
+tpc,Tepecano,21.75,-104.75,MX,Mexico,North America
+zpi,Zapotec (Ixtlan),17.25,-96.5,MX,Mexico,North America
+zqr,Zoque (Rayon),17.0833333333,-93.0,MX,Mexico,North America
+ctt,Chatino (Tataltepec),16.1666666667,-97.5833333333,MX,Mexico,North America
+cec,Chicomuceltec,15.5,-92.25,MX,Mexico,North America
+csf,Chinantec (San Felipe Usila),17.9166666667,-96.5,MX,Mexico,North America
+cte,Chinantec (Tepetotutla),17.8333333333,-96.5,MX,Mexico,North America
+cmc,Comecrudo,25.8333333333,-99.0,MX,Mexico,North America
+ctc,Cuicatec,17.8333333333,-96.8333333333,MX,Mexico,North America
+cut,Cuitlatec,17.5,-101.0,MX,Mexico,North America
+ixc,Ixcatec,17.8333333333,-97.1666666667,MX,Mexico,North America
+mth,Mixe (Tlahuitoltepec),17.0833333333,-96.1666666667,MX,Mexico,North America
+mxu,Mixtec (Chayuco),16.4166666667,-97.8333333333,MX,Mexico,North America
+mxz,Mixtec (Coatzospan),18.0833333333,-96.5833333333,MX,Mexico,North America
+mjc,Mixtec (San Juan Colorado),16.5,-98.0,MX,Mexico,North America
+mxg,Mixtec (San Miguel el Grande),17.05,-97.5666666667,MX,Mexico,North America
+mxs,Mixtec (Silacayoapan),17.5,-98.1666666667,MX,Mexico,North America
+nhu,Nahuatl (Huauchinango),20.1666666667,-98.0833333333,MX,Mexico,North America
+nmp,Nahuatl (Milpa Alta),19.25,-99.1666666667,MX,Mexico,North America
+npa,Nahuatl (Pajapan),18.25,-94.75,MX,Mexico,North America
+nhx,Nahuatl (Xalitla),18.0,-99.5,MX,Mexico,North America
+osm,Otomí (Santiago Mexquititlan),20.0833333333,-100.083333333,MX,Mexico,North America
+psv,Popoloca (San Vicente Coyotepec),18.25,-97.8333333333,MX,Mexico,North America
+tos,Totonac (Sierra),19.9166666667,-97.4166666667,MX,Mexico,North America
+trc,Trique (Chicahuaxtla),17.1666666667,-97.8333333333,MX,Mexico,North America
+tub,Tubar,27.0,-108.0,MX,Mexico,North America
+tze,Tzeltal,16.8333333333,-92.25,MX,Mexico,North America
+tzt,Tzeltal (Tenejapa),16.6666666667,-92.3333333333,MX,Mexico,North America
+zaj,Zapotec (Juárez),17.5,-96.5833333333,MX,Mexico,North America
+zam,Zapotec (Mixtepec),16.3333333333,-96.3333333333,MX,Mexico,North America
+zzo,Zapotec (Zoogocho),17.25,-96.25,MX,Mexico,North America
+zfl,Zoque (Francisco León),17.3333333333,-93.25,MX,Mexico,North America
+myo,Mayo,26.0,-108.0,MX,Mexico,North America
+mxt,Mixtec (Ayutla),16.9166666667,-99.1666666667,MX,Mexico,North America
+mja,Mixtec (Jamiltepec),16.25,-97.8333333333,MX,Mexico,North America
+nsz,Nahuatl (Sierra de Zacapoaxtla),19.5833333333,-97.3333333333,MX,Mexico,North America
+ots,Otomí (Sierra),20.6666666667,-98.8333333333,MX,Mexico,North America
+say,Sayula Popoluca,17.8333333333,-95.0,MX,Mexico,North America
+zte,Zapotec (Texmelucan),16.5,-97.1666666667,MX,Mexico,North America
+col,Chol,17.75,-92.5,MX,Mexico,North America
+olu,Olutec,17.95,-95.0,MX,Mexico,North America
+zaq,Zapotec (Quiegolani),16.1666666667,-96.0833333333,MX,Mexico,North America
+nmi,Nahuatl (Mecayapan Isthmus),18.25,-94.8333333333,MX,Mexico,North America
+pop,Popoloca (Metzontla),18.1666666667,-97.5,MX,Mexico,North America
+mxa,Mixtec (Atatlahuca),17.0,-97.75,MX,Mexico,North America
+zsq,Zapotec (San Lucas Quiaviní),16.9,-96.46666666670001,MX,Mexico,North America
+cch,Chocho,17.6666666667,-97.4166666667,MX,Mexico,North America
+oix,Otomí (Ixtenco),19.0833333333,-97.9166666667,MX,Mexico,North America
+toj,Tojolabal,16.3333333333,-91.5,MX,Mexico,North America
+zqo,Zoque (Ostuacan),17.4166666667,-93.3,MX,Mexico,North America
+cjo,Chichimeca-Jonaz,21.6666666667,-100.5,MX,Mexico,North America
+cho,Chontal (Highland),16.25,-95.75,MX,Mexico,North America
+mxm,Mixtec (Molinos),17.0,-97.5833333333,MX,Mexico,North America
+coa,Coahuilteco,28.0,-100.0,MX,Mexico,North America
+psj,Popoloca (San Juan Atzingo),18.1666666667,-96.4166666667,MX,Mexico,North America
+tza,Tzeltal (Aguacatenango),16.4166666667,-92.5,MX,Mexico,North America
+pam,Pame,22.0,-99.5,MX,Mexico,North America
+mtp,Mixe (Totontepec),17.25,-96.0,MX,Mexico,North America
+mzh,Mazatec (Huautla),18.25,-96.8333333333,MX,Mexico,North America
+zqs,Popoluca (Sierra),18.3333333333,-95.1666666667,MX,Mexico,North America
+lac,Lacandón,17.0,-91.5,MX,Mexico,North America
+amz,Amuzgo,16.8333333333,-98.0,MX,Mexico,North America
+maz,Mazahua,19.4166666667,-99.9166666667,MX,Mexico,North America
+tpa,Totonac (Papantla),20.3333333333,-97.3333333333,MX,Mexico,North America
+chx,Chontal (Huamelultec Oaxaca),16.0,-95.75,MX,Mexico,North America
+mco,Mixe (Coatlán),16.9166666667,-95.6666666667,MX,Mexico,North America
+zya,Zapotec (Yatzachi),17.2,-96.2,MX,Mexico,North America
+klw,Kiliwa,31.3333333333,-115.666666667,MX,Mexico,North America
+mxj,Mixtec (Jicaltepec),16.3333333333,-98.0,MX,Mexico,North America
+mxy,Mixtec (Yosondúa),16.9166666667,-97.5833333333,MX,Mexico,North America
+eud,Eudeve,29.1666666667,-109.666666667,MX,Mexico,North America
+cya,Chatino (Yaitepec),16.25,-97.25,MX,Mexico,North America
+nhm,Nahuatl (Michoacán),18.5,-103.0,MX,Mexico,North America
+yct,Yucatec,20.0,-89.0,MX,Mexico,North America
+grj,Guarijío,27.75,-108.666666667,MX,Mexico,North America
+nhh,Nahuatl (Huasteca),22.0,-99.0,MX,Mexico,North America
+nev,Nevome,31.0,-112.5,MX,Mexico,North America
+ocu,Ocuilteco,18.9166666667,-99.6666666667,MX,Mexico,North America
+zch,Zoque (Chimalapa),16.75,-94.75,MX,Mexico,North America
+hui,Huichol,22.0,-104.0,MX,Mexico,North America
+zap,Zapotec (Mitla),16.8,-96.25,MX,Mexico,North America
+mxo,Mixtec (Ocotepec),17.1666666667,-97.75,MX,Mexico,North America
+pba,Pima Bajo,29.0,-111.0,MX,Mexico,North America
+tce,Tarahumara (Central),27.5,-107.5,MX,Mexico,North America
+tep,Tepehua (Tlachichilco),20.5833333333,-98.25,MX,Mexico,North America
+tzo,Tzotzil,16.5,-92.6666666667,MX,Mexico,North America
+cpl,Chinantec (Palantla),18.8333333333,-96.75,MX,Mexico,North America
+mzc,Mazatec (Chiquihuitlán),17.75,-96.9166666667,MX,Mexico,North America
+tps,Tepehuan (Southeastern),23.0,-104.5,MX,Mexico,North America
+cmy,Chontal Maya,18.1666666667,-92.5833333333,MX,Mexico,North America
+twe,Tarahumara (Western),27.5,-108.0,MX,Mexico,North America
+tot,Totonac (Misantla),19.9166666667,-96.9166666667,MX,Mexico,North America
+zai,Zapotec (Isthmus),16.416667,-95.0,MX,Mexico,North America
+cor,Cora,22.1666666667,-104.833333333,MX,Mexico,North America
+txj,Totonac (Xicotepec de Juárez),20.4166666667,-97.8333333333,MX,Mexico,North America
+tri,Trique (Copala),17.1666666667,-97.9166666667,MX,Mexico,North America
+ccm,Chinantec (Comaltepec),17.5833333333,-96.4166666667,MX,Mexico,North America
+mxp,Mixtec (Peñoles),17.0833333333,-96.9166666667,MX,Mexico,North America
+chq,Chinantec (Quiotepec),17.5833333333,-96.6666666667,MX,Mexico,North America
+ccp,Cocopa,32.3333333333,-115.0,MX,Mexico,North America
+nhn,Nahuatl (North Puebla),20.0,-98.25,MX,Mexico,North America
+ser,Seri,29.0,-112.0,MX,Mexico,North America
+cso,Chatino (Sierra Occidental),16.25,-97.3333333333,MX,Mexico,North America
+tpn,Tepehuan (Northern),26.3333333333,-107.0,MX,Mexico,North America
+tlp,Tlapanec,17.0833333333,-99.0,MX,Mexico,North America
+tja,Tiipay (Jamul),32.1666666667,-116.5,MX,Mexico,North America
+htc,Huastec,22.0833333333,-99.3333333333,MX,Mexico,North America
+hve,Huave (San Mateo del Mar),16.2166666667,-95.0,MX,Mexico,North America
+die,Diegueño (Mesa Grande),32.6666666667,-116.166666667,MX,Mexico,North America
+pur,Purépecha,19.5,-101.666666667,MX,Mexico,North America
+ood,O'odham,32.0,-112.0,MX,Mexico,North America
+otm,Otomí (Mezquital),20.1666666667,-99.1666666667,MX,Mexico,North America
+cle,Chinantec (Lealao),17.3333333333,-95.9166666667,MX,Mexico,North America
+zqc,Zoque (Copainalá),17.0,-93.25,MX,Mexico,North America
+nht,Nahuatl (Tetelcingo),19.6666666667,-99.0,MX,Mexico,North America
+mxc,Mixtec (Chalcatongo),17.05,-97.5833333333,MX,Mexico,North America
+yaq,Yaqui,27.5,-110.25,MX,Mexico,North America
+tee,Tepehua (Huehuetla),20.5,-98.0,MX,Mexico,North America
+mxx,Mixe (Ayutla),17.0833333333,-96.0833333333,MX,Mexico,North America
+coi,Chortí,14.833333333299999,-89.25,HN,Honduras,North America
+grf,Garífuna,15.666666666700001,-88.0,HN,Honduras,North America
+pec,Pech,15.0,-85.5,HN,Honduras,North America
+tol,Tol,14.666666666700001,-87.0,HN,Honduras,North America
+grf,Garífuna,15.666666666700001,-88.0,BZ,Belize,North America
+mce,Mískito Coast English Creole,16.25,-88.8333333333,BZ,Belize,North America
+mop,Mopan,16.5833333333,-88.6666666667,BZ,Belize,North America
+buj,Bujeba,3.0,10.1666666667,GQ,Equatorial Guinea,Africa
+bga,Benga,1.16666666667,9.416666666669999,GQ,Equatorial Guinea,Africa
+bub,Bubi,3.5,8.666666666669999,GQ,Equatorial Guinea,Africa
+bga,Benga,1.16666666667,9.416666666669999,GA,Gabon,Africa
+mbe,Mbere,-0.5,14.0,GA,Gabon,Africa
+tgo,Tsogo,-1.5,11.333333333299999,GA,Gabon,Africa
+mpo,Mpongwe,-1.25,9.5,GA,Gabon,Africa
+dma,Duma,-0.95,13.0,GA,Gabon,Africa
+ndu,Ndumu,-1.6666666666699999,13.583333333299999,GA,Gabon,Africa
+sgu,Sangu,-1.5,11.833333333299999,GA,Gabon,Africa
+vif,Vili,-5.5,14.0,GA,Gabon,Africa
+mqc,Martinique Creole,14.666666666700001,-61.0,MQ,Martinique,North America
+lcr,Lesser Antillean French Creole,15.0,-61.1666666667,MQ,Martinique,North America
+lcr,Lesser Antillean French Creole,15.0,-61.1666666667,GY,Guyana,South America
+pem,Pemon,5.33333333333,-62.0,GY,Guyana,South America
+bdc,Berbice Dutch Creole,5.33333333333,-58.0,GY,Guyana,South America
+wai,Wai Wai,1.0,-59.0,GY,Guyana,South America
+wps,Wapishana,2.66666666667,-60.0,GY,Guyana,South America
+akw,Akawaio,6.0,-59.5,GY,Guyana,South America
+mac,Macushi,4.0,-60.0,GY,Guyana,South America
+lcr,Lesser Antillean French Creole,15.0,-61.1666666667,GD,Grenada,North America
+lcr,Lesser Antillean French Creole,15.0,-61.1666666667,TT,Trinidad and Tobago,North America
+lcr,Lesser Antillean French Creole,15.0,-61.1666666667,DM,Dominica,North America
+lcr,Lesser Antillean French Creole,15.0,-61.1666666667,LC,St. Lucia,North America
+lcr,Lesser Antillean French Creole,15.0,-61.1666666667,GP,Guadeloupe,Australia & Oceania
+gdl,Guadeloupe Creole,16.25,-61.5,GP,Guadeloupe,Australia & Oceania
+fli,Ful (Liptako),13.5,0.5,BF,Burkina Faso,Africa
+fbf,Fula (Burkina Faso),14.0,0.0,BF,Burkina Faso,Africa
+nnn,Nuni (Northern),12.166666666700001,-3.0,BF,Burkina Faso,Africa
+dyu,Dyula,9.833333333330001,-4.66666666667,BF,Burkina Faso,Africa
+grm,Gurma,12.25,1.0,BF,Burkina Faso,Africa
+lob,Lobi,10.5,-3.25,BF,Burkina Faso,Africa
+lye,Lyele,12.5,-2.66666666667,BF,Burkina Faso,Africa
+kow,Ko (Winye),11.8666666667,-2.91666666667,BF,Burkina Faso,Africa
+ksm,Kasem,11.25,-1.25,BF,Burkina Faso,Africa
+bbf,Bobo Madaré (Northern),12.416666666666698,-4.3333333333333,BF,Burkina Faso,Africa
+dts,Toro So,14.416666666700001,-3.25,BF,Burkina Faso,Africa
+sme,Seme,11.0,-4.91666666667,BF,Burkina Faso,Africa
+snn,Soninke,15.0,-10.5,BF,Burkina Faso,Africa
+bis,Bisa,11.5,-0.5,BF,Burkina Faso,Africa
+tou,Southern Toussian,11.0,-4.66666666667,BF,Burkina Faso,Africa
+kir,Kirma,10.25,-4.83333333333,BF,Burkina Faso,Africa
+tny,Tenyer,10.6666666667,-4.5,BF,Burkina Faso,Africa
+dga,Dagaare,10.5,-2.66666666667,BF,Burkina Faso,Africa
+moo,Mooré,12.833333333299999,-1.25,BF,Burkina Faso,Africa
+dds,Donno So,14.333333333299999,-3.58333333333,BF,Burkina Faso,Africa
+kfe,Koromfe,14.25,-0.916666666667,BF,Burkina Faso,Africa
+nrg,Nanerge,11.75,-5.0,BF,Burkina Faso,Africa
+dyu,Dyula,9.833333333330001,-4.66666666667,ML,Mali,Africa
+dts,Toro So,14.416666666700001,-3.25,ML,Mali,Africa
+snn,Soninke,15.0,-10.5,ML,Mali,Africa
+dds,Donno So,14.333333333299999,-3.58333333333,ML,Mali,Africa
+kfe,Koromfe,14.25,-0.916666666667,ML,Mali,Africa
+fum,Fulfulde (Maasina),15.0,-5.0,ML,Mali,Africa
+xas,Xasonga,14.25,-10.5,ML,Mali,Africa
+boz,Bozo (Tigemaxo),15.0,-4.0,ML,Mali,Africa
+kgi,Konyagi,12.5,-13.25,ML,Mali,Africa
+mdk,Mandinka,13.0,-15.666666666700001,ML,Mali,Africa
+maw,Maninka (Western),13.0,-11.0,ML,Mali,Africa
+kch,Koyra Chiini,17.0,-3.0,ML,Mali,Africa
+bam,Bambara,12.5,-7.5,ML,Mali,Africa
+kse,Koyraboro Senni,16.0,0.0,ML,Mali,Africa
+sup,Supyire,11.5,-5.583333333330001,ML,Mali,Africa
+tms,Tommo So,15.0,-3.0,ML,Mali,Africa
+jms,Jamsay,14.416666666700001,-2.5,ML,Mali,Africa
+bgm,Bangime,14.916666666700001,-3.83333333333,ML,Mali,Africa
+tsk,Tamashek,20.0,-2.0,ML,Mali,Africa
+dyu,Dyula,9.833333333330001,-4.66666666667,CI,Côte d'Ivoire,Africa
+lob,Lobi,10.5,-3.25,CI,Côte d'Ivoire,Africa
+snn,Soninke,15.0,-10.5,CI,Côte d'Ivoire,Africa
+gue,Guere,6.666666666669999,-7.75,CI,Côte d'Ivoire,Africa
+gro,Guro,7.0,-6.0,CI,Côte d'Ivoire,Africa
+vat,Vata,5.833333333330001,-5.416666666669999,CI,Côte d'Ivoire,Africa
+bnq,Beng,7.833333333330001,-4.25,CI,Côte d'Ivoire,Africa
+abd,Abidji,5.666666666669999,-4.58333333333,CI,Côte d'Ivoire,Africa
+dym,Dyimini,8.416666666669999,-4.41666666667,CI,Côte d'Ivoire,Africa
+naf,Nafaanra,8.0,-2.58333333333,CI,Côte d'Ivoire,Africa
+wob,Wobe,7.416666666669999,-7.333333333330001,CI,Côte d'Ivoire,Africa
+ayi,Anyi,7.0,-3.5,CI,Côte d'Ivoire,Africa
+gdi,Godié,5.416666666669999,-5.833333333330001,CI,Côte d'Ivoire,Africa
+aiz,Aizi,5.25,-4.5,CI,Côte d'Ivoire,Africa
+ald,Alladian,5.16666666667,-4.33333333333,CI,Côte d'Ivoire,Africa
+ega,Ega,5.5,-5.5,CI,Côte d'Ivoire,Africa
+jel,Jeli,9.5,-5.666666666669999,CI,Côte d'Ivoire,Africa
+snd,Senadi,9.5,-6.25,CI,Côte d'Ivoire,Africa
+ble,Baule,7.0,-5.0,CI,Côte d'Ivoire,Africa
+bet,Bété,6.25,-6.25,CI,Côte d'Ivoire,Africa
+adi,Adioukrou,5.416666666669999,-4.58333333333,CI,Côte d'Ivoire,Africa
+mka,Mauka,8.333333333330001,-7.5,CI,Côte d'Ivoire,Africa
+dan,Dan,7.5,-8.0,CI,Côte d'Ivoire,Africa
+wna,Wan,7.833333333330001,-5.86666666667,CI,Côte d'Ivoire,Africa
+ddj,Dadjriwalé,5.25,-5.666666666669999,CI,Côte d'Ivoire,Africa
+ney,Neyo,5.0,-6.0,CI,Côte d'Ivoire,Africa
+avk,Avikam,5.16666666667,-5.5,CI,Côte d'Ivoire,Africa
+snn,Soninke,15.0,-10.5,SN,Senegal,Africa
+blz,Balanta,12.25,-15.333333333299999,SN,Senegal,Africa
+wlf,Wolof,15.25,-16.0,SN,Senegal,Africa
+dio,Diola-Fogny,13.0,-16.25,SN,Senegal,Africa
+xas,Xasonga,14.25,-10.5,SN,Senegal,Africa
+mdk,Mandinka,13.0,-15.666666666700001,SN,Senegal,Africa
+fus,Fula (Senegal),15.0,-14.0,SN,Senegal,Africa
+plr,Palor,14.833333333299999,-16.75,SN,Senegal,Africa
+bsr,Basari,12.666666666700001,-13.0,SN,Senegal,Africa
+ndt,Ndut,14.916666666700001,-16.9166666667,SN,Senegal,Africa
+noo,Noon,14.833333333299999,-16.8333333333,SN,Senegal,Africa
+bis,Bisa,11.5,-0.5,GH,Ghana,Africa
+dga,Dagaare,10.5,-2.66666666667,GH,Ghana,Africa
+anu,Anufo,10.0833333333,0.25,GH,Ghana,Africa
+kkb,Konkomba,10.0,0.08333333333330001,GH,Ghana,Africa
+mmp,Mampruli,10.3333333333,-0.666666666667,GH,Ghana,Africa
+tem,Tem,8.666666666669999,0.5,GH,Ghana,Africa
+ewe,Ewe,6.333333333330001,0.416666666667,GH,Ghana,Africa
+naf,Nafaanra,8.0,-2.58333333333,GH,Ghana,Africa
+avt,Avatime,6.833333333330001,0.416666666667,GH,Ghana,Africa
+buy,Buli (in Ghana),10.5,-1.25,GH,Ghana,Africa
+ada,Adamorobe Sign Language,5.833333333330001,-0.166666666667,GH,Ghana,Africa
+ewa,Ewe (Anglo),6.0,1.0,GH,Ghana,Africa
+cum,Chumburung,7.75,0.25,GH,Ghana,Africa
+ssa,Sisaala,10.833333333299999,-2.66666666667,GH,Ghana,Africa
+grn,Gurenne,10.833333333299999,-0.916666666667,GH,Ghana,Africa
+vag,Vagla,9.416666666669999,-2.41666666667,GH,Ghana,Africa
+tmp,Tampulma,10.4166666667,-0.583333333333,GH,Ghana,Africa
+kni,Konni,10.25,-1.5833333333300001,GH,Ghana,Africa
+bmb,Bimoba,10.5,0.0,GH,Ghana,Africa
+nkn,Nkonya,7.166666666669999,0.25,GH,Ghana,Africa
+ga,Gã,5.666666666669999,-0.166666666667,GH,Ghana,Africa
+llm,Lelemi,7.333333333330001,0.5,GH,Ghana,Africa
+dgb,Dagbani,9.583333333330001,-0.5,GH,Ghana,Africa
+akn,Akan,6.5,-1.25,GH,Ghana,Africa
+ncm,Ncàm,9.333333333330001,0.666666666667,GH,Ghana,Africa
+tke,Tokelauan,-9.0,-172.0,TK,Tokelau,Australia & Oceania
+ams,Arabic (Modern Standard),25.0,42.0,KW,Kuwait,Asia
+arg,Arabic (Gulf),26.0,49.0,KW,Kuwait,Asia
+arj,Arabic (Kuwaiti),29.5,47.5,KW,Kuwait,Asia
+ams,Arabic (Modern Standard),25.0,42.0,SO,Somalia,Africa
+som,Somali,3.0,45.0,SO,Somalia,Africa
+ams,Arabic (Modern Standard),25.0,42.0,SY,Syria,Asia
+nsy,Neo-Aramaic (Assyrian),36.0,41.0,SY,Syria,Asia
+asy,Arabic (Syrian),34.0,38.0,SY,Syria,Asia
+ams,Arabic (Modern Standard),25.0,42.0,OM,Oman,Asia
+arg,Arabic (Gulf),26.0,49.0,OM,Oman,Asia
+bth,Bathari,18.0,56.0,OM,Oman,Asia
+jib,Jibbali,17.5,55.0,OM,Oman,Asia
+hrs,Harsusi,20.0,56.5,OM,Oman,Asia
+meh,Mehri,17.0,51.5,OM,Oman,Asia
+ams,Arabic (Modern Standard),25.0,42.0,QA,Qatar,Asia
+arg,Arabic (Gulf),26.0,49.0,QA,Qatar,Asia
+ams,Arabic (Modern Standard),25.0,42.0,EG,Egypt,Africa
+bsi,Berber (Siwa),29.1666666667,25.5,EG,Egypt,Africa
+nob,Nobiin,21.0,31.0,EG,Egypt,Africa
+nku,Nubian (Kunuz),23.0,33.0,EG,Egypt,Africa
+cop,Coptic,26.0,32.0,EG,Egypt,Africa
+aeg,Arabic (Egyptian),30.0,31.0,EG,Egypt,Africa
+ams,Arabic (Modern Standard),25.0,42.0,TN,Tunisia,Africa
+atu,Arabic (Tunisian),36.75,10.25,TN,Tunisia,Africa
+ams,Arabic (Modern Standard),25.0,42.0,MA,Morocco,Africa
+bse,Berber (Ayt Seghrouchen Middle Atlas),33.3333333333,-4.66666666667,MA,Morocco,Africa
+brf,Berber (Rif),34.5,-4.0,MA,Morocco,Africa
+bfg,Berber (Figuig),32.5,-1.5,MA,Morocco,Africa
+tas,Tashlhiyt,31.0,-5.0,MA,Morocco,Africa
+amr,Arabic (Moroccan),34.0,-6.0,MA,Morocco,Africa
+bma,Berber (Middle Atlas),33.0,-5.0,MA,Morocco,Africa
+ams,Arabic (Modern Standard),25.0,42.0,LY,Libya,Africa
+ael,Arabic (Eastern Libyan),32.0,22.0,LY,Libya,Africa
+tgh,Tuareg (Ghat),25.0,10.1666666667,LY,Libya,Africa
+tug,Tuareg (Ahaggar),23.0,6.0,LY,Libya,Africa
+ams,Arabic (Modern Standard),25.0,42.0,KM,Comoros Islands,Africa
+com,Comorian,-12.0,44.0,KM,Comoros Islands,Africa
+ams,Arabic (Modern Standard),25.0,42.0,JO,Jordan,Asia
+dom,Domari,32.0,35.0,JO,Jordan,Asia
+ams,Arabic (Modern Standard),25.0,42.0,LB,Lebanon,Asia
+lgh,Lughat al-Isharat al-Lubnaniya,34.0,35.8333333333,LB,Lebanon,Asia
+anl,Arabic (North Levantine Spoken),33.75,36.0,LB,Lebanon,Asia
+abe,Arabic (Beirut),33.9166666667,35.5,LB,Lebanon,Asia
+arl,Arabic (Lebanese),34.0,36.0,LB,Lebanon,Asia
+ams,Arabic (Modern Standard),25.0,42.0,ER,Eritrea,Africa
+sao,Saho,14.75,39.75,ER,Eritrea,Africa
+tig,Tigrinya,14.5,38.5,ER,Eritrea,Africa
+qaf,Qafar,12.0,42.0,ER,Eritrea,Africa
+knm,Kunama,14.5,37.0,ER,Eritrea,Africa
+tbe,Tigré (Beni Amer),15.5,38.0,ER,Eritrea,Africa
+bln,Bilin,15.75,38.5,ER,Eritrea,Africa
+nar,Nara (in Ethiopia),15.083333333299999,37.5833333333,ER,Eritrea,Africa
+tgr,Tigré,16.5,38.5,ER,Eritrea,Africa
+bej,Beja,18.0,36.0,ER,Eritrea,Africa
+ams,Arabic (Modern Standard),25.0,42.0,YE,Yemen,Asia
+ars,Arabic (San'ani),16.0,44.0,YE,Yemen,Asia
+soq,Soqotri,12.5,54.0,YE,Yemen,Asia
+meh,Mehri,17.0,51.5,YE,Yemen,Asia
+ams,Arabic (Modern Standard),25.0,42.0,SA,Saudi Arabia,Asia
+arg,Arabic (Gulf),26.0,49.0,SA,Saudi Arabia,Asia
+arh,Arabic (Hijazi),26.0,38.0,SA,Saudi Arabia,Asia
+ams,Arabic (Modern Standard),25.0,42.0,IQ,Iraq,Asia
+arg,Arabic (Gulf),26.0,49.0,IQ,Iraq,Asia
+mma,Mandaic (Modern),31.0,48.5,IQ,Iraq,Asia
+azi,Azari (Iranian),37.5,47.0,IQ,Iraq,Asia
+krd,Kurdish (Central),36.0,44.0,IQ,Iraq,Asia
+naa,Neo-Aramaic (Amadiya),37.0,43.0,IQ,Iraq,Asia
+hwr,Hawrami,35.75,45.5,IQ,Iraq,Asia
+cld,Chaldean (Modern),36.0,43.0,IQ,Iraq,Asia
+arq,Arabic (Iraqi),33.0,44.0,IQ,Iraq,Asia
+naj,Neo-Aramaic (Arbel Jewish),36.3833,44.0,IQ,Iraq,Asia
+ams,Arabic (Modern Standard),25.0,42.0,PS,Palestinian West Bank and Gaza,Asia
+apa,Arabic (Palestinian),32.0,35.25,PS,Palestinian West Bank and Gaza,Asia
+ams,Arabic (Modern Standard),25.0,42.0,DZ,Algeria,Africa
+brf,Berber (Rif),34.5,-4.0,DZ,Algeria,Africa
+tug,Tuareg (Ahaggar),23.0,6.0,DZ,Algeria,Africa
+bou,Berber (Wargla),31.9166666667,5.33333333333,DZ,Algeria,Africa
+bmz,Berber (Mzab),32.5,3.5,DZ,Algeria,Africa
+bch,Berber (Chaouia),35.0,7.0,DZ,Algeria,Africa
+kbl,Kabyle,36.5,5.0,DZ,Algeria,Africa
+ams,Arabic (Modern Standard),25.0,42.0,AE,United Arab Emirates,Asia
+ams,Arabic (Modern Standard),25.0,42.0,BH,Bahrain,Asia
+arg,Arabic (Gulf),26.0,49.0,BH,Bahrain,Asia
+abh,Arabic (Bahrain),26.0,50.5,BH,Bahrain,Asia
+ams,Arabic (Modern Standard),25.0,42.0,IL,Israel,Asia
+dom,Domari,32.0,35.0,IL,Israel,Asia
+nap,Neo-Aramaic (Persian Azerbaijan),38.0,47.0,IL,Israel,Asia
+lno,Ladino,40.0,33.0,IL,Israel,Asia
+iss,Israeli Sign Language,32.0,34.8333333333,IL,Israel,Asia
+arv,Arabic (Negev),30.5,34.75,IL,Israel,Asia
+hba,Hebrew (Modern Ashkenazic),31.75,35.1666666667,IL,Israel,Asia
+heb,Hebrew (Modern),31.5,34.8333333333,IL,Israel,Asia
+arg,Arabic (Gulf),26.0,49.0,IR,Iran,Asia
+blc,Baluchi,28.0,62.0,IR,Iran,Asia
+dom,Domari,32.0,35.0,IR,Iran,Asia
+aze,Azerbaijani,40.5,48.5,IR,Iran,Asia
+arz,Armenian (Iranian),32.6666666667,51.6666666667,IR,Iran,Asia
+lur,Luri,33.5,48.5,IR,Iran,Asia
+mma,Mandaic (Modern),31.0,48.5,IR,Iran,Asia
+tex,Turkic (East-Central Xorasan),37.0,59.0,IR,Iran,Asia
+twx,Turkic (West Xorasan),36.6666666667,56.0,IR,Iran,Asia
+mzn,Mazanderani,36.5,52.0,IR,Iran,Asia
+gil,Gilaki,37.3333333333,50.0,IR,Iran,Asia
+kbt,Kabatei,36.75,49.4166666667,IR,Iran,Asia
+klr,Koluri,37.0,48.0,IR,Iran,Asia
+tls,Talysh (Southern),37.0,49.0,IR,Iran,Asia
+tts,Tati (Southern),36.0,49.6666666667,IR,Iran,Asia
+nap,Neo-Aramaic (Persian Azerbaijan),38.0,47.0,IR,Iran,Asia
+vaf,Vafsi,34.6666666667,49.9166666667,IR,Iran,Asia
+azi,Azari (Iranian),37.5,47.0,IR,Iran,Asia
+khl,Khalaj,35.0,50.0,IR,Iran,Asia
+krd,Kurdish (Central),36.0,44.0,IR,Iran,Asia
+prs,Persian,32.0,54.0,IR,Iran,Asia
+ccp,Cocopa,32.3333333333,-115.0,US,United States,North America
+tja,Tiipay (Jamul),32.1666666667,-116.5,US,United States,North America
+die,Diegueño (Mesa Grande),32.6666666667,-116.166666667,US,United States,North America
+ood,O'odham,32.0,-112.0,US,United States,North America
+sst,Salish (Straits),48.75,-123.25,US,United States,North America
+abw,Abenaki (Western),44.0,-72.25,US,United States,North America
+asl,American Sign Language,39.0,-78.0,US,United States,North America
+kth,Kutchin,67.0,-146.0,US,United States,North America
+oka,Okanagan,49.5,-118.5,US,United States,North America
+moh,Mohawk,43.5,-74.25,US,United States,North America
+bla,Blackfoot,50.0,-112.666666667,US,United States,North America
+tsi,Tsimshian (Coast),52.5,-129.0,US,United States,North America
+psm,Passamaquoddy-Maliseet,45.0,-67.0,US,United States,North America
+hai,Haida,53.0,-132.0,US,United States,North America
+kut,Kutenai,49.5,-116.0,US,United States,North America
+cpw,Chippewa (Red Lake and Pillager),48.0,-95.0,US,United States,North America
+cwe,Columbia-Wenatchi,47.5,-120.0,US,United States,North America
+hav,Havasupai,35.75,-112.5,US,United States,North America
+lum,Lummi,48.7,-122.666666667,US,United States,North America
+mll,Molala,44.5,-122.5,US,United States,North America
+nnt,Nanticoke,38.0,-76.25,US,United States,North America
+psl,Plains-Indians Sign Language,40.0,-100.0,US,United States,North America
+swr,Shoshone (Wind River),43.4166666667,-108.833333333,US,United States,North America
+twa,Twana,47.6666666667,-122.75,US,United States,North America
+cco,Chasta Costa,42.6666666667,-124.0,US,United States,North America
+cmk,Chemakum,48.0833333333,-122.916666667,US,United States,North America
+dgx,Degexit'an,62.0,-160.0,US,United States,North America
+ill,Illinois,40.0,-90.0,US,United States,North America
+jem,Jemez,35.8333333333,-107.0,US,United States,North America
+kto,Kato,39.6666666667,-123.666666667,US,United States,North America
+mhc,Mahican,42.6666666667,-73.5,US,United States,North America
+mtl,Mattole,40.1666666667,-124.166666667,US,United States,North America
+mkb,Miwok (Bodega),38.3333333333,-123.0,US,United States,North America
+mwl,Miwok (Lake),38.9166666667,-122.666666667,US,United States,North America
+mwp,Miwok (Plains),38.0,-121.0,US,United States,North America
+onn,Onondaga,42.75,-76.1666666667,US,United States,North America
+pot,Potawatomi,44.5,-85.0,US,United States,North America
+pow,Powhatan,37.3333333333,-76.5,US,United States,North America
+tnj,Tanaina,62.0,-150.0,US,United States,North America
+tnl,Tanana (Lower),65.0,-150.0,US,United States,North America
+trg,Tewa (Rio Grande),36.25,-106.166666667,US,United States,North America
+tsj,Tewa (San Juan Pueblo),36.0833333333,-106.083333333,US,United States,North America
+tws,Tiwa (Southern),35.0,-106.333333333,US,United States,North America
+apj,Apache (Jicarilla),36.5833333333,-104.0,US,United States,North America
+aho,Arapaho,40.0,-103.0,US,United States,North America
+inu,Iñupiaq,67.0,-161.0,US,United States,North America
+oto,Oto,40.5,-96.0,US,United States,North America
+sss,Salish (Samish Straits),48.5833333333,-122.583333333,US,United States,North America
+sps,Salish (Southern Puget Sound),47.25,-122.5,US,United States,North America
+shw,Shawnee,40.0,-83.0,US,United States,North America
+tew,Tewa (Arizona),35.8333333333,-110.416666667,US,United States,North America
+yki,Yuki,39.6666666667,-123.5,US,United States,North America
+apc,Apache (Chiricahua),33.25,-108.0,US,United States,North America
+akr,Arikara,45.5,-100.5,US,United States,North America
+cla,Clallam,48.0833333333,-123.75,US,United States,North America
+cup,Cupeño,33.1666666667,-116.5,US,United States,North America
+ess,Esselen,36.25,-121.75,US,United States,North America
+klp,Kalapuya,44.5,-123.0,US,United States,North America
+kit,Kitsai,31.8333333333,-96.5,US,United States,North America
+ojm,Ojibwe (Minnesota),47.6666666667,-92.5,US,United States,North America
+til,Tillamook,45.3333333333,-123.75,US,United States,North America
+unm,Unami,40.0,-75.1666666667,US,United States,North America
+ych,Yup'ik (Chevak),61.5,-165.75,US,United States,North America
+yun,Yup'ik (Norton Sound),64.0,-161.0,US,United States,North America
+ysl,Yupik (St. Lawrence Island),63.5,-170.5,US,United States,North America
+cyg,Cayuga,42.75,-76.75,US,United States,North America
+hwc,Hawaiian Creole,21.5,-158.0,US,United States,North America
+srr,Serrano,34.5,-117.0,US,United States,North America
+uku,Upper Kuskokwim,63.0,-157.0,US,United States,North America
+atq,Alutiiq,57.0,-157.0,US,United States,North America
+dak,Dakota,45.0,-93.5,US,United States,North America
+fox,Fox,43.0,-83.0,US,United States,North America
+ksh,Kashaya,38.6666666667,-123.333333333,US,United States,North America
+que,Quechan,32.8333333333,-114.333333333,US,United States,North America
+spo,Spokane,47.6666666667,-117.75,US,United States,North America
+cyn,Cheyenne,47.0,-95.0,US,United States,North America
+crk,Creek,34.0,-85.0,US,United States,North America
+kic,Kickapoo,42.25,-84.0,US,United States,North America
+mcs,Miwok (Central Sierra),38.0,-120.333333333,US,United States,North America
+mwn,Miwok (Northern Sierra),38.3333333333,-120.666666667,US,United States,North America
+pmc,Pomo (Central),39.0,-123.333333333,US,United States,North America
+tbb,Tübatulabal,36.0,-118.333333333,US,United States,North America
+wnb,Winnebago,43.5,-88.5,US,United States,North America
+ats,Atsugewi,40.75,-121.0,US,United States,North America
+cos,Rumsien,36.8333333333333,-121.75,US,United States,North America
+mse,Munsee,41.5,-74.6666666667,US,United States,North America
+pmn,Pomo (Northern),39.3333333333,-123.5,US,United States,North America
+yav,Yavapai,34.0,-113.333333333,US,United States,North America
+als,Alsea,44.6666666667,-123.916666667,US,United States,North America
+kkw,Karankawa,28.0,-97.0,US,United States,North America
+moj,Mojave,34.6666666667,-114.583333333,US,United States,North America
+ctw,Catawba,35.5,-80.5,US,United States,North America
+cin,Chumash (Ineseño),34.6666666667,-120.25,US,United States,North America
+put,Paiute (Southern),37.8333333333,-113.333333333,US,United States,North America
+smt,Sahaptin (Umatilla),45.6666666667,-118.5,US,United States,North America
+coe,Coeur d'Alene,47.25,-116.5,US,United States,North America
+kyn,Koyukon,65.0,-155.0,US,United States,North America
+ptw,Patwin,39.0,-122.333333333,US,United States,North America
+cad,Caddo,33.3333333333,-93.5,US,United States,North America
+aea,Aleut (Eastern),54.75,-164.0,US,United States,North America
+omh,Omaha,42.0,-97.25,US,United States,North America
+aht,Ahtna,62.0,-145.0,US,United States,North America
+eya,Eyak,60.5,-145.0,US,United States,North America
+knw,Konkow,39.5,-121.5,US,United States,North America
+lus,Lushootseed,48.0,-122.0,US,United States,North America
+mtt,Massachusett,42.5,-71.0,US,United States,North America
+mki,Mikasuki,32.0,-85.0,US,United States,North America
+cck,Chickasaw,34.0,-88.0,US,United States,North America
+nat,Natchez,31.75,-91.3333333333,US,United States,North America
+smn,Seminole,33.0,-84.0,US,United States,North America
+ksa,Keresan (Santa Ana),35.4166666667,-106.666666667,US,United States,North America
+tmc,Timucua,30.25,-82.5,US,United States,North America
+cro,Crow,47.0,-108.0,US,United States,North America
+nsn,Nisenan,39.0,-121.0,US,United States,North America
+osa,Osage,37.0,-94.0,US,United States,North America
+tte,Tutelo,37.6666666667,-78.75,US,United States,North America
+yan,Yana,40.5,-122.0,US,United States,North America
+apw,Apache (Western),33.75,-110.0,US,United States,North America
+cku,Chinook (Upper),45.62,-121.16,US,United States,North America
+hid,Hidatsa,47.0,-102.5,US,United States,North America
+pwn,Pawnee,41.0,-98.6666666667,US,United States,North America
+shp,Sahaptin (Northern),46.5,-120.0,US,United States,North America
+sho,Shoshone,41.0,-114.0,US,United States,North America
+tnc,Tanacross,63.5,-143.5,US,United States,North America
+chl,Chehalis (Upper),46.5833333333,-123.0,US,United States,North America
+yok,Yokuts (Yaudanchi),36.0833333333,-119.083333333,US,United States,North America
+mno,Mono (in United States),38.0,-119.0,US,United States,North America
+hlp,Hualapai,35.5,-113.75,US,United States,North America
+shs,Shasta,41.8333333333,-122.666666667,US,United States,North America
+kls,Kalispel,48.0,-117.0,US,United States,North America
+abm,Alabama,32.3333333333,-87.4166666667,US,United States,North America
+ale,Aleut,54.0,-166.0,US,United States,North America
+ckl,Chinook (Lower),46.25,-123.5,US,United States,North America
+mut,Mutsun,36.8333333333,-121.5,US,United States,North America
+atk,Atakapa,30.0,-93.5,US,United States,North America
+chi,Chimariko,41.0,-123.0,US,United States,North America
+mdn,Mandan,46.5,-102.5,US,United States,North America
+tus,Tuscarora,36.0,-77.5,US,United States,North America
+ywl,Yawelmani,35.4166666667,-119.0,US,United States,North America
+pme,Pomo (Eastern),39.0,-122.666666667,US,United States,North America
+blx,Biloxi,30.5,-88.6666666667,US,United States,North America
+cba,Chumash (Barbareño),34.5,-120.25,US,United States,North America
+twn,Tiwa (Northern),36.5,-105.5,US,United States,North America
+wik,Wikchamni,36.4166666667,-119.083333333,US,United States,North America
+ctm,Chitimacha,29.6666666667,-91.0,US,United States,North America
+ute,Ute,39.0,-109.0,US,United States,North America
+acm,Achumawi,41.5,-121.0,US,United States,North America
+men,Menomini,45.5,-88.3333333333,US,United States,North America
+kws,Kawaiisu,36.0,-117.5,US,United States,North America
+pno,Paiute (Northern),42.0,-118.0,US,United States,North America
+sal,Salinan,36.0,-121.0,US,United States,North America
+cmh,Chemehuevi,34.3333333333,-115.166666667,US,United States,North America
+was,Washo,39.25,-120.0,US,United States,North America
+cct,Choctaw,32.25,-88.5,US,United States,North America
+snc,Seneca,42.5,-77.5,US,United States,North America
+tkl,Takelma,42.5,-123.0,US,United States,North America
+che,Cherokee,35.5,-83.5,US,United States,North America
+hup,Hupa,41.0833333333,-123.666666667,US,United States,North America
+lui,Luiseño,33.3333333333,-117.166666667,US,United States,North America
+siu,Siuslaw,44.0,-124.0,US,United States,North America
+hop,Hopi,36.0,-110.0,US,United States,North America
+wiy,Wiyot,40.8333333333,-124.166666667,US,United States,North America
+klm,Klamath,42.5,-121.5,US,United States,North America
+qui,Quileute,47.9166666667,-124.25,US,United States,North America
+wap,Wappo,38.5,-122.5,US,United States,North America
+win,Wintu,41.0,-122.5,US,United States,North America
+tsh,Tümpisa Shoshone,37.0,-117.0,US,United States,North America
+ton,Tonkawa,30.25,-96.75,US,United States,North America
+mne,Maidu (Northeast),40.0,-120.666666667,US,United States,North America
+haw,Hawaiian,19.5833333333,-155.5,US,United States,North America
+yuc,Yuchi,35.75,-86.75,US,United States,North America
+pso,Pomo (Southeastern),39.0,-122.5,US,United States,North America
+zun,Zuni,35.0833333333,-108.833333333,US,United States,North America
+ypk,Yup'ik (Central),59.5,-160.0,US,United States,North America
+tli,Tlingit,59.0,-135.0,US,United States,North America
+mak,Makah,48.3333333333,-124.666666667,US,United States,North America
+tun,Tunica,32.6666666667,-91.0,US,United States,North America
+mss,Miwok (Southern Sierra),37.5,-120.0,US,United States,North America
+yur,Yurok,41.3333333333,-124.0,US,United States,North America
+nez,Nez Perce,46.0,-116.0,US,United States,North America
+cah,Cahuilla,33.5,-116.25,US,United States,North America
+nav,Navajo,36.1666666667,-108.0,US,United States,North America
+cmn,Comanche,33.5,-101.5,US,United States,North America
+coo,Coos (Hanis),43.5,-124.166666667,US,United States,North America
+krk,Karok,41.6666666667,-123.0,US,United States,North America
+aco,Acoma,34.9166666667,-107.583333333,US,United States,North America
+ond,Oneida,43.0,-75.6666666667,US,United States,North America
+kio,Kiowa,37.0,-99.0,US,United States,North America
+wic,Wichita,33.3333333333,-97.3333333333,US,United States,North America
+koa,Koasati,34.8333333333,-85.1666666667,US,United States,North America
+mar,Maricopa,33.1666666667,-113.166666667,US,United States,North America
+lkt,Lakhota,43.8333333333,-101.833333333,US,United States,North America
+ipk,Indo-Pakistani Sign Language (Karachi dialect),28.0,68.0,PK,Pakistan,Asia
+klh,Kalasha,35.0,72.0,PK,Pakistan,Asia
+ktz,Kati (in Afghanistan),35.5,70.0,PK,Pakistan,Asia
+blc,Baluchi,28.0,62.0,PK,Pakistan,Asia
+bkt,Brokskat,35.3333333333,76.5,PK,Pakistan,Asia
+khw,Khowar,36.0,72.0,PK,Pakistan,Asia
+orm,Ormuri,32.5,69.75,PK,Pakistan,Asia
+trw,Torwali,34.25,72.0,PK,Pakistan,Asia
+dmk,Domaaki,36.1666666667,74.0,PK,Pakistan,Asia
+kal,Kalami,35.5,72.5,PK,Pakistan,Asia
+sdh,Sindhi,26.0,69.0,PK,Pakistan,Asia
+blt,Balti,35.0,76.0,PK,Pakistan,Asia
+sna,Shina,36.0,74.0,PK,Pakistan,Asia
+wak,Wakhi,36.5,72.0,PK,Pakistan,Asia
+urd,Urdu,25.0,67.0,PK,Pakistan,Asia
+psh,Pashto,33.0,67.0,PK,Pakistan,Asia
+pan,Panjabi,31.0,74.0,PK,Pakistan,Asia
+kas,Kashmiri,34.0,76.0,PK,Pakistan,Asia
+brh,Brahui,28.5,67.0,PK,Pakistan,Asia
+bur,Burushaski,36.5,74.5,PK,Pakistan,Asia
+ktz,Kati (in Afghanistan),35.5,70.0,AF,Afghanistan,Asia
+blc,Baluchi,28.0,62.0,AF,Afghanistan,Asia
+wak,Wakhi,36.5,72.0,AF,Afghanistan,Asia
+psh,Pashto,33.0,67.0,AF,Afghanistan,Asia
+uzb,Uzbek,39.0,66.0,AF,Afghanistan,Asia
+ish,Ishkashmi,37.0,72.0,AF,Afghanistan,Asia
+rsh,Shughni,38.1666666667,71.5,AF,Afghanistan,Asia
+wgl,Waigali,35.0,71.25,AF,Afghanistan,Asia
+dri,Dari,35.0,66.0,AF,Afghanistan,Asia
+pra,Prasuni,35.5,71.0,AF,Afghanistan,Asia
+sav,Savi,35.0,71.5,AF,Afghanistan,Asia
+mog,Moghol,35.0,62.0,AF,Afghanistan,Asia
+wak,Wakhi,36.5,72.0,TJ,Tajikistan,Asia
+ish,Ishkashmi,37.0,72.0,TJ,Tajikistan,Asia
+rsh,Shughni,38.1666666667,71.5,TJ,Tajikistan,Asia
+ygn,Yaghnobi,39.0,69.0,TJ,Tajikistan,Asia
+yaz,Yazgulyam,38.5,71.5,TJ,Tajikistan,Asia
+taj,Tajik,38.6666666667,70.0,TJ,Tajikistan,Asia
+bfd,Biafada,11.416666666700001,-15.166666666700001,GW,Guinea-Bissau,Africa
+gbc,Guinea Bissau Crioulo,12.0,-15.0,GW,Guinea-Bissau,Africa
+mkn,Mankanya,12.083333333299999,-15.916666666700001,GW,Guinea-Bissau,Africa
+mjk,Manjaku,12.0,-16.25,GW,Guinea-Bissau,Africa
+blz,Balanta,12.25,-15.333333333299999,GW,Guinea-Bissau,Africa
+liv,Liv,56.8333333333,24.0,LV,Latvia,Europe
+lat,Latvian,57.0,24.0,LV,Latvia,Europe
+est,Estonian,59.0,26.0,EE,Estonia,Europe
+sen,Sena,-18.0,35.25,MZ,Mozambique,Africa
+eko,Ekoti,-16.5,39.5,MZ,Mozambique,Africa
+tsn,Tsonga,-24.0,32.0,MZ,Mozambique,Africa
+mkd,Makonde,-11.0,40.0,MZ,Mozambique,Africa
+yao,Yao (in Malawi),-14.5,35.5,MZ,Mozambique,Africa
+rga,Ronga,-26.0,32.5,MZ,Mozambique,Africa
+mua,Makua,-15.0,38.6666666667,MZ,Mozambique,Africa
+ngo,Ngoni,-11.0,36.0,MZ,Mozambique,Africa
+cic,Chichewa,-14.0,34.0,MZ,Mozambique,Africa
+tsn,Tsonga,-24.0,32.0,ZA,South Africa,Africa
+ses,Sesotho,-28.0,27.0,ZA,South Africa,Africa
+zno,Zulu (Northern),-28.0,31.0,ZA,South Africa,Africa
+zso,Zulu (Southern),-31.0,30.0,ZA,South Africa,Africa
+tsw,Tswana,-24.0,26.0,ZA,South Africa,Africa
+ven,Venda,-22.0,30.0,ZA,South Africa,Africa
+xam,/Xam,-31.0,21.0,ZA,South Africa,Africa
+afr,Afrikaans,-31.0,22.0,ZA,South Africa,Africa
+stn,Sotho (Northern),-24.0,29.0,ZA,South Africa,Africa
+swt,Swati,-26.5,31.0,ZA,South Africa,Africa
+ndb,Ndebele (in South Africa),-25.3333333333,29.0,ZA,South Africa,Africa
+xho,Xhosa,-32.0,27.0,ZA,South Africa,Africa
+krn,Korana,-29.5,20.5,ZA,South Africa,Africa
+zul,Zulu,-30.0,30.0,ZA,South Africa,Africa
+mkd,Makonde,-11.0,40.0,TZ,Tanzania,Africa
+ngo,Ngoni,-11.0,36.0,TZ,Tanzania,Africa
+luo,Luo,-0.5,34.75,TZ,Tanzania,Africa
+maa,Maasai,-3.0,36.0,TZ,Tanzania,Africa
+mmw,Mambwe,-9.083333333330001,31.1666666667,TZ,Tanzania,Africa
+nyh,Nyiha,-10.0,33.0,TZ,Tanzania,Africa
+dat,Datooga,-4.33333333333,35.3333333333,TZ,Tanzania,Africa
+tsl,Tanzania Sign Language,-6.0,35.0,TZ,Tanzania,Africa
+gor,Gorowa,-4.5,36.5,TZ,Tanzania,Africa
+kmi,Kami,-6.75,38.0,TZ,Tanzania,Africa
+mbg,Mbugu,-4.33333333333,38.1666666667,TZ,Tanzania,Africa
+nbo,Nyambo,-1.0,31.3333333333,TZ,Tanzania,Africa
+rim,Rimi,-5.0,34.6666666667,TZ,Tanzania,Africa
+skm,Sukuma,-2.83333333333,32.0,TZ,Tanzania,Africa
+pog,Pogoro,-8.75,36.5,TZ,Tanzania,Africa
+agw,Alagwa,-5.5,35.75,TZ,Tanzania,Africa
+cga,Chaga,-3.0,37.0,TZ,Tanzania,Africa
+png,Pangwa,-10.0,34.75,TZ,Tanzania,Africa
+hol,Holoholo,-5.16666666667,29.9166666667,TZ,Tanzania,Africa
+heh,Hehe,-8.0,36.0,TZ,Tanzania,Africa
+lgi,Langi,-4.5,36.0,TZ,Tanzania,Africa
+had,Hadza,-3.75,35.1666666667,TZ,Tanzania,Africa
+kga,Kinga,-9.0,34.0,TZ,Tanzania,Africa
+shm,Shambala,-4.25,38.25,TZ,Tanzania,Africa
+kgr,Kagulu,-6.333333333330001,37.0,TZ,Tanzania,Africa
+mtb,Matuumbi,-8.5,39.0,TZ,Tanzania,Africa
+pre,Pare,-4.0,36.5,TZ,Tanzania,Africa
+hya,Haya,-2.0,31.5,TZ,Tanzania,Africa
+mwe,Mwera,-9.0,39.0,TZ,Tanzania,Africa
+nym,Nyamwezi,-5.0,33.0,TZ,Tanzania,Africa
+sdw,Sandawe,-5.0,35.0,TZ,Tanzania,Africa
+brn,Burunge,-5.33333333333,36.0,TZ,Tanzania,Africa
+irq,Iraqw,-4.0,35.5,TZ,Tanzania,Africa
+swa,Swahili,-6.5,39.0,TZ,Tanzania,Africa
+yao,Yao (in Malawi),-14.5,35.5,MW,Malawi,Africa
+cic,Chichewa,-14.0,34.0,MW,Malawi,Africa
+cic,Chichewa,-14.0,34.0,ZM,Zambia,Africa
+lmb,Lamba,-13.0,28.0,ZM,Zambia,Africa
+tbw,Tabwa,-8.0,29.5,ZM,Zambia,Africa
+mmw,Mambwe,-9.083333333330001,31.1666666667,ZM,Zambia,Africa
+nyh,Nyiha,-10.0,33.0,ZM,Zambia,Africa
+loz,Lozi,-17.8333333333,26.0,ZM,Zambia,Africa
+nse,Nsenga,-14.5,30.8333333333,ZM,Zambia,Africa
+toz,Tonga (in Zambia),-17.0,27.0,ZM,Zambia,Africa
+ila,Ila,-15.583333333299999,26.5,ZM,Zambia,Africa
+cic,Chichewa,-14.0,34.0,ZW,Zimbabwe,Africa
+ven,Venda,-22.0,30.0,ZW,Zimbabwe,Africa
+klz,Kalanga,-20.5,27.5,ZW,Zimbabwe,Africa
+ila,Ila,-15.583333333299999,26.5,ZW,Zimbabwe,Africa
+krg,Karanga,-20.0,31.0,ZW,Zimbabwe,Africa
+shn,Shona,-18.0,31.0,ZW,Zimbabwe,Africa
+ayn,Aynu,39.5,76.0,CN,China,Asia
+kfy,Kirghiz (Fu-Yu),47.75,124.416666667,CN,China,Asia
+mnu,Mun,19.0,110.0,CN,China,Asia
+syg,Saryg Yughur,38.75,99.75,CN,China,Asia
+zhn,Zhuang (Northern),24.0,108.0,CN,China,Asia
+amd,Amdo,35.0,100.0,CN,China,Asia
+csl,Chinese Sign Language,35.0,115.0,CN,China,Asia
+hks,Hong Kong Sign Language,22.5,114.0,CN,China,Asia
+sol,Solon,48.0,120.0,CN,China,Asia
+tst,Tsat,18.25,109.5,CN,China,Asia
+slr,Salar,35.0,103.0,CN,China,Asia
+tis,Tibetan (Shigatse),29.0,89.0,CN,China,Asia
+ano,Anong,27.3333333333,98.75,CN,China,Asia
+kug,Kunming,25.0,102.75,CN,China,Asia
+shy,Shira Yughur,38.0,99.0,CN,China,Asia
+hmd,Hmong Daw,26.0,105.0,CN,China,Asia
+jur,Jurchen,47.0,130.0,CN,China,Asia
+mul,Mulao,25.0,108.0,CN,China,Asia
+nus,Nusu,26.75,99.0,CN,China,Asia
+oir,Oirat,37.5,93.0,CN,China,Asia
+jin,Jino,22.0,101.0,CN,China,Asia
+han,Hani,23.0,103.0,CN,China,Asia
+mkh,Mongol (Khamnigan),49.0,117.0,CN,China,Asia
+ord,Ordos,39.0,109.0,CN,China,Asia
+yi,Nuosu,28.0,103.0,CN,China,Asia
+bao,Bao'an,35.75,102.833333333333,CN,China,Asia
+dul,Dulong,28.0,98.3333333333,CN,China,Asia
+wuc,Wu,31.6666666667,119.916666667,CN,China,Asia
+fuz,Fuzhou,26.0,119.5,CN,China,Asia
+lkk,Lakkia,24.0833333333,110.166666667,CN,China,Asia
+puk,Parauk,23.25,99.5,CN,China,Asia
+sui,Sui,26.0,107.5,CN,China,Asia
+acn,Achang,25.0,98.5,CN,China,Asia
+lu,Lü,22.0,100.666666667,CN,China,Asia
+jia,Jiarong,31.5,102.0,CN,China,Asia
+pnu,Bunu (Younuo),24.0,107.0,CN,China,Asia
+kpw,Karen (Pwo),13.0,99.1666666667,CN,China,Asia
+nax,Naxi,27.5,100.0,CN,China,Asia
+pum,Pumi,28.0,101.0,CN,China,Asia
+sta,Santa,31.5,107.5,CN,China,Asia
+qia,Qiang,32.0,102.666666667,CN,China,Asia
+lis,Lisu,26.0,98.0,CN,China,Asia
+akh,Akha,21.8333333333,99.8333333333,CN,China,Asia
+tmo,Tibetan (Modern Literary),29.8333333333,91.5,CN,China,Asia
+uyg,Uyghur,40.0,80.0,CN,China,Asia
+hak,Hakka,25.0,116.0,CN,China,Asia
+khg,Khaling,27.5,86.6666666667,CN,China,Asia
+lal,Lalo,25.0,100.25,CN,China,Asia
+don,Dong (Southern),27.0,109.0,CN,China,Asia
+kmk,Kalmyk,44.0,83.0,CN,China,Asia
+bai,Bai,26.0,100.0,CN,China,Asia
+mie,Mien,25.0,111.0,CN,China,Asia
+mnc,Manchu,49.5,127.5,CN,China,Asia
+but,Buriat,52.0,108.0,CN,China,Asia
+tib,Tibetan (Standard Spoken),30.0,91.0,CN,China,Asia
+mgg,Mangghuer,36.0,102.0,CN,China,Asia
+dgr,Dagur,48.0,124.0,CN,China,Asia
+lah,Lahu,20.0,98.1666666667,CN,China,Asia
+cnt,Cantonese,23.0,113.0,CN,China,Asia
+hmo,Hmong Njua,28.0,105.0,CN,China,Asia
+mnd,Mandarin,34.0,110.0,CN,China,Asia
+tdi,Tibetan (Dingri),28.5,86.5,CN,China,Asia
+tdr,Tibetan (Drokpa),32.25,81.25,CN,China,Asia
+kgy,Kyirong,28.4166666667,85.3333333333,CN,China,Asia
+knz,Kham (Tibetan) (Nangchen),32.5,96.5,CN,China,Asia
+khd,Kham (Dege),31.8333333333,98.5833333333,CN,China,Asia
+gyc,Gyarong (Cogtse),31.5,102.0,CN,China,Asia
+rgc,rGyalrong (Caodeng),31.6666666667,101.75,CN,China,Asia
+lic,Hlai (Baoding),19.0,109.5,CN,China,Asia
+hok,Min (Southern),25.0,118.0,CN,China,Asia
+ano,Anong,27.3333333333,98.75,MM,Myanmar,Asia
+puk,Parauk,23.25,99.5,MM,Myanmar,Asia
+acn,Achang,25.0,98.5,MM,Myanmar,Asia
+lu,Lü,22.0,100.666666667,MM,Myanmar,Asia
+kpw,Karen (Pwo),13.0,99.1666666667,MM,Myanmar,Asia
+lis,Lisu,26.0,98.0,MM,Myanmar,Asia
+akh,Akha,21.8333333333,99.8333333333,MM,Myanmar,Asia
+lah,Lahu,20.0,98.1666666667,MM,Myanmar,Asia
+akm,Arakanese (Marma),21.5,92.5,MM,Myanmar,Asia
+baw,Bawm,22.5,92.25,MM,Myanmar,Asia
+thd,Thadou,24.4166666667,93.9166666667,MM,Myanmar,Asia
+chg,Chang,26.3333333333,94.75,MM,Myanmar,Asia
+cmr,Chin (Mara),23.0,93.1666666667,MM,Myanmar,Asia
+mon,Mon,14.833333333299999,100.5,MM,Myanmar,Asia
+kyl,Kayah Li (Eastern),19.0,97.5,MM,Myanmar,Asia
+khu,Khumi,21.9166666667,92.4166666667,MM,Myanmar,Asia
+sha,Shan,22.0,98.0,MM,Myanmar,Asia
+plg,Palaung,22.6666666667,96.6666666667,MM,Myanmar,Asia
+mru,Maru,23.5,98.5,MM,Myanmar,Asia
+chs,Chin (Siyin),23.8333333333,94.0,MM,Myanmar,Asia
+kbw,Karen (Bwe),19.5,97.0,MM,Myanmar,Asia
+raw,Rawang,27.5,97.5,MM,Myanmar,Asia
+cti,Chin (Tiddim),23.3333333333,93.6666666667,MM,Myanmar,Asia
+ksg,Karen (Sgaw),18.0,97.0,MM,Myanmar,Asia
+jng,Jingpho,25.4166666667,97.0,MM,Myanmar,Asia
+lai,Lai,22.6666666667,93.6666666667,MM,Myanmar,Asia
+brm,Burmese,21.0,96.0,MM,Myanmar,Asia
+ral,Ralte,23.75,92.75,MM,Myanmar,Asia
+khn,Khün,21.0,100.0,MM,Myanmar,Asia
+hmd,Hmong Daw,26.0,105.0,VN,Vietnam,Asia
+crh,Chru,11.5,108.5,VN,Vietnam,Asia
+hre,Hre,14.666666666700001,108.666666667,VN,Vietnam,Asia
+lha,Laha,21.5833333333,103.916666667,VN,Vietnam,Asia
+muo,Muong,20.5,105.083333333,VN,Vietnam,Asia
+bpb,Bahnar,13.833333333299999,108.333333333,VN,Vietnam,Asia
+ksi,Ksingmul,21.0833333333,104.0,VN,Vietnam,Asia
+lch,Lachi,22.6666666667,104.833333333,VN,Vietnam,Asia
+rad,Rade,13.0,108.5,VN,Vietnam,Asia
+rng,Rengao,14.583333333299999,107.833333333,VN,Vietnam,Asia
+rgn,Roglai (Northern),12.166666666700001,108.833333333,VN,Vietnam,Asia
+hln,Halang,14.5,107.5,VN,Vietnam,Asia
+cua,Cua,15.25,108.5,VN,Vietnam,Asia
+ktu,Katu,15.833333333299999,107.583333333,VN,Vietnam,Asia
+cme,Cham (Eastern),11.333333333299999,108.5,VN,Vietnam,Asia
+gla,Gelao,22.9166666667,105.5,VN,Vietnam,Asia
+jeh,Jeh,15.166666666700001,107.833333333,VN,Vietnam,Asia
+pac,Pacoh,16.4166666667,107.083333333,VN,Vietnam,Asia
+sti,Stieng,11.833333333299999,106.75,VN,Vietnam,Asia
+yay,Yay,22.4166666667,104.75,VN,Vietnam,Asia
+bra,Brao,14.166666666700001,107.5,VN,Vietnam,Asia
+sre,Sre,11.5,108.0,VN,Vietnam,Asia
+chr,Chrau,10.75,107.5,VN,Vietnam,Asia
+nun,Nung (in Vietnam),21.9166666667,106.416666667,VN,Vietnam,Asia
+sed,Sedang,14.833333333299999,108.0,VN,Vietnam,Asia
+vie,Vietnamese,10.5,106.5,VN,Vietnam,Asia
+oir,Oirat,37.5,93.0,MN,Mongolia,Asia
+mkh,Mongol (Khamnigan),49.0,117.0,MN,Mongolia,Asia
+kmk,Kalmyk,44.0,83.0,MN,Mongolia,Asia
+but,Buriat,52.0,108.0,MN,Mongolia,Asia
+tuv,Tuvan,52.0,95.0,MN,Mongolia,Asia
+kha,Khalkha,47.0,105.0,MN,Mongolia,Asia
+fuz,Fuzhou,26.0,119.5,MY,Malaysia,Asia
+bjs,Sama (Southern),4.5,118.5,MY,Malaysia,Asia
+bit,Biatah,1.25,110.0,MY,Malaysia,Asia
+kbr,Kayan (Baram),3.5,114.5,MY,Malaysia,Asia
+klt,Kelabit,3.66666666667,115.416666667,MY,Malaysia,Asia
+mhm,Mah Meri,2.83333333333,101.5,MY,Malaysia,Asia
+myk,Malay (Kuala Lumpur),3.16666666667,101.7,MY,Malaysia,Asia
+mmu,Malay (Ulu Muar),2.66666666667,102.5,MY,Malaysia,Asia
+mel,Melanau,2.5,111.5,MY,Malaysia,Asia
+nrm,Narom,4.41666666667,114.0,MY,Malaysia,Asia
+jah,Jahai,5.75,101.5,MY,Malaysia,Asia
+smj,Semai,4.33333333333,101.666666667,MY,Malaysia,Asia
+beg,Begak-Ida'an,5.25,118.833333333,MY,Malaysia,Asia
+mly,Malay,3.0,102.0,MY,Malaysia,Asia
+mta,Mentuh Tapuh,1.25,111.0,MY,Malaysia,Asia
+mlc,Malacca Creole,2.2,102.25,MY,Malaysia,Asia
+tat,Tatana',5.5,115.5,MY,Malaysia,Asia
+tsg,Tausug,6.0,121.0,MY,Malaysia,Asia
+kdz,Kadazan,5.916666666669999,117.166666667,MY,Malaysia,Asia
+tim,Timugon,5.0,116.0,MY,Malaysia,Asia
+tmr,Temiar,5.0,101.5,MY,Malaysia,Asia
+iba,Iban,2.0,112.0,MY,Malaysia,Asia
+sml,Semelai,3.0,103.0,MY,Malaysia,Asia
+bgz,Banggi,7.25,117.166666667,MY,Malaysia,Asia
+bwc,Bajau (West Coast),6.333333333330001,116.333333333,MY,Malaysia,Asia
+fuz,Fuzhou,26.0,119.5,TH,Thailand,Asia
+akh,Akha,21.8333333333,99.8333333333,TH,Thailand,Asia
+lah,Lahu,20.0,98.1666666667,TH,Thailand,Asia
+sae,Saek,17.4166666667,104.75,TH,Thailand,Asia
+lao,Lao,18.0,103.0,TH,Thailand,Asia
+ths,Thai Sign Language,15.0,101.0,TH,Thailand,Asia
+biu,Bisu,19.75,100.0,TH,Thailand,Asia
+nkt,Nyah Kur (Tha Pong),15.666666666700001,101.666666667,TH,Thailand,Asia
+phl,Phlong,15.0,99.0,TH,Thailand,Asia
+mlm,Mlabri (Minor),18.5,101.0,TH,Thailand,Asia
+mon,Mon,14.833333333299999,100.5,TH,Thailand,Asia
+url,Urak Lawoi',8.0,98.3333333333,TH,Thailand,Asia
+kyl,Kayah Li (Eastern),19.0,97.5,TH,Thailand,Asia
+tha,Thai,16.0,101.0,TH,Thailand,Asia
+ksn,Kasong,12.75,102.116666667,TH,Thailand,Asia
+lu,Lü,22.0,100.666666667,LA,Laos,Asia
+ksi,Ksingmul,21.0833333333,104.0,LA,Laos,Asia
+ktu,Katu,15.833333333299999,107.583333333,LA,Laos,Asia
+jeh,Jeh,15.166666666700001,107.833333333,LA,Laos,Asia
+bru,Bru (Eastern),17.3333333333,106.0,LA,Laos,Asia
+oi,Oi,14.833333333299999,107.166666667,LA,Laos,Asia
+sae,Saek,17.4166666667,104.75,LA,Laos,Asia
+lov,Loven,15.0,106.333333333,LA,Laos,Asia
+brw,Bru (Western),16.75,104.75,LA,Laos,Asia
+sap,Sapuan,15.166666666700001,106.833333333,LA,Laos,Asia
+lao,Lao,18.0,103.0,LA,Laos,Asia
+kmu,Khmu',21.0,102.0,LA,Laos,Asia
+kmk,Kalmyk,44.0,83.0,RU,Russia,Eurasia
+but,Buriat,52.0,108.0,RU,Russia,Eurasia
+moe,Mordvin (Erzya),53.0,45.5,RU,Russia,Eurasia
+tsa,Tsakhur,41.6666666667,47.1666666667,RU,Russia,Eurasia
+rut,Rutul,41.5,47.4166666667,RU,Russia,Eurasia
+ava,Avar,42.5,46.5,RU,Russia,Eurasia
+lez,Lezgian,41.6666666667,47.8333333333,RU,Russia,Eurasia
+ash,Adyghe (Shapsugh),45.0,38.75,RU,Russia,Eurasia
+anx,Andi,42.75,46.25,RU,Russia,Eurasia
+cly,Chulym,54.3333333333,89.6666666667,RU,Russia,Eurasia
+dol,Dolgan,71.25,98.0,RU,Russia,Eurasia
+hnk,Hinuq,42.1666666667,46.0,RU,Russia,Eurasia
+izh,Izhor,59.0,29.0,RU,Russia,Eurasia
+khv, Khwarshi,42.25,46.1666666667,RU,Russia,Eurasia
+ntu,Nenets,70.0,76.0,RU,Russia,Eurasia
+nok,Noghay (Karagash),47.5,47.25,RU,Russia,Eurasia
+ttb,Tatar (Baraba),55.3333333333,78.3333333333,RU,Russia,Eurasia
+tmi,Tatar (Mishar),55.5,49.0,RU,Russia,Eurasia
+tlb,Tatar-Noghay (Alabugat),47.4166666667,45.6666666667,RU,Russia,Eurasia
+tnd,Tindi,42.3666666667,46.25,RU,Russia,Eurasia
+ulc,Ulcha,52.25,140.33333333299998,RU,Russia,Eurasia
+vep,Veps,60.0,35.0,RU,Russia,Eurasia
+yug,Yugh,61.0,90.0,RU,Russia,Eurasia
+yta,Yurt Tatar,46.3333333333,48.5,RU,Russia,Eurasia
+adt,Adyghe (Temirgoy),45.2166666667,39.7,RU,Russia,Eurasia
+axv,Akhvakh,42.3333333333,46.3333333333,RU,Russia,Eurasia
+neg,Negidal,53.0,139.0,RU,Russia,Eurasia
+rsl,Russian Sign Language,56.0,44.0,RU,Russia,Eurasia
+tbs,Tabassaran,41.8333333333,47.9166666667,RU,Russia,Eurasia
+tof,Tofa,53.75,98.0,RU,Russia,Eurasia
+aso,Altai (Southern),51.0,87.0,RU,Russia,Eurasia
+alu,Alutor,61.0,165.0,RU,Russia,Eurasia
+chm,Chamalal,42.55,46.05,RU,Russia,Eurasia
+ktt,Kott,57.0,94.0,RU,Russia,Eurasia
+rnr,Romani (North Russian),60.0,38.0,RU,Russia,Eurasia
+rcp,Russian-Chinese Pidgin (Birobidjan),48.8,132.95,RU,Russia,Eurasia
+shr,Shor,53.0,88.0,RU,Russia,Eurasia
+yna,Yupik (Naukan),66.0,-172.0,RU,Russia,Eurasia
+ysi,Yupik (Sirenik),64.5,-174.0,RU,Russia,Eurasia
+krt,Karata,42.5833333333,46.3333333333,RU,Russia,Eurasia
+ski,Saami (Kildin),67.0,37.0,RU,Russia,Eurasia
+yzv,Yazva,65.0,55.0,RU,Russia,Eurasia
+bez,Bezhta,42.0833333333,46.1666666667,RU,Russia,Eurasia
+krq,Kerek,62.25,175.0,RU,Russia,Eurasia
+orc,Oroch,50.3333333333,137.5,RU,Russia,Eurasia
+agl,Aghul,41.75,47.6666666667,RU,Russia,Eurasia
+krl,Karelian,64.0,32.0,RU,Russia,Eurasia
+kuq,Kumyk,43.0,47.3333333333,RU,Russia,Eurasia
+mmo,Mordvin (Moksha),54.0,44.0,RU,Russia,Eurasia
+nvs,Nivkh (South Sakhalin),47.0,142.5,RU,Russia,Eurasia
+abz,Abaza,44.0,42.0,RU,Russia,Eurasia
+mah,Mari (Hill),57.0,58.0,RU,Russia,Eurasia
+tsz,Tsez,42.25,45.75,RU,Russia,Eurasia
+bgv,Bagvalal,42.5833333333,46.1666666667,RU,Russia,Eurasia
+khk,Khakas,53.0,90.0,RU,Russia,Eurasia
+ady,Adyghe (Abzakh),45.2333333333,40.5833333333,RU,Russia,Eurasia
+nog,Noghay,44.0,46.0,RU,Russia,Eurasia
+vot,Votic,59.5,30.0,RU,Russia,Eurasia
+ene,Enets,67.5,86.5,RU,Russia,Eurasia
+kop,Komi-Permyak,59.5,54.5,RU,Russia,Eurasia
+ork,Orok,49.5,143.5,RU,Russia,Eurasia
+kms,Kamass,52.0,92.0,RU,Russia,Eurasia
+drg,Dargwa,42.25,47.4166666667,RU,Russia,Eurasia
+nai,Nanai,49.5,137.0,RU,Russia,Eurasia
+god,Godoberi,42.6666666667,46.0833333333,RU,Russia,Eurasia
+uby,Ubykh,43.6666666667,39.6666666667,RU,Russia,Eurasia
+yus,Yupik (Siberian),65.0,-173.0,RU,Russia,Eurasia
+krc,Karachay-Balkar,43.5,42.0,RU,Russia,Eurasia
+nga,Nganasan,71.0,93.0,RU,Russia,Eurasia
+udm,Udmurt,57.5,52.5,RU,Russia,Eurasia
+ytu,Yukaghir (Tundra),69.0,155.0,RU,Russia,Eurasia
+kry,Koryak,61.0,167.0,RU,Russia,Eurasia
+kzy,Komi-Zyrian,65.0,55.0,RU,Russia,Eurasia
+chc,Chechen,43.25,45.8333333333,RU,Russia,Eurasia
+mme,Mari (Meadow),57.0,48.0,RU,Russia,Eurasia
+skp,Selkup,65.0,82.0,RU,Russia,Eurasia
+tvo,Tatar,56.0,49.5,RU,Russia,Eurasia
+udh,Udihe,47.6666666667,136.25,RU,Russia,Eurasia
+oss,Ossetic,43.0,44.0,RU,Russia,Eurasia
+evn,Even,68.0,130.0,RU,Russia,Eurasia
+ite,Itelmen,57.0,157.5,RU,Russia,Eurasia
+kab,Kabardian,43.5,43.5,RU,Russia,Eurasia
+bsk,Bashkir,53.0,58.0,RU,Russia,Eurasia
+mns,Mansi,62.0,62.0,RU,Russia,Eurasia
+arc,Archi,42.0,46.8333333333,RU,Russia,Eurasia
+kty,Khanty,65.0,65.0,RU,Russia,Eurasia
+ykt,Yakut,62.0,130.0,RU,Russia,Eurasia
+tuv,Tuvan,52.0,95.0,RU,Russia,Eurasia
+lak,Lak,42.1666666667,47.1666666667,RU,Russia,Eurasia
+chv,Chuvash,55.5,47.5,RU,Russia,Eurasia
+nen,Nenets (Forest),69.0,72.0,RU,Russia,Eurasia
+ket,Ket,64.0,87.0,RU,Russia,Eurasia
+hzb,Hunzib,42.1666666667,46.25,RU,Russia,Eurasia
+ing,Ingush,43.1666666667,45.0833333333,RU,Russia,Eurasia
+niv,Nivkh,53.3333333333,142.0,RU,Russia,Eurasia
+yko,Yukaghir (Kolyma),65.75,150.83333333299998,RU,Russia,Eurasia
+chk,Chukchi,67.0,-173.0,RU,Russia,Eurasia
+eve,Evenki,56.0,125.0,RU,Russia,Eurasia
+rus,Russian,56.0,38.0,RU,Russia,Eurasia
+ics,Icelandic Sign Language,65.0,-18.0,IS,Iceland,Europe
+ice,Icelandic,65.0,-17.0,IS,Iceland,Europe
+kym,Krymchak,45.0,34.25,UA,Ukraine,Asia
+urm,Urum,47.1166666667,37.55,UA,Ukraine,Asia
+ydd,Yiddish,52.0,23.0,UA,Ukraine,Asia
+krm,Karaim,54.6666666667,24.9166666667,UA,Ukraine,Asia
+ukr,Ukrainian,49.0,33.0,UA,Ukraine,Asia
+urm,Urum,47.1166666667,37.55,GE,Georgia,Asia
+oss,Ossetic,43.0,44.0,GE,Georgia,Asia
+mgl,Mingrelian,42.5,42.0,GE,Georgia,Asia
+sva,Svan,43.0,42.5,GE,Georgia,Asia
+laz,Laz,41.5,41.5,GE,Georgia,Asia
+ttu,Tsova-Tush,42.5,45.5,GE,Georgia,Asia
+geo,Georgian,42.0,44.0,GE,Georgia,Asia
+abk,Abkhaz,43.0833333333,41.0,GE,Georgia,Asia
+ydd,Yiddish,52.0,23.0,BY,Belarus,Europe
+blr,Belorussian,54.0,28.0,BY,Belarus,Europe
+ydd,Yiddish,52.0,23.0,DE,Germany,Europe
+fri,Frisian,53.0,5.0,DE,Germany,Europe
+ger,German,52.0,10.0,DE,Germany,Europe
+fea,Frisian (Eastern),53.5833333333,7.5,DE,Germany,Europe
+fno,Frisian (North),54.5,9.0,DE,Germany,Europe
+gba,German (Bavarian),49.0,11.5,DE,Germany,Europe
+gbl,German (Berlin),52.5,13.333333333299999,DE,Germany,Europe
+gha,German (Hannover),52.4166666667,9.666666666669999,DE,Germany,Europe
+gma,German (Mansfeldisch),51.5833333333,11.5,DE,Germany,Europe
+gth,German (Thuringian),51.0,11.0,DE,Germany,Europe
+gwe,German (Westphalian),52.0,7.5,DE,Germany,Europe
+lge,Low German,53.0,10.0,DE,Germany,Europe
+srl,Sorbian (Lower),51.75,14.333333333299999,DE,Germany,Europe
+dge,Deutsche Gebärdensprache,52.0,11.0,DE,Germany,Europe
+plb,Polabian,51.0,12.833333333299999,DE,Germany,Europe
+sou,Sorbian (Upper),51.8333333333,14.5,DE,Germany,Europe
+srb,Sorbian,51.5,14.0,DE,Germany,Europe
+ydd,Yiddish,52.0,23.0,LT,Lithuania,Europe
+krm,Karaim,54.6666666667,24.9166666667,LT,Lithuania,Europe
+ylt,Yiddish (Lithuanian),55.0,25.0,LT,Lithuania,Europe
+lit,Lithuanian,55.0,24.0,LT,Lithuania,Europe
+ydd,Yiddish,52.0,23.0,PL,Poland,Europe
+ksu,Kashubian,54.0,18.0,PL,Poland,Europe
+ydl,Yiddish (Lodz),51.75,19.4166666667,PL,Poland,Europe
+svc,Slovincian,54.0,16.0,PL,Poland,Europe
+pol,Polish,52.0,20.0,PL,Poland,Europe
+sey,Seychelles Creole,-4.75,55.5,SC,Seychelles,Africa
+duz,Dutch (Zeeuws),51.5,3.75,NL,Netherlands,Europe
+ned,Nederlandse Gebarentaal,52.25,5.5,NL,Netherlands,Europe
+frw,Frisian (Western),53.0,6.0,NL,Netherlands,Europe
+fri,Frisian,53.0,5.0,NL,Netherlands,Europe
+dut,Dutch,52.5,6.0,NL,Netherlands,Europe
+duz,Dutch (Zeeuws),51.5,3.75,BE,Belgium,Europe
+dbr,Dutch (Brabantic),50.75,4.5,BE,Belgium,Europe
+dli,Dutch (Limburg),51.0,5.5,BE,Belgium,Europe
+grp,German (Ripuarian),51.0,7.0,BE,Belgium,Europe
+vla,Vlaamse Gebarentaal,51.0,4.0,BE,Belgium,Europe
+mkg,Mandinka (Gambian),13.416666666700001,-16.0,GM,Gambia,Africa
+wlf,Wolof,15.25,-16.0,GM,Gambia,Africa
+dio,Diola-Fogny,13.0,-16.25,GM,Gambia,Africa
+gpz,German (Appenzell),47.3333333333,9.333333333330001,CH,Switzerland,Europe
+gbe,German (Bern),47.0,7.416666666669999,CH,Switzerland,Europe
+gos,German (Ostschweiz),47.4166666667,9.25,CH,Switzerland,Europe
+gtg,German (Thurgau),47.5833333333,9.166666666669999,CH,Switzerland,Europe
+gzu,German (Zurich),47.4166666667,8.5,CH,Switzerland,Europe
+rmc,Romansch,46.6666666667,9.166666666669999,CH,Switzerland,Europe
+rsm,Romansch (Surmeiran),46.5833333333,9.75,CH,Switzerland,Europe
+rsc,Romansch (Scharans),46.75,9.5,CH,Switzerland,Europe
+rsu,Romansch (Sursilvan),46.6666666667,8.833333333330001,CH,Switzerland,Europe
+ita,Italian,43.0,12.0,CH,Switzerland,Europe
+ger,German,52.0,10.0,CH,Switzerland,Europe
+fre,French,48.0,2.0,CH,Switzerland,Europe
+ita,Italian,43.0,12.0,IT,Italy,Europe
+itb,Italian (Bologna),44.5,11.333333333299999,IT,Italy,Europe
+ifi,Italian (Fiorentino),43.75,11.25,IT,Italy,Europe
+itg,Italian (Genoa),44.4166666667,8.95,IT,Italy,Europe
+itn,Italian (Napolitanian),40.9166666667,14.25,IT,Italy,Europe
+itu,Italian (Turinese),45.0,7.666666666669999,IT,Italy,Europe
+ldn,Ladin,46.5833333333,11.916666666700001,IT,Italy,Europe
+lii,Lingua Italiana dei Segni,42.0,13.0,IT,Italy,Europe
+srd,Sardinian,40.0,9.0,IT,Italy,Europe
+ger,German,52.0,10.0,AT,Austria,Europe
+gba,German (Bavarian),49.0,11.5,AT,Austria,Europe
+gau,German (Upper Austrian),47.0,14.0,AT,Austria,Europe
+gvi,German (Viennese),48.1666666667,16.3333333333,AT,Austria,Europe
+rbg,Romani (Burgenland),47.5,16.5,AT,Austria,Europe
+fre,French,48.0,2.0,FR,France,Europe
+alt,Alsatian,48.5,7.5,FR,France,Europe
+pro,Provençal,44.0,6.0,FR,France,Europe
+lsf,Langue des Signes Française,47.0,3.0,FR,France,Europe
+bso,Basque (Souletin),43.5,-1.5,FR,France,Europe
+occ,Occitan,44.0,2.0,FR,France,Europe
+bre,Breton,48.0,-3.0,FR,France,Europe
+bsq,Basque,43.0,-3.0,FR,France,Europe
+mlt,Maltese,35.9166666667,14.416666666700001,MT,Malta,Europe
+gcy,Greek (Cypriot),34.75,33.0,CY,Cyprus,Europe
+ako,Arabic (Kormakiti),35.25,33.5,CY,Cyprus,Europe
+gso,Greenlandic (South),60.0,-44.0,GL,Greenland,Europe
+gre,Greenlandic (East),65.0,-40.0,GL,Greenland,Europe
+grw,Greenlandic (West),64.0,-51.0,GL,Greenland,Europe
+qec,Quechua (Ecuadorean),-1.0,-79.0,EC,Ecuador,South America
+sec,Secoya,-0.33333333333299997,-76.0,EC,Ecuador,South America
+esm,Esmeraldeño,0.33333333333299997,-79.8333333333,EC,Ecuador,South America
+zpr,Zaparo,-2.0,-76.3333333333,EC,Ecuador,South America
+cof,Cofán,0.166666666667,-77.1666666667,EC,Ecuador,South America
+tsf,Tsafiki,-1.0,-79.3333333333,EC,Ecuador,South America
+sin,Siona,0.33333333333299997,-76.25,EC,Ecuador,South America
+cay,Cayapa,0.666666666667,-79.0,EC,Ecuador,South America
+jiv,Jivaro,-2.5,-78.0,EC,Ecuador,South America
+wao,Waorani,-1.0,-76.5,EC,Ecuador,South America
+qim,Quechua (Imbabura),0.33333333333299997,-78.0,EC,Ecuador,South America
+awp,Awa Pit,1.5,-78.25,EC,Ecuador,South America
+sec,Secoya,-0.33333333333299997,-76.0,PE,Peru,South America
+zpr,Zaparo,-2.0,-76.3333333333,PE,Peru,South America
+bor,Bora,-2.16666666667,-72.3333333333,PE,Peru,South America
+hum,Huitoto (Murui),-1.0,-73.5,PE,Peru,South America
+res,Resígaro,-2.41666666667,-71.5,PE,Peru,South America
+aym,Aymara (Central),-17.0,-69.0,PE,Peru,South America
+puq,Puquina,-16.5,-68.5,PE,Peru,South America
+ese,Ese Ejja,-11.0,-66.0,PE,Peru,South America
+cul,Culina,-6.0,-70.5,PE,Peru,South America
+csh,Cashinahua,-10.5,-71.8333333333,PE,Peru,South America
+shh,Sharanahua,-11.0,-70.0,PE,Peru,South America
+yam,Yaminahua,-8.0,-73.0,PE,Peru,South America
+myr,Matsés,-5.416666666669999,-73.25,PE,Peru,South America
+tic,Ticuna,-4.0,-70.5,PE,Peru,South America
+amc,Amahuaca,-10.5,-72.5,PE,Peru,South America
+oma,Omagua,-4.0,-73.5,PE,Peru,South America
+hmb,Huambisa,-4.0,-78.0,PE,Peru,South America
+qan,Quechua (Ancash),-8.5,-77.5,PE,Peru,South America
+qca,Quechua (Cajamarca),-7.0,-78.5,PE,Peru,South America
+nom,Nomatsiguenga,-11.666666666700001,-74.5,PE,Peru,South America
+ore,Orejón,-2.83333333333,-72.5,PE,Peru,South America
+qta,Quechua (Tarma),-11.416666666700001,-75.75,PE,Peru,South America
+agr,Aguaruna,-5.0,-78.0,PE,Peru,South America
+cpa,Campa Pajonal Asheninca,-10.6666666667,-74.25,PE,Peru,South America
+mcc,Mochica,-7.5,-79.3333333333,PE,Peru,South America
+tsr,Taushiro,-3.25,-75.5,PE,Peru,South America
+amk,Amarakaeri,-12.5,-70.5,PE,Peru,South America
+qay,Quechua (Ayacucho),-14.0,-74.0,PE,Peru,South America
+urn,Urarina,-4.5,-75.5,PE,Peru,South America
+qcu,Quechua (Cuzco),-14.5,-71.0,PE,Peru,South America
+cln,Cholón,-8.0,-77.5,PE,Peru,South America
+hmu,Huitoto (Muinane),-2.41666666667,-71.0,PE,Peru,South America
+chy,Chayahuita,-5.5,-77.0,PE,Peru,South America
+mch,Machiguenga,-12.0,-72.6666666667,PE,Peru,South America
+acu,Achuar,-2.66667,-76.0,PE,Peru,South America
+cap,Capanahua,-7.0,-74.0,PE,Peru,South America
+cas,Cashibo,-8.5,-75.5,PE,Peru,South America
+can,Candoshi,-4.16666666667,-77.0,PE,Peru,South America
+arb,Arabela,-2.0,-75.1666666667,PE,Peru,South America
+oca,Ocaina,-2.75,-71.75,PE,Peru,South America
+iqu,Iquito,-3.25,-74.0,PE,Peru,South America
+amu,Amuesha,-10.5,-75.4166666667,PE,Peru,South America
+coc,Cocama,-5.0,-74.5,PE,Peru,South America
+pir,Piro,-11.0,-73.5,PE,Peru,South America
+jeb,Jebero,-5.416666666669999,-76.5,PE,Peru,South America
+qhu,Quechua (Huallaga),-9.5,-75.5,PE,Peru,South America
+cax,Campa (Axininca),-12.0,-74.0,PE,Peru,South America
+jaq,Jaqaru,-13.0,-76.0,PE,Peru,South America
+shk,Shipibo-Konibo,-7.5,-75.0,PE,Peru,South America
+yag,Yagua,-3.5,-72.0,PE,Peru,South America
+cof,Cofán,0.166666666667,-77.1666666667,CO,Colombia,South America
+sin,Siona,0.33333333333299997,-76.25,CO,Colombia,South America
+awp,Awa Pit,1.5,-78.25,CO,Colombia,South America
+guq,Guaque,1.0,-72.0833333333,CO,Colombia,South America
+hia,Hianacoto,0.833333333333,-71.0,CO,Colombia,South America
+umu,Umaua,1.0,-72.0,CO,Colombia,South America
+yrm,Yurimangí,3.83333333333,-77.0,CO,Colombia,South America
+cat,Catio,7.166666666669999,-76.3333333333,CO,Colombia,South America
+cma,Chimila,10.0,-74.0,CO,Colombia,South America
+cur,Curripaco,2.5,-68.5,CO,Colombia,South America
+gyb,Guayabero,2.83333333333,-72.0,CO,Colombia,South America
+mcg,Macaguán,6.5,-71.3333333333,CO,Colombia,South America
+mcn,Macuna,-0.33333333333299997,-70.1666666667,CO,Colombia,South America
+mti,Barí,9.0,-73.0,CO,Colombia,South America
+nuk,Nukak,2.5,-71.5,CO,Colombia,South America
+ppc,Piapoco,4.0,-69.5,CO,Colombia,South America
+prt,Piratapuyo,0.33333333333299997,-69.5,CO,Colombia,South America
+pla,Playero,7.0,-71.0,CO,Colombia,South America
+pui,Puinave,4.0,-68.0,CO,Colombia,South America
+sri,Siriano,0.75,-70.1666666667,CO,Colombia,South America
+tty,Tatuyo,0.416666666667,-70.5,CO,Colombia,South America
+yrt,Yuruti,1.0,-70.4166666667,CO,Colombia,South America
+gno,Guanano,0.833333333333,-69.5,CO,Colombia,South America
+crj,Carijona,1.0,-73.0,CO,Colombia,South America
+cog,Cogui,11.0,-73.8333333333,CO,Colombia,South America
+ykp,Yukpa,10.1666666667,-72.75,CO,Colombia,South America
+iga,Inga,1.0,-77.0,CO,Colombia,South America
+bor,Bora,-2.16666666667,-72.3333333333,CO,Colombia,South America
+emc,Embera Chami,5.0,-76.0,CO,Colombia,South America
+tnb,Tunebo,6.75,-72.25,CO,Colombia,South America
+bti,Betoi,7.166666666669999,-71.25,CO,Colombia,South America
+des,Desano,0.833333333333,-69.8333333333,CO,Colombia,South America
+cui,Cuiba,6.5,-70.0,CO,Colombia,South America
+wau,Waunana,4.0,-77.0,CO,Colombia,South America
+bno,Waimaha,0.33333333333299997,-70.25,CO,Colombia,South America
+cac,Cacua,1.08333333333,-70.0,CO,Colombia,South America
+crp,Carapana,0.833333333333,-70.75,CO,Colombia,South America
+dam,Damana,11.0,-73.5,CO,Colombia,South America
+ghb,Guahibo,5.0,-69.0,CO,Colombia,South America
+msc,Muisca,5.0,-74.0,CO,Colombia,South America
+gmb,Guambiano,2.5,-76.6666666667,CO,Colombia,South America
+kje,Koreguaje,1.0,-75.5,CO,Colombia,South America
+tuy,Tuyuca,0.5,-70.0833333333,CO,Colombia,South America
+kun,Kuna,8.0,-77.3333333333,CO,Colombia,South America
+sba,Sáliba (in Colombia),6.0,-70.0,CO,Colombia,South America
+ycn,Yucuna,-0.75,-71.0,CO,Colombia,South America
+hpd,Hup,0.166666666667,-69.25,CO,Colombia,South America
+acg,Achagua,4.41666666667,-72.25,CO,Colombia,South America
+cam,Camsá,1.16666666667,-77.0,CO,Colombia,South America
+mui,Muinane,-1.0,-72.5,CO,Colombia,South America
+adk,Andoke,-0.666666666667,-72.0,CO,Colombia,South America
+emb,Emberá (Northern),6.833333333330001,-77.1666666667,CO,Colombia,South America
+hmi,Huitoto (Minica),-0.33333333333299997,-74.0,CO,Colombia,South America
+tuc,Tucano,0.5,-69.1666666667,CO,Colombia,South America
+hum,Huitoto (Murui),-1.0,-73.5,CO,Colombia,South America
+wrk,Warekena,1.5,-67.5,CO,Colombia,South America
+goa,Goajiro,12.0,-72.0,CO,Colombia,South America
+res,Resígaro,-2.41666666667,-71.5,CO,Colombia,South America
+cub,Cubeo,1.33333333333,-70.5,CO,Colombia,South America
+pae,Páez,2.66666666667,-76.0,CO,Colombia,South America
+ret,Retuarã,-0.5,-70.6666666667,CO,Colombia,South America
+ika,Ika,10.6666666667,-73.75,CO,Colombia,South America
+brs,Barasano,-0.166666666667,-70.6666666667,CO,Colombia,South America
+epe,Epena Pedee,3.0,-77.0,CO,Colombia,South America
+kaz,Kazakh,50.0,70.0,KZ,Kazakhstan,Asia
+moe,Mordvin (Erzya),53.0,45.5,KZ,Kazakhstan,Asia
+gfr,Guianese French Creole,5.0,-53.0,GF,French Guiana,South America
+wyn,Wayana,3.25,-54.1666666667,GF,French Guiana,South America
+srm,Saramaccan,4.5,-55.5,GF,French Guiana,South America
+ndy,Ndyuka,4.5,-54.5,GF,French Guiana,South America
+eme,Émérillon,3.16666666667,-52.4166666667,GF,French Guiana,South America
+wyn,Wayana,3.25,-54.1666666667,SR,Suriname,South America
+srm,Saramaccan,4.5,-55.5,SR,Suriname,South America
+ndy,Ndyuka,4.5,-54.5,SR,Suriname,South America
+sra,Sranan,5.833333333330001,-55.3333333333,SR,Suriname,South America
+tir,Tiriyo,3.25,-55.75,SR,Suriname,South America
+ara,Arawak,5.5,-55.1666666667,SR,Suriname,South America
+car,Carib,5.5,-56.0,SR,Suriname,South America
+wyn,Wayana,3.25,-54.1666666667,BR,Brazil,South America
+tir,Tiriyo,3.25,-55.75,BR,Brazil,South America
+wai,Wai Wai,1.0,-59.0,BR,Brazil,South America
+wps,Wapishana,2.66666666667,-60.0,BR,Brazil,South America
+mac,Macushi,4.0,-60.0,BR,Brazil,South America
+mcn,Macuna,-0.33333333333299997,-70.1666666667,BR,Brazil,South America
+prt,Piratapuyo,0.33333333333299997,-69.5,BR,Brazil,South America
+sri,Siriano,0.75,-70.1666666667,BR,Brazil,South America
+gno,Guanano,0.833333333333,-69.5,BR,Brazil,South America
+des,Desano,0.833333333333,-69.8333333333,BR,Brazil,South America
+crp,Carapana,0.833333333333,-70.75,BR,Brazil,South America
+tuy,Tuyuca,0.5,-70.0833333333,BR,Brazil,South America
+hpd,Hup,0.166666666667,-69.25,BR,Brazil,South America
+tuc,Tucano,0.5,-69.1666666667,BR,Brazil,South America
+hum,Huitoto (Murui),-1.0,-73.5,BR,Brazil,South America
+wrk,Warekena,1.5,-67.5,BR,Brazil,South America
+kaw,Kaiwá,-23.0,-55.0,BR,Brazil,South America
+bah,Xiriana,2.6666666666666696,-62.5,BR,Brazil,South America
+jrn,Juruna,-5.0,-54.5,BR,Brazil,South America
+usl,Urubú Sign Language,-2.33333333333,-46.0,BR,Brazil,South America
+ynm,Yanomámi,2.33333333333,-63.0,BR,Brazil,South America
+cnm,Canamarí,-6.5,-68.5,BR,Brazil,South America
+cnl,Canela,-7.0,-45.0,BR,Brazil,South America
+kdg,Karipuna (Panoan),-10.0,-65.0,BR,Brazil,South America
+lsb,Língua de Sinais Brasileira,-15.0,-48.0,BR,Brazil,South America
+mkw,Máku,0.416666666667,-69.8333333333,BR,Brazil,South America
+den,Dení,-6.0,-67.0,BR,Brazil,South America
+jmm,Jamamadi,-7.5,-67.0,BR,Brazil,South America
+prc,Paresi,-14.0,-57.5,BR,Brazil,South America
+trn,Terêna,-20.0,-56.0,BR,Brazil,South America
+xer,Xerénte,-10.0,-48.1666666667,BR,Brazil,South America
+jum,Júma,-7.5,-64.0,BR,Brazil,South America
+bna,Banawá,-7.0,-65.0,BR,Brazil,South America
+jwr,Jarawara,-7.5,-65.5,BR,Brazil,South America
+wur,Waurá,-13.0,-53.0,BR,Brazil,South America
+cul,Culina,-6.0,-70.5,BR,Brazil,South America
+asu,Asuriní,-3.5,-49.5,BR,Brazil,South America
+bnw,Baniwa,2.66666666667,-66.8333333333,BR,Brazil,South America
+kna,Karitiâna,-9.5,-64.0,BR,Brazil,South America
+rik,Rikbaktsa,-11.833333333299999,-57.5,BR,Brazil,South America
+csh,Cashinahua,-10.5,-71.8333333333,BR,Brazil,South America
+tup,Tupi,-6.0,-36.0,BR,Brazil,South America
+jbt,Jabutí,-12.25,-62.25,BR,Brazil,South America
+krh,Krahô,-8.0,-48.0,BR,Brazil,South America
+kdw,Kadiwéu,-20.0,-57.0,BR,Brazil,South America
+kyp,Kayapó,-9.0,-52.0,BR,Brazil,South America
+muu,Mundurukú,-7.0,-58.0,BR,Brazil,South America
+shh,Sharanahua,-11.0,-70.0,BR,Brazil,South America
+bki,Bakairí,-14.0,-55.0,BR,Brazil,South America
+gto,Guató,-17.0,-58.0,BR,Brazil,South America
+kwz,Kwaza,-12.583333333299999,-60.6666666667,BR,Brazil,South America
+aik,Aikaná,-12.666666666700001,-60.6666666667,BR,Brazil,South America
+daw,Dâw,-0.25,-67.0833333333,BR,Brazil,South America
+xav,Xavánte,-15.0,-52.5,BR,Brazil,South America
+xok,Xokleng,-24.5,-50.0,BR,Brazil,South America
+yam,Yaminahua,-8.0,-73.0,BR,Brazil,South America
+max,Maxakalí,-18.0,-40.0,BR,Brazil,South America
+myr,Matsés,-5.416666666669999,-73.25,BR,Brazil,South America
+gav,Gavião,-10.6666666667,-62.0,BR,Brazil,South America
+mek,Mekens,-12.5,-61.5,BR,Brazil,South America
+mts,Matis,-4.41666666667,-70.25,BR,Brazil,South America
+nad,Nadëb,-1.0,-66.5,BR,Brazil,South America
+irx,Iranxe,-13.0,-58.0,BR,Brazil,South America
+jva,Karajá,-10.0,-50.3333333333,BR,Brazil,South America
+kaa,Karó (Arára),-10.3333333333,-62.0,BR,Brazil,South America
+gjj,Guajajara,-5.0,-46.0,BR,Brazil,South America
+way,Wayampi,1.0,-52.0,BR,Brazil,South America
+kri,Kipea,-10.0,-37.0,BR,Brazil,South America
+ful,Fulniô,-8.0,-37.5,BR,Brazil,South America
+tic,Ticuna,-4.0,-70.5,BR,Brazil,South America
+tar,Tariana,1.0,-69.1666666667,BR,Brazil,South America
+kma,Kamaiurá,-12.083333333299999,-52.5833333333,BR,Brazil,South America
+plk,Palikur,3.0,-51.0,BR,Brazil,South America
+kng,Kaingang,-26.0,-52.0,BR,Brazil,South America
+amc,Amahuaca,-10.5,-72.5,BR,Brazil,South America
+api,Apinayé,-5.5,-48.0,BR,Brazil,South America
+shi,Shiriana,3.5,-62.8333333333,BR,Brazil,South America
+bae,Baré,1.0,-67.0,BR,Brazil,South America
+apl,Apalaí,0.0,-54.0,BR,Brazil,South America
+nmb,Nambikuára (Southern),-14.0,-59.5,BR,Brazil,South America
+brr,Bororo,-16.0,-57.0,BR,Brazil,South America
+tru,Trumai,-11.916666666700001,-53.5833333333,BR,Brazil,South America
+urk,Urubú-Kaapor,-2.33333333333,-46.5,BR,Brazil,South America
+pau,Paumarí,-6.0,-64.0,BR,Brazil,South America
+snm,Sanuma,4.5,-64.6666666667,BR,Brazil,South America
+apu,Apurinã,-9.0,-67.0,BR,Brazil,South America
+prh,Pirahã,-7.0,-62.0,BR,Brazil,South America
+war,Wari',-11.333333333299999,-65.0,BR,Brazil,South America
+hix,Hixkaryana,-1.0,-59.0,BR,Brazil,South America
+kyz,Kayabí,-11.0,-55.5,BR,Brazil,South America
+kno,Kanoê,-13.25,-61.0,BR,Brazil,South America
+kkq,Kuikúro,-12.416666666700001,-53.0833333333,BR,Brazil,South America
+pnx,Panará,-10.0,-55.0,BR,Brazil,South America
+kqq,Krenak,-15.5,-41.0,BR,Brazil,South America
+ttn,Tetun,-9.0,126.0,TL,East Timor,Asia
+ttd,Tetun Dili,-8.583333333330001,125.583333333,TL,East Timor,Asia
+mkj,Makasae,-8.666666666669999,126.5,TL,East Timor,Asia
+svk,Slovak,49.0,20.0,SK,Slovakia,Europe
+aka,Aka,2.66666666667,16.25,CF,Central African Republic,Africa
+brz,Birri,5.5,25.1666666667,CF,Central African Republic,Africa
+ykm,Yakoma,4.41666666667,18.4166666667,CF,Central African Republic,Africa
+big,Binga,8.0,25.0,CF,Central African Republic,Africa
+aja,Aja,7.333333333330001,25.6666666667,CF,Central African Republic,Africa
+ktk,Kotoko,11.333333333299999,15.333333333299999,CF,Central African Republic,Africa
+mdo,Mbodomo,4.5,15.5,CF,Central African Republic,Africa
+gbk,Gbaya (Northwest),6.0,15.0,CF,Central African Republic,Africa
+nza,Nzakara,5.0,23.0,CF,Central African Republic,Africa
+bgr,Bagiro,4.33333333333,20.5833333333,CF,Central African Republic,Africa
+kar,Kara (in Central African Republic),10.0,23.0,CF,Central African Republic,Africa
+gul,Gula (in Central African Republic),9.5,22.5,CF,Central African Republic,Africa
+run,Runga,10.3333333333,21.0,CF,Central African Republic,Africa
+mbm,Mbum,7.75,13.166666666700001,CF,Central African Republic,Africa
+lnd,Linda,6.5,20.75,CF,Central African Republic,Africa
+zan,Zande,4.0,26.0,CF,Central African Republic,Africa
+gbb,Gbeya Bossangoa,6.666666666669999,17.5,CF,Central African Republic,Africa
+san,Sango,5.0,18.0,CF,Central African Republic,Africa
+aka,Aka,2.66666666667,16.25,CG,Congo,Africa
+ifm,Ifumu,-3.66666666667,15.333333333299999,CG,Congo,Africa
+mbe,Mbere,-0.5,14.0,CG,Congo,Africa
+tks,Teke (Southern),-2.33333333333,14.5,CG,Congo,Africa
+bee,Beembe,-3.91666666667,14.083333333299999,CG,Congo,Africa
+bbl,Babole,1.08333333333,17.25,CG,Congo,Africa
+mnz,Munzombo,3.0,18.4166666667,CG,Congo,Africa
+mdw,Mbosi,-1.25,15.5,CG,Congo,Africa
+vif,Vili,-5.5,14.0,CG,Congo,Africa
+big,Binga,8.0,25.0,SS,South Sudan,Africa
+aja,Aja,7.333333333330001,25.6666666667,SS,South Sudan,Africa
+zan,Zande,4.0,26.0,SS,South Sudan,Africa
+mdu,Mündü,4.5,30.0,SS,South Sudan,Africa
+avo,Avokaya,4.66666666667,30.0,SS,South Sudan,Africa
+cai,Chai,5.33333333333,35.3333333333,SS,South Sudan,Africa
+nue,Nuer,8.333333333330001,32.0,SS,South Sudan,Africa
+any,Anywa,8.0,33.5,SS,South Sudan,Africa
+kom,Komo,8.75,33.75,SS,South Sudan,Africa
+acl,Acholi,3.0,32.6666666667,SS,South Sudan,Africa
+mad,Ma'di,3.25,31.5,SS,South Sudan,Africa
+bar,Bari,5.0,31.6666666667,SS,South Sudan,Africa
+bgo,Bongo,7.5,28.5,SS,South Sudan,Africa
+bka,Baka (in South Sudan),4.83333333333,29.25,SS,South Sudan,Africa
+blj,Baale,6.5,34.5,SS,South Sudan,Africa
+did,Didinga,4.5,33.5,SS,South Sudan,Africa
+din,Dinka,8.5,28.0,SS,South Sudan,Africa
+jlu,Luwo,8.0,28.0,SS,South Sudan,Africa
+jmo,Jur Mödö,6.0,30.0,SS,South Sudan,Africa
+kre,Kresh,8.5,24.5,SS,South Sudan,Africa
+kuk,Kukú,5.833333333330001,31.6666666667,SS,South Sudan,Africa
+mou,Moru,4.75,29.75,SS,South Sudan,Africa
+mrl,Murle,6.5,33.5,SS,South Sudan,Africa
+ndg,Ndogo,7.75,27.0,SS,South Sudan,Africa
+par,Päri,5.0,32.5,SS,South Sudan,Africa
+shl,Shilluk,9.666666666669999,31.75,SS,South Sudan,Africa
+ten,Tennet,4.41666666667,32.5,SS,South Sudan,Africa
+yul,Yulu,8.5,25.25,SS,South Sudan,Africa
+nza,Nzakara,5.0,23.0,CD,Democratic Republic of Congo,Africa
+bgr,Bagiro,4.33333333333,20.5833333333,CD,Democratic Republic of Congo,Africa
+zan,Zande,4.0,26.0,CD,Democratic Republic of Congo,Africa
+yak,Yaka,-7.0,17.5,CD,Democratic Republic of Congo,Africa
+eny,Enya,-0.5,25.25,CD,Democratic Republic of Congo,Africa
+kyo,Kanyok,-7.333333333330001,23.5833333333,CD,Democratic Republic of Congo,Africa
+ktb,Kituba,-5.0,17.5,CD,Democratic Republic of Congo,Africa
+les,Lese,2.0,29.0,CD,Democratic Republic of Congo,Africa
+lgt,Logoti,3.5,30.0,CD,Democratic Republic of Congo,Africa
+mit,Mituku,-1.6666666666699999,25.5,CD,Democratic Republic of Congo,Africa
+sge,Songe,-6.833333333330001,22.0,CD,Democratic Republic of Congo,Africa
+dng,Ding,-4.33333333333,19.5,CD,Democratic Republic of Congo,Africa
+ndi,Ngbandi,3.75,22.0,CD,Democratic Republic of Congo,Africa
+nng,Nyanga,-1.25,28.1666666667,CD,Democratic Republic of Congo,Africa
+mdu,Mündü,4.5,30.0,CD,Democratic Republic of Congo,Africa
+nbe,Ngombe,3.0,23.0,CD,Democratic Republic of Congo,Africa
+tet,Tetela,-4.0,24.0,CD,Democratic Republic of Congo,Africa
+yns,Yansi,-3.83333333333,18.0,CD,Democratic Republic of Congo,Africa
+blu,Bena-Lulua,-6.0,21.0,CD,Democratic Republic of Congo,Africa
+fio,Fiote,-5.5,14.0,CD,Democratic Republic of Congo,Africa
+dok,Doko,3.0,23.0833333333,CD,Democratic Republic of Congo,Africa
+nde,Nande,-0.08333333333330001,29.1666666667,CD,Democratic Republic of Congo,Africa
+nto,Ntomba,-2.0,18.3333333333,CD,Democratic Republic of Congo,Africa
+bol,Bolia,-1.25,18.3333333333,CD,Democratic Republic of Congo,Africa
+sgl,Sengele,-1.8333333333300001,17.3333333333,CD,Democratic Republic of Congo,Africa
+tal,Talinga,0.416666666667,29.6666666667,CD,Democratic Republic of Congo,Africa
+hem,Hemba,-6.25,27.1666666667,CD,Democratic Republic of Congo,Africa
+lmb,Lamba,-13.0,28.0,CD,Democratic Republic of Congo,Africa
+mbl,Mbole,-0.666666666667,24.6666666667,CD,Democratic Republic of Congo,Africa
+bia,Bila,1.0,28.75,CD,Democratic Republic of Congo,Africa
+leb,Lebeo,1.75,25.0,CD,Democratic Republic of Congo,Africa
+leg,Lega,-2.83333333333,27.1666666667,CD,Democratic Republic of Congo,Africa
+ma,Ma,3.5,28.0,CD,Democratic Republic of Congo,Africa
+bob,Bobangi,-1.33333333333,17.3333333333,CD,Democratic Republic of Congo,Africa
+bem,Bemba,-10.0,28.25,CD,Democratic Republic of Congo,Africa
+kil,Kiluba,-8.0,26.0,CD,Democratic Republic of Congo,Africa
+ngb,Ngbaka (Minagende),3.5,20.0,CD,Democratic Republic of Congo,Africa
+bbu,Barambu,3.5,27.0,CD,Democratic Republic of Congo,Africa
+kte,Kete,-7.0,22.8333333333,CD,Democratic Republic of Congo,Africa
+dgo,Dongo,3.0,30.0,CD,Democratic Republic of Congo,Africa
+mgo,Mongo,0.0,21.0,CD,Democratic Republic of Congo,Africa
+tbw,Tabwa,-8.0,29.5,CD,Democratic Republic of Congo,Africa
+avo,Avokaya,4.66666666667,30.0,CD,Democratic Republic of Congo,Africa
+cil,CiLuba,-6.0,22.0,CD,Democratic Republic of Congo,Africa
+mmv,Mamvu,3.25,29.0,CD,Democratic Republic of Congo,Africa
+bsh,Bushoong,-4.5,21.5,CD,Democratic Republic of Congo,Africa
+mga,Mondunga,2.25,21.5,CD,Democratic Republic of Congo,Africa
+mbt,Mangbetu,2.5,26.5,CD,Democratic Republic of Congo,Africa
+hnd,Hunde,-1.16666666667,28.8333333333,CD,Democratic Republic of Congo,Africa
+ldu,Lendu,2.0,30.5,CD,Democratic Republic of Congo,Africa
+lbu,Lunda,-10.6666666667,24.0,CD,Democratic Republic of Congo,Africa
+mba,Mba,1.0,25.0,CD,Democratic Republic of Congo,Africa
+lin,Lingala,2.0,18.5,CD,Democratic Republic of Congo,Africa
+kon,Kongo,-5.0,15.0,CD,Democratic Republic of Congo,Africa
+lug,Lugbara,3.08333333333,30.9166666667,CD,Democratic Republic of Congo,Africa
+nti,Ngiti,1.33333333333,30.25,CD,Democratic Republic of Congo,Africa
+myg,Mayogo,3.0,29.0,CD,Democratic Republic of Congo,Africa
+bdu,Budu,2.0,28.0,CD,Democratic Republic of Congo,Africa
+sku,Suku,-6.0,17.6666666667,CD,Democratic Republic of Congo,Africa
+nbm,Ngbaka (Ma'bo),3.56,18.36,CD,Democratic Republic of Congo,Africa
+tkm,Turkmen,40.0,58.0,TM,Turkmenistan,Asia
+ses,Sesotho,-28.0,27.0,LS,Lesotho,Africa
+arm,Armenian (Eastern),40.0,45.0,AM,Armenia,Asia
+kgi,Konyagi,12.5,-13.25,GN,Guinea,Africa
+mdk,Mandinka,13.0,-15.666666666700001,GN,Guinea,Africa
+dan,Dan,7.5,-8.0,GN,Guinea,Africa
+bsr,Basari,12.666666666700001,-13.0,GN,Guinea,Africa
+mnk,Maninka,10.5,-9.5,GN,Guinea,Africa
+kko,Koranko,9.333333333330001,-11.25,GN,Guinea,Africa
+kis,Kisi,8.833333333330001,-10.1666666667,GN,Guinea,Africa
+lma,Loma,8.0,-9.5,GN,Guinea,Africa
+fgu,Fula (Guinean),11.5,-12.5,GN,Guinea,Africa
+bgs,Baga Sitemu,10.5,-14.5,GN,Guinea,Africa
+kss,Kisi (Southern),8.5,-10.25,GN,Guinea,Africa
+sus,Susu,10.0,-13.0,GN,Guinea,Africa
+man,Mano,7.0,-9.0,GN,Guinea,Africa
+akm,Arakanese (Marma),21.5,92.5,BD,Bangladesh,Asia
+hyo,Hyow,22.0833333333,92.4166666667,BD,Bangladesh,Asia
+bec,Bengali (Chittagong),22.3333333333,91.8333333333,BD,Bangladesh,Asia
+miz,Mizo,23.1666666667,92.8333333333,BD,Bangladesh,Asia
+ben,Bengali,24.0,90.0,BD,Bangladesh,Asia
+baw,Bawm,22.5,92.25,BD,Bangladesh,Asia
+cri,Crimean Tatar,45.0,34.0833333333,UZ,Uzbekistan,Asia
+uzn,Uzbek (Northern),40.6666666667,66.5,UZ,Uzbekistan,Asia
+kkp,Karakalpak,43.0,60.0,UZ,Uzbekistan,Asia
+uzb,Uzbek,39.0,66.0,UZ,Uzbekistan,Asia
+yak,Yaka,-7.0,17.5,AO,Angola,Africa
+xun,!Xun (Ekoka),-19.6666666667,18.0,AO,Angola,Africa
+luc,Lucazi,-14.0,20.0,AO,Angola,Africa
+umb,UMbundu,-12.5,15.0,AO,Angola,Africa
+kxo,Kxoe,-17.5,22.5,AO,Angola,Africa
+kwn,Kwangali,-18.0,19.5,AO,Angola,Africa
+ndo,Ndonga,-18.0,17.0,AO,Angola,Africa
+juh,Ju|'hoan,-19.0,21.0,AO,Angola,Africa
+luv,Luvale,-12.0,22.0,AO,Angola,Africa
+kwy,Iwoyo,-5.5,12.25,AO,Angola,Africa
+sku,Suku,-6.0,17.6666666667,AO,Angola,Africa
+xun,!Xun (Ekoka),-19.6666666667,18.0,,Namibia,Africa
+kxo,Kxoe,-17.5,22.5,,Namibia,Africa
+kwn,Kwangali,-18.0,19.5,,Namibia,Africa
+ndo,Ndonga,-18.0,17.0,,Namibia,Africa
+juh,Ju|'hoan,-19.0,21.0,,Namibia,Africa
+nro,Nharo,-22.3333333333,20.5,,Namibia,Africa
+sub,Subiya,-17.75,24.9166666667,,Namibia,Africa
+her,Herero,-20.5833333333,19.0,,Namibia,Africa
+mhu,Mbalanhu,-17.5,15.0,,Namibia,Africa
+yey,Yeyi,-20.0,23.5,,Namibia,Africa
+kho,Nama,-25.5,18.0,,Namibia,Africa
+juh,Ju|'hoan,-19.0,21.0,BW,Botswana,Africa
+tsw,Tswana,-24.0,26.0,BW,Botswana,Africa
+nro,Nharo,-22.3333333333,20.5,BW,Botswana,Africa
+her,Herero,-20.5833333333,19.0,BW,Botswana,Africa
+yey,Yeyi,-20.0,23.5,BW,Botswana,Africa
+klz,Kalanga,-20.5,27.5,BW,Botswana,Africa
+det,Deti,-20.5,24.5,BW,Botswana,Africa
+xoo,!Xóõ,-24.0,21.5,BW,Botswana,Africa
+ani,//Ani,-18.9166666667,21.9166666667,BW,Botswana,Africa
+huc,=|Hoan,-25.5,25.0,BW,Botswana,Africa
+kin,Kinyarwanda,-2.0,30.0,RW,Rwanda,Africa
+wll,Wallisian,-13.3,-176.2,WF,Wallis and Futuna,Australia & Oceania
+fue,Futuna (East),-14.333333333299999,-178.16666666700002,WF,Wallis and Futuna,Australia & Oceania
+jcr,Jamaican Creole,18.1666666667,-77.25,JM,Jamaica,North America
+sum,Mayangna,13.0,-84.5,NI,Nicaragua,North America
+mis,Miskito,14.0,-83.6666666667,NI,Nicaragua,North America
+ram,Rama,11.75,-83.75,NI,Nicaragua,North America
+tal,Talinga,0.416666666667,29.6666666667,UG,Uganda,Africa
+lug,Lugbara,3.08333333333,30.9166666667,UG,Uganda,Africa
+pkt,Pokot,1.5,35.5,UG,Uganda,Africa
+tna,Turkana,3.0,35.5,UG,Uganda,Africa
+ugs,Ugandan Sign Language,1.0,32.5,UG,Uganda,Africa
+nub,Nubi,0.666666666667,32.0833333333,UG,Uganda,Africa
+rru,Runyoro-Rutooro,1.5,31.3333333333,UG,Uganda,Africa
+nyg,Nyangi,3.41666666667,33.5833333333,UG,Uganda,Africa
+rny,Runyankore,-0.5,30.5,UG,Uganda,Africa
+seb,Sebei,1.33333333333,34.5833333333,UG,Uganda,Africa
+tes,Teso,1.8333333333300001,33.8333333333,UG,Uganda,Africa
+acl,Acholi,3.0,32.6666666667,UG,Uganda,Africa
+kmj,Karimojong,3.0,34.1666666667,UG,Uganda,Africa
+lda,Luganda,0.5,32.1666666667,UG,Uganda,Africa
+mad,Ma'di,3.25,31.5,UG,Uganda,Africa
+so,So,2.58333333333,34.75,UG,Uganda,Africa
+ik,Ik,3.75,34.1666666667,UG,Uganda,Africa
+nko,Nkore-Kiga,-0.916666666667,29.8333333333,UG,Uganda,Africa
+lan,Lango,2.16666666667,33.0,UG,Uganda,Africa
+pem,Pemon,5.33333333333,-62.0,VR,Venezuela,South America
+mac,Macushi,4.0,-60.0,VR,Venezuela,South America
+mti,Barí,9.0,-73.0,VR,Venezuela,South America
+pui,Puinave,4.0,-68.0,VR,Venezuela,South America
+ykp,Yukpa,10.1666666667,-72.75,VR,Venezuela,South America
+bti,Betoi,7.166666666669999,-71.25,VR,Venezuela,South America
+sba,Sáliba (in Colombia),6.0,-70.0,VR,Venezuela,South America
+wrk,Warekena,1.5,-67.5,VR,Venezuela,South America
+goa,Goajiro,12.0,-72.0,VR,Venezuela,South America
+bnw,Baniwa,2.66666666667,-66.8333333333,VR,Venezuela,South America
+shi,Shiriana,3.5,-62.8333333333,VR,Venezuela,South America
+bae,Baré,1.0,-67.0,VR,Venezuela,South America
+snm,Sanuma,4.5,-64.6666666667,VR,Venezuela,South America
+mpy,Mapoyo,6.0,-67.0,VR,Venezuela,South America
+yrr,Yaruro,7.0,-68.0,VR,Venezuela,South America
+cuc,Cuica,9.0,-70.5,VR,Venezuela,South America
+ayo,Ayomán,11.0,-69.0,VR,Venezuela,South America
+jpr,Japreria,10.5,-73.0,VR,Venezuela,South America
+pnr,Panare,6.5,-66.0,VR,Venezuela,South America
+pia,Piaroa,5.0,-67.0,VR,Venezuela,South America
+cde,Carib (De'kwana),5.5,-65.0,VR,Venezuela,South America
+mpr,Maipure,5.5,-67.5,VR,Venezuela,South America
+wra,Warao,9.333333333330001,-61.6666666667,VR,Venezuela,South America
+gus,Gusii,-0.75,34.8333333333,KE,Kenya,Africa
+ksl,Kenyan Sign Language,0.0,38.0,KE,Kenya,Africa
+buk,Bukusu,0.75,34.6666666667,KE,Kenya,Africa
+luy,Luyia,0.416666666667,34.5,KE,Kenya,Africa
+dbd,Dabida,-4.0,38.6666666667,KE,Kenya,Africa
+orb,Oromo (Boraana),4.5,38.5,KE,Kenya,Africa
+ren,Rendille,2.0,37.5,KE,Kenya,Africa
+kba,Kamba,-1.5,38.0,KE,Kenya,Africa
+dah,Dahalo,-2.33333333333,40.5,KE,Kenya,Africa
+orw,Oromo (Waata),-3.33333333333,39.8333333333,KE,Kenya,Africa
+pkt,Pokot,1.5,35.5,KE,Kenya,Africa
+kik,Kikuyu,-0.75,36.75,KE,Kenya,Africa
+tna,Turkana,3.0,35.5,KE,Kenya,Africa
+luo,Luo,-0.5,34.75,KE,Kenya,Africa
+maa,Maasai,-3.0,36.0,KE,Kenya,Africa
+,Nandi,0.25,35.0,KE,Kenya,Africa
+orb,Oromo (Boraana),4.5,38.5,ET,Ethiopia,Africa
+hrr,Harari,9.25,42.1666666667,ET,Ethiopia,Africa
+kjr,Koorete,5.833333333330001,37.8333333333,ET,Ethiopia,Africa
+muh,Muher,8.166666666669999,38.1666666667,ET,Ethiopia,Africa
+moc,Moca,7.583333333330001,35.5,ET,Ethiopia,Africa
+yms,Yemsa,7.833333333330001,37.3333333333,ET,Ethiopia,Africa
+bys,Bayso,6.25,37.75,ET,Ethiopia,Africa
+sao,Saho,14.75,39.75,ET,Ethiopia,Africa
+brj,Burji,5.5,37.8333333333,ET,Ethiopia,Africa
+dug,Dullay (Gollango),5.5,37.25,ET,Ethiopia,Africa
+ssh,Shinassha,10.4166666667,36.1666666667,ET,Ethiopia,Africa
+owc,Oromo (West-Central),9.0,37.0,ET,Ethiopia,Africa
+abo,Arbore,5.0,36.75,ET,Ethiopia,Africa
+sod,Soddo,8.5,38.5,ET,Ethiopia,Africa
+kef,Kefa,7.25,36.25,ET,Ethiopia,Africa
+shb,Shabo,7.583333333330001,35.4166666667,ET,Ethiopia,Africa
+kul,Kullo,6.75,37.0833333333,ET,Ethiopia,Africa
+trm,Tirmaga,5.75,35.25,ET,Ethiopia,Africa
+mle,Maale,6.0,36.9166666667,ET,Ethiopia,Africa
+mur,Mursi,5.583333333330001,36.0833333333,ET,Ethiopia,Africa
+tig,Tigrinya,14.5,38.5,ET,Ethiopia,Africa
+dha,Dhaasanac,4.66666666667,36.3333333333,ET,Ethiopia,Africa
+dim,Dime,6.166666666669999,36.25,ET,Ethiopia,Africa
+gam,Gamo,6.666666666669999,37.25,ET,Ethiopia,Africa
+awn,Awngi,10.833333333299999,36.6666666667,ET,Ethiopia,Africa
+aar,Aari,6.0,36.5833333333,ET,Ethiopia,Africa
+cai,Chai,5.33333333333,35.3333333333,ET,Ethiopia,Africa
+koe,Koegu,7.0,36.0833333333,ET,Ethiopia,Africa
+zay,Zayse,5.916666666669999,37.3333333333,ET,Ethiopia,Africa
+kem,Kemant,12.666666666700001,37.4166666667,ET,Ethiopia,Africa
+maj,Majang,6.75,35.0,ET,Ethiopia,Africa
+mee,Me'en,5.0,37.0,ET,Ethiopia,Africa
+hmr,Hamer,5.0,36.5,ET,Ethiopia,Africa
+qaf,Qafar,12.0,42.0,ET,Ethiopia,Africa
+wly,Wolaytta,6.833333333330001,37.75,ET,Ethiopia,Africa
+chh,Chaha,8.112935,37.93267,ET,Ethiopia,Africa
+gmz,Gumuz,12.5,35.8333333333,ET,Ethiopia,Africa
+nue,Nuer,8.333333333330001,32.0,ET,Ethiopia,Africa
+gim,Gimira,7.0,35.75,ET,Ethiopia,Africa
+any,Anywa,8.0,33.5,ET,Ethiopia,Africa
+kom,Komo,8.75,33.75,ET,Ethiopia,Africa
+diz,Dizi,6.166666666669999,36.5,ET,Ethiopia,Africa
+ber,Berta,10.3333333333,34.6666666667,ET,Ethiopia,Africa
+amh,Amharic,10.0,38.0,ET,Ethiopia,Africa
+knm,Kunama,14.5,37.0,ET,Ethiopia,Africa
+orh,Oromo (Harar),9.0,42.0,ET,Ethiopia,Africa
+sid,Sidaama,6.666666666669999,38.5,ET,Ethiopia,Africa
+mcr,Mauritian Creole,-20.3333333333,57.5,MU,Mauritius,Africa
+sam,Samoan,-13.916666666700001,-171.83333333299998,AS,American Samoa,Australia & Oceania
+sam,Samoan,-13.916666666700001,-171.83333333299998,WS,Samoa,Australia & Oceania
+swt,Swati,-26.5,31.0,SZ,Swaziland,Africa
+hcr,Haitian Creole,19.0,-72.5,HT,Haiti,North America
+nnm,Nanumea,-5.666666666669999,176.116666667,TV,Tuvalu,Australia & Oceania
+tvl,Tuvaluan,-8.5,179.16666666700002,TV,Tuvalu,Australia & Oceania
+wau,Waunana,4.0,-77.0,PA,Panama,South America
+kun,Kuna,8.0,-77.3333333333,PA,Panama,South America
+emb,Emberá (Northern),6.833333333330001,-77.1666666667,PA,Panama,South America
+bgl,Buglere,8.5,-81.25,PA,Panama,South America
+nbr,Ngäbere,8.666666666669999,-82.0,PA,Panama,South America
+trb,Teribe,9.333333333330001,-82.6666666667,PA,Panama,South America
+sti,Stieng,11.833333333299999,106.75,KH,Cambodia,Asia
+chw,Cham (Western),12.0,105.5,KH,Cambodia,Asia
+khm,Khmer,12.5,105.0,KH,Cambodia,Asia
+lux,Luxemburgeois,49.8333333333,6.166666666669999,LU,Luxembourg,Europe
+mrq,Marquesan,-8.916666666669999,-140.08333333299998,PF,French Polynesia,Australia & Oceania
+tua,Tuamotuan,-17.0,-144.0,PF,French Polynesia,Australia & Oceania
+tah,Tahitian,-17.6666666667,-149.58333333299998,PF,French Polynesia,Australia & Oceania
+irs,Irish Sign Language,53.5,-7.5,IE,Ireland,Europe
+irm,Irish (Munster),52.5,-9.0,IE,Ireland,Europe
+ird,Irish (Donegal),55.0,-8.0,IE,Ireland,Europe
+iri,Irish,53.0,-8.0,IE,Ireland,Europe
+eng,English,52.0,0.0,IE,Ireland,Europe
+eng,English,52.0,0.0,GB,United Kingdom,Europe
+bsl,British Sign Language,52.0,-1.0,GB,United Kingdom,Europe
+mnx,Manx,54.1666666667,-4.5,GB,United Kingdom,Europe
+rwe,Romani (Welsh),52.0,-4.0,GB,United Kingdom,Europe
+crn,Cornish,50.3333333333,-5.0,GB,United Kingdom,Europe
+gae,Gaelic (Scots),57.0,-4.0,GB,United Kingdom,Europe
+wel,Welsh,52.0,-3.0,GB,United Kingdom,Europe
+wec,Welsh (Colloquial),52.75,-3.5833,GB,United Kingdom,Europe
+bjs,Sama (Southern),4.5,118.5,PH,Philippines,Asia
+tsg,Tausug,6.0,121.0,PH,Philippines,Asia
+bat,Batak,10.25,119.083333333,PH,Philippines,Asia
+biq,Bilaan (Koronadal),6.0,125.333333333,PH,Philippines,Asia
+ibn,Ibanag,17.5,121.666666667,PH,Philippines,Asia
+isn,Isnag,18.25,121.0,PH,Philippines,Asia
+iva,Ivatan,20.5,122.0,PH,Philippines,Asia
+kao,Karao,16.5,120.833333333,PH,Philippines,Asia
+mgn,Magindanao,6.833333333330001,124.5,PH,Philippines,Asia
+tgb,Tagbanwa (Aborlan),9.5,118.5,PH,Philippines,Asia
+wwy,Waray-Waray,12.0,125.0,PH,Philippines,Asia
+dca,Dumagat (Casiguran),16.3333333333,122.0,PH,Philippines,Asia
+itw,Itawis,17.75,121.5,PH,Philippines,Asia
+kky,Kankanay,16.75,120.583333333,PH,Philippines,Asia
+bkd,Binukid,8.25,124.833333333,PH,Philippines,Asia
+kuz,Kulamanen,7.75,125.0,PH,Philippines,Asia
+sbg,Sama (Balangingi),6.166666666669999,121.833333333,PH,Philippines,Asia
+akl,Aklanon,11.583333333299999,122.333333333,PH,Philippines,Asia
+blg,Balangao,17.1666666667,121.166666667,PH,Philippines,Asia
+ykn,Yakan,6.5,122.0,PH,Philippines,Asia
+cvc,Chavacano,7.0,122.083333333,PH,Philippines,Asia
+hnn,Hanunóo,12.333333333299999,121.25,PH,Philippines,Asia
+mrn,Maranao,7.833333333330001,124.25,PH,Philippines,Asia
+try,Tiruray,6.75,124.166666667,PH,Philippines,Asia
+hil,Hiligaynon,10.25,123.0,PH,Philippines,Asia
+ilo,Ilocano,16.0,121.0,PH,Philippines,Asia
+bkl,Bikol,13.333333333299999,123.5,PH,Philippines,Asia
+mmn,Mamanwa,9.416666666669999,125.5,PH,Philippines,Asia
+mwb,Manobo (Western Bukidnon),7.666666666669999,124.75,PH,Philippines,Asia
+pnn,Pangasinan,15.916666666700001,120.333333333,PH,Philippines,Asia
+btk,Bontok,17.0833333333,120.916666667,PH,Philippines,Asia
+ifu,Ifugao (Batad),16.8333333333,121.083333333,PH,Philippines,Asia
+agc,Agta (Central),17.9666666667,121.833333333,PH,Philippines,Asia
+kpm,Kapampangan,15.333333333299999,120.5,PH,Philippines,Asia
+tbo,Tboli,6.166666666669999,124.5,PH,Philippines,Asia
+ceb,Cebuano,10.0,124.0,PH,Philippines,Asia
+tag,Tagalog,15.0,121.0,PH,Philippines,Asia
+agd,Agta (Dupaningan),18.0,122.083333333,PH,Philippines,Asia
+bit,Biatah,1.25,110.0,ID,Indonesia,Asia
+tsg,Tausug,6.0,121.0,ID,Indonesia,Asia
+alx,Alas,3.66666666667,97.8333333333,ID,Indonesia,Asia
+ard,Arandai,-2.08333333333,133.0,ID,Indonesia,Asia
+els,Elseng,-3.0,140.5,ID,Indonesia,Asia
+eml,Embaloh,1.16666666667,112.333333333,ID,Indonesia,Asia
+grt,Gorontalo,0.5,122.0,ID,Indonesia,Asia
+iir,Indonesian (Papuan),-2.5,140.66666666700002,ID,Indonesia,Asia
+inj,Indonesian (Jakarta),-6.166666666669999,106.75,ID,Indonesia,Asia
+kag,Komering,-3.16666666667,104.916666667,ID,Indonesia,Asia
+keo,Keo,-8.833333333330001,121.25,ID,Indonesia,Asia
+ktp,Ketapang,-1.86666666667,110.0,ID,Indonesia,Asia
+kua,Kualan,-0.416666666667,110.416666667,ID,Indonesia,Asia
+kuy,Kutai,-0.33333333333299997,116.666666667,ID,Indonesia,Asia
+lud,Lun Dayeh,4.0,115.916666667,ID,Indonesia,Asia
+mnr,Mandar,-3.41666666667,119.083333333,ID,Indonesia,Asia
+smd,Semandang,-0.75,110.5,ID,Indonesia,Asia
+sik,Sika,-8.7,122.25,ID,Indonesia,Asia
+ina,Inanwatan,-2.08333333333,132.08333333299998,ID,Indonesia,Asia
+kkl,Kata Kolok,-8.25,115.166666667,ID,Indonesia,Asia
+keu,Kenyah (Uma' Lung),3.0,115.833333333,ID,Indonesia,Asia
+kln,Kolana,-8.25,125.116666667,ID,Indonesia,Asia
+atb,Aralle-Tabulahan,-2.75,119.25,ID,Indonesia,Asia
+bim,Bima,-8.5,118.5,ID,Indonesia,Asia
+daa,Da'a,-1.0,119.583333333,ID,Indonesia,Asia
+eip,Eipo,-4.33333333333,140.08333333299998,ID,Indonesia,Asia
+isi,Isirawa,-1.8333333333300001,138.5,ID,Indonesia,Asia
+kli,Kaili,-1.16666666667,120.0,ID,Indonesia,Asia
+kkr,Kirikiri,-3.0,137.16666666700002,ID,Indonesia,Asia
+lje,Lauje,-0.5,120.0,ID,Indonesia,Asia
+mms,Mamasa,-3.08333333333,119.666666667,ID,Indonesia,Asia
+meb,Melayu Betawi,-6.5,107.0,ID,Indonesia,Asia
+mgd,Mongondow,0.666666666667,124.0,ID,Indonesia,Asia
+pag,Pagu,1.25,127.75,ID,Indonesia,Asia
+plp,Pulopetak,1.4166666666699999,109.833333333,ID,Indonesia,Asia
+rej,Rejang,-3.41666666667,102.5,ID,Indonesia,Asia
+sgr,Sangir,3.5,125.5,ID,Indonesia,Asia
+skl,Sikule,2.66666666667,96.0,ID,Indonesia,Asia
+tld,Talaud,4.25,126.75,ID,Indonesia,Asia
+tht,Tehit,-1.5,132.0,ID,Indonesia,Asia
+tse,Timorese,-9.666666666669999,124.5,ID,Indonesia,Asia
+tnt,Tontemboan,1.08333333333,124.5,ID,Indonesia,Asia
+trd,Toraja,-3.0,119.75,ID,Indonesia,Asia
+blk,Balantak,-0.833333333333,123.25,ID,Indonesia,Asia
+bbm,Bambam,-3.08333333333,119.083333333,ID,Indonesia,Asia
+bnt,Bantik,1.4166666666699999,124.75,ID,Indonesia,Asia
+dou,Doutai,-3.33333333333,138.16666666700002,ID,Indonesia,Asia
+gay,Gayo,4.5,97.5,ID,Indonesia,Asia
+kaj,Kaure,-3.41666666667,140.08333333299998,ID,Indonesia,Asia
+kmt,Kemtuik,-2.66666666667,140.33333333299998,ID,Indonesia,Asia
+ktn,Ketengban,-4.5,140.5,ID,Indonesia,Asia
+mem,Manem,-3.0,140.83333333299998,ID,Indonesia,Asia
+npu,Napu,-1.33333333333,120.416666667,ID,Indonesia,Asia
+obk,Obokuitai,-3.0,138.0,ID,Indonesia,Asia
+olm,Oloh Mangtangai,-0.833333333333,113.0,ID,Indonesia,Asia
+ria,Riantana,-7.5,138.5,ID,Indonesia,Asia
+sru,Selaru,-8.2,131.0,ID,Indonesia,Asia
+sly,Selayar,-6.0,120.5,ID,Indonesia,Asia
+skr,Sikaritai,-2.91666666667,138.25,ID,Indonesia,Asia
+tbr,Tabaru,1.5,127.25,ID,Indonesia,Asia
+tgw,Tarangan (West),-6.5,134.16666666700002,ID,Indonesia,Asia
+trt,Ternate,0.833333333333,127.25,ID,Indonesia,Asia
+wrp,Waropen,-2.33333333333,136.58333333299998,ID,Indonesia,Asia
+wet,Wetan,-8.166666666669999,128.0,ID,Indonesia,Asia
+dob,Dobel,-6.25,134.66666666700002,ID,Indonesia,Asia
+knp,Kanum (Ngkâlmpw),-8.666666666669999,140.91666666700002,ID,Indonesia,Asia
+ksr,Kisar,-8.083333333330001,127.116666667,ID,Indonesia,Asia
+koo,Kola,-5.5,134.5,ID,Indonesia,Asia
+kiu,Kui (in Indonesia),-8.433333333330001,124.55,ID,Indonesia,Asia
+pad,Padoe,-2.33333333333,121.333333333,ID,Indonesia,Asia
+swi,Sawai,0.5,128.0,ID,Indonesia,Asia
+tgp,Tanglapui,-8.28333333333,125.083333333,ID,Indonesia,Asia
+yli,Yali,-4.0,139.33333333299998,ID,Indonesia,Asia
+ymd,Yamdena,-7.5,131.5,ID,Indonesia,Asia
+bgg,Banggai,-1.4166666666699999,123.166666667,ID,Indonesia,Asia
+bik,Biak,-1.0,136.0,ID,Indonesia,Asia
+iha,Iha,-2.91666666667,132.25,ID,Indonesia,Asia
+awy,Awyi,-2.91666666667,140.58333333299998,ID,Indonesia,Asia
+frd,Fordata,-6.75,131.5,ID,Indonesia,Asia
+sko,Skou,-2.66666666667,140.91666666700002,ID,Indonesia,Asia
+tmg,Tamagario,-6.416666666669999,139.25,ID,Indonesia,Asia
+brk,Berik,-2.25,138.83333333299998,ID,Indonesia,Asia
+kei,Kei,-5.833333333330001,132.91666666700002,ID,Indonesia,Asia
+mks,Makassar,-5.416666666669999,119.583333333,ID,Indonesia,Asia
+mnt,Mentawai,-1.5,99.0,ID,Indonesia,Asia
+pna,Pamona,-1.75,120.833333333,ID,Indonesia,Asia
+rti,Roti,-10.6666666667,123.25,ID,Indonesia,Asia
+ahu,Aghu,-6.166666666669999,140.16666666700002,ID,Indonesia,Asia
+knb,Kanum (Bädi),-8.833333333330001,140.75,ID,Indonesia,Asia
+kti,"Kati (in West Papua, Indonesia)",-5.75,140.91666666700002,ID,Indonesia,Asia
+mdr,Madurese,-7.0,113.5,ID,Indonesia,Asia
+mom,Mombum,-8.25,138.75,ID,Indonesia,Asia
+mni,Moni,-3.66666666667,137.0,ID,Indonesia,Asia
+tor,Toratán,1.08333333333,124.833333333,ID,Indonesia,Asia
+yei,Yei,-7.916666666669999,140.91666666700002,ID,Indonesia,Asia
+ylm,Yelmek,-7.666666666669999,139.16666666700002,ID,Indonesia,Asia
+mrs,Mairasi,-3.5,134.0,ID,Indonesia,Asia
+mkl,Maklew,-7.666666666669999,139.41666666700002,ID,Indonesia,Asia
+yqy,Yaqay,-6.583333333330001,139.25,ID,Indonesia,Asia
+bui,Buli (in Indonesia),1.0,128.5,ID,Indonesia,Asia
+kjo,Konjo,-5.466666666669999,120.333333333,ID,Indonesia,Asia
+kwb,Kwerba,-2.25,138.5,ID,Indonesia,Asia
+mri,Moraori,-8.583333333330001,140.66666666700002,ID,Indonesia,Asia
+pis,Pisa,-5.16666666667,139.16666666700002,ID,Indonesia,Asia
+gll,Galela,2.41666666667,128.33333333299998,ID,Indonesia,Asia
+kmr,Kamoro,-4.33333333333,136.0,ID,Indonesia,Asia
+lrk,Larike,-3.75,127.916666667,ID,Indonesia,Asia
+ory,Orya,-2.75,139.83333333299998,ID,Indonesia,Asia
+sab,Sa'ban,3.66666666667,115.666666667,ID,Indonesia,Asia
+ked,Kedang,-8.25,123.75,ID,Indonesia,Asia
+mya,Ma'ya,-1.25,130.91666666700002,ID,Indonesia,Asia
+sim,Simeulue,2.5,96.25,ID,Indonesia,Asia
+uma,Uma,-1.8333333333300001,120.0,ID,Indonesia,Asia
+bal,Balinese,-8.333333333330001,115.25,ID,Indonesia,Asia
+bug,Bugis,-4.0,120.0,ID,Indonesia,Asia
+wrs,Waris,-3.16666666667,141.0,ID,Indonesia,Asia
+sob,Sobei,-1.9166666666699999,138.75,ID,Indonesia,Asia
+mds,Manadonese,1.5,124.833333333,ID,Indonesia,Asia
+tbt,Tobati,-2.58333333333,140.66666666700002,ID,Indonesia,Asia
+tgn,Tugun,-7.716666666669999,126.75,ID,Indonesia,Asia
+myn,Ma'anyan,-2.0,115.0,ID,Indonesia,Asia
+mpu,Mpur,-0.75,133.25,ID,Indonesia,Asia
+sgb,Sougb,-1.5,134.0,ID,Indonesia,Asia
+wrm,Warembori,-1.6666666666699999,137.58333333299998,ID,Indonesia,Asia
+bzi,Bauzi,-2.5,137.5,ID,Indonesia,Asia
+iau,Iau,-3.16666666667,137.5,ID,Indonesia,Asia
+lmh,Lamaholot,-8.25,122.916666667,ID,Indonesia,Asia
+nim,Nimboran,-2.5,140.16666666700002,ID,Indonesia,Asia
+yal,Yale (Kosarek),-4.08333333333,139.5,ID,Indonesia,Asia
+yaw,Yawa,-1.75,136.25,ID,Indonesia,Asia
+mea,Meyah,-1.16666666667,133.5,ID,Indonesia,Asia
+saw,Sawu,-11.5,121.916666667,ID,Indonesia,Asia
+tbl,Tabla,-2.45,140.41666666700002,ID,Indonesia,Asia
+buu,Buru,-3.5,126.5,ID,Indonesia,Asia
+kim,Kimaghama,-8.0,138.5,ID,Indonesia,Asia
+tlo,Tobelo,1.5,128.5,ID,Indonesia,Asia
+let,Leti,-8.2,127.666666667,ID,Indonesia,Asia
+der,Dla (Proper),-3.58333333333,141.0,ID,Indonesia,Asia
+amq,Ambai,-1.8333333333300001,136.5,ID,Indonesia,Asia
+eno,Enggano,-5.416666666669999,102.25,ID,Indonesia,Asia
+ngd,Ngad'a,-8.833333333330001,121.0,ID,Indonesia,Asia
+krw,Korowai,-5.25,140.0,ID,Indonesia,Asia
+aln,Alune,-3.0,128.33333333299998,ID,Indonesia,Asia
+mor,Mor,-2.95,135.75,ID,Indonesia,Asia
+woi,Woisika,-8.25,124.833333333,ID,Indonesia,Asia
+wlo,Wolio,-5.5,122.75,ID,Indonesia,Asia
+jav,Javanese,-7.0,111.0,ID,Indonesia,Asia
+mng,Manggarai,-8.5,120.333333333,ID,Indonesia,Asia
+plh,Paulohi,-3.25,128.75,ID,Indonesia,Asia
+baj,Bajau (Sama),-4.33333333333,123.0,ID,Indonesia,Asia
+tno,Tondano,1.25,125.0,ID,Indonesia,Asia
+lmp,Lampung,-5.0,105.0,ID,Indonesia,Asia
+wbn,Wambon,-5.5,140.41666666700002,ID,Indonesia,Asia
+min,Minangkabau,-1.0,101.0,ID,Indonesia,Asia
+nua,Nuaulu,-3.25,129.16666666700002,ID,Indonesia,Asia
+irr,Irarutu,-3.0,133.5,ID,Indonesia,Asia
+nia,Nias,1.0,97.75,ID,Indonesia,Asia
+kam,Kambera,-9.833333333330001,120.166666667,ID,Indonesia,Asia
+kmb,Kombai,-5.583333333330001,140.0,ID,Indonesia,Asia
+sah,Sahu,1.16666666667,127.5,ID,Indonesia,Asia
+bto,Batak (Toba),2.5,99.0,ID,Indonesia,Asia
+sun,Sundanese,-7.0,107.0,ID,Indonesia,Asia
+wma,West Makian,0.5,127.583333333,ID,Indonesia,Asia
+abu,Abun,-0.5,132.5,ID,Indonesia,Asia
+tid,Tidore,0.75,127.5,ID,Indonesia,Asia
+mna,Muna,-5.0,122.5,ID,Indonesia,Asia
+hat,Hatam,-1.0,134.0,ID,Indonesia,Asia
+eka,Ekari,-3.83333333333,135.5,ID,Indonesia,Asia
+mrd,Marind,-7.833333333330001,140.16666666700002,ID,Indonesia,Asia
+ace,Acehnese,5.5,95.5,ID,Indonesia,Asia
+una,Una,-4.66666666667,140.0,ID,Indonesia,Asia
+snt,Sentani,-2.58333333333,140.58333333299998,ID,Indonesia,Asia
+bkr,Batak (Karo),3.25,98.25,ID,Indonesia,Asia
+dni,Dani (Lower Grand Valley),-4.33333333333,138.83333333299998,ID,Indonesia,Asia
+tab,Taba,0.0,127.5,ID,Indonesia,Asia
+asm,Asmat,-5.5,138.5,ID,Indonesia,Asia
+may,Maybrat,-1.33333333333,132.5,ID,Indonesia,Asia
+tuk,Tukang Besi,-5.5,123.5,ID,Indonesia,Asia
+ind,Indonesian,0.0,106.0,ID,Indonesia,Asia
+mqf,Momuna,-4.83333333333,139.25,ID,Indonesia,Asia
+abv,Abui,-8.25,124.666666667,ID,Indonesia,Asia
+adg,Adang,-8.2,124.0,ID,Indonesia,Asia
+bdw,Baham,-3.16666666667,132.66666666700002,ID,Indonesia,Asia
+pap,Papiamentu,12.25,-69.0,AN,Netherlands Antilles,North America
+cze,Czech,50.0,15.0,CZ,Czech Republic,Europe
+rbu,Romani (Bugurdzi),42.6666666667,21.1666666667,RS,Serbia and Montenegro,Europe
+rka,Romani (Kalderash),45.0,21.0,RS,Serbia and Montenegro,Europe
+scr,Serbian-Croatian,44.0,19.0,RS,Serbia and Montenegro,Europe
+alb,Albanian,41.0,20.0,RS,Serbia and Montenegro,Europe
+scr,Serbian-Croatian,44.0,19.0,BA,Bosnia-Herzegovina,Europe
+bos,Bosnian,43.0,18.0,BA,Bosnia-Herzegovina,Europe
+scr,Serbian-Croatian,44.0,19.0,HR,Croatia,Europe
+alb,Albanian,41.0,20.0,AL,Albania,Europe
+sry,Siraya,23.0,120.25,TW,Taiwan,Asia
+thw,Thao,23.883333333299998,120.916666667,TW,Taiwan,Asia
+tzi,Taiwanese Sign Language (Ziran Shouyu),24.0,121.0,TW,Taiwan,Asia
+ymi,Yami,22.0,121.5,TW,Taiwan,Asia
+ami,Amis,23.3333333333,121.333333333,TW,Taiwan,Asia
+see,Seediq,24.1666666667,121.416666667,TW,Taiwan,Asia
+tso,Tsou,23.5,120.75,TW,Taiwan,Asia
+ruk,Rukai (Tanan),22.8333333333,120.833333333,TW,Taiwan,Asia
+ata,Atayal,24.5,121.333333333,TW,Taiwan,Asia
+pai,Paiwan,22.5,120.833333333,TW,Taiwan,Asia
+hok,Min (Southern),25.0,118.0,TW,Taiwan,Asia
+tml,Tamil,11.0,78.5,LK,Sri Lanka,Asia
+ved,Vedda,7.0,81.0,LK,Sri Lanka,Asia
+snh,Sinhala,7.0,80.5,LK,Sri Lanka,Asia
+nte,Norsk Tegnspråk,61.0,9.0,NO,Norway,Europe
+sno,Saami (Northern),69.0,24.0,NO,Norway,Europe
+nor,Norwegian,61.0,8.0,NO,Norway,Europe
+sno,Saami (Northern),69.0,24.0,FI,Finland,Europe
+fsl,Finnish Sign Language,62.0,26.0,FI,Finland,Europe
+swe,Swedish,60.0,15.0,FI,Finland,Europe
+fin,Finnish,62.0,25.0,FI,Finland,Europe
+sno,Saami (Northern),69.0,24.0,SE,Sweden,Europe
+swe,Swedish,60.0,15.0,SE,Sweden,Europe
+swv,Swedish (Västerbotten),64.25,19.75,SE,Sweden,Europe
+svt,Svenska Teckenspråket,59.0,15.0,SE,Sweden,Europe
+scs,Saami (Central-South),64.6666666667,16.75,SE,Sweden,Europe
+anu,Anufo,10.0833333333,0.25,TG,Togo,Africa
+kkb,Konkomba,10.0,0.08333333333330001,TG,Togo,Africa
+kpo,Kposo,7.5,0.833333333333,TG,Togo,Africa
+mmp,Mampruli,10.3333333333,-0.666666666667,TG,Togo,Africa
+tem,Tem,8.666666666669999,0.5,TG,Togo,Africa
+kby,Kabiyé,9.666666666669999,1.16666666667,TG,Togo,Africa
+ewe,Ewe,6.333333333330001,0.416666666667,TG,Togo,Africa
+ncm,Ncàm,9.333333333330001,0.666666666667,TG,Togo,Africa
+ajg,Ajagbe,7.0,1.75,TG,Togo,Africa
+slo,Slovene,46.0,15.0,SI,Slovenia,Europe
+trb,Teribe,9.333333333330001,-82.6666666667,CR,Costa Rica,North America
+brc,Boruca,8.833333333330001,-83.25,CR,Costa Rica,North America
+cab,Cabécar,9.75,-83.4166666667,CR,Costa Rica,North America
+bri,Bribri,9.416666666669999,-83.0,CR,Costa Rica,North America
+ssl,South Korean Sign Language,37.0,128.0,KR,South Korea,Asia
+kor,Korean,37.5,128.0,KR,South Korea,Asia
+kor,Korean,37.5,128.0,KP,North Korea,Asia
+rlo,Romani (Lovari),47.0,21.5,HU,Hungary,Europe
+hun,Hungarian,47.0,20.0,HU,Hungary,Europe
+rlo,Romani (Lovari),47.0,21.5,RO,Romania,Europe
+gti,German (Timisoara),45.75,21.25,RO,Romania,Europe
+rom,Romanian,46.0,25.0,RO,Romania,Europe
+gsl,Greek Sign Language,38.5,22.0,GR,Greece,Europe
+rav,Romani (Ajia Varvara),38.0,23.5833333333,GR,Greece,Europe
+grk,Greek (Modern),39.0,22.0,GR,Greece,Europe
+bsq,Basque,43.0,-3.0,ES,Spain,Europe
+ast,Asturian,43.25,-6.0,ES,Spain,Europe
+spc,Spanish (Canary Islands),28.0,-15.583333333299999,ES,Spain,Europe
+lse,Lengua de Señas Española,40.0,-3.0,ES,Spain,Europe
+glc,Galician,43.0,-8.0,ES,Spain,Europe
+bqi,Basque (Basaburua and Imoz),43.0,-1.6666666666699999,ES,Spain,Europe
+bqb,Basque (Bidasoa Valley),43.0,-3.83333333333,ES,Spain,Europe
+bqg,Basque (Gernica),43.3333333333,-3.0,ES,Spain,Europe
+bqh,Basque (Hondarribia),42.5,-3.0,ES,Spain,Europe
+bql,Basque (Lekeitio),43.0,-2.5,ES,Spain,Europe
+bqn,Basque (Northern High Navarrese),43.3333333333,-2.5,ES,Spain,Europe
+bqo,Basque (Oñati),42.5,-3.5,ES,Spain,Europe
+bqr,Basque (Roncalese),43.0,-2.0,ES,Spain,Europe
+bqs,Basque (Sakana),42.5,-2.0,ES,Spain,Europe
+bqz,Basque (Zeberio),42.0,-3.0,ES,Spain,Europe
+ctl,Catalan,41.75,2.0,ES,Spain,Europe
+spa,Spanish,40.0,-4.0,ES,Spain,Europe
+mem,Manem,-3.0,140.83333333299998,PG,Papua New Guinea,Australia & Oceania
+yei,Yei,-7.916666666669999,140.91666666700002,PG,Papua New Guinea,Australia & Oceania
+wrs,Waris,-3.16666666667,141.0,PG,Papua New Guinea,Australia & Oceania
+der,Dla (Proper),-3.58333333333,141.0,PG,Papua New Guinea,Australia & Oceania
+auy,Auyana,-6.5,145.75,PG,Papua New Guinea,Australia & Oceania
+kgl,Umbu Ungu,-6.0,144.0,PG,Papua New Guinea,Australia & Oceania
+mli,Mali,-4.83333333333,152.25,PG,Papua New Guinea,Australia & Oceania
+mbu,Manambu,-4.25,142.83333333299998,PG,Papua New Guinea,Australia & Oceania
+mtk,Matukar,-4.91666666667,145.75,PG,Papua New Guinea,Australia & Oceania
+tll,Taulil,-4.41666666667,152.08333333299998,PG,Papua New Guinea,Australia & Oceania
+bau,Bau,-5.25,145.616666667,PG,Papua New Guinea,Australia & Oceania
+beb,Benabena,-6.166666666669999,145.5,PG,Papua New Guinea,Australia & Oceania
+kai,Kaian,-4.08333333333,144.75,PG,Papua New Guinea,Australia & Oceania
+krf,Korafe,-9.05,149.08333333299998,PG,Papua New Guinea,Australia & Oceania
+mkr,Mikarew,-4.41666666667,144.91666666700002,PG,Papua New Guinea,Australia & Oceania
+muy,Muyuw,-9.083333333330001,152.75,PG,Papua New Guinea,Australia & Oceania
+orl,Orokolo,-7.833333333330001,145.33333333299998,PG,Papua New Guinea,Australia & Oceania
+uri,Urim,-3.58333333333,142.66666666700002,PG,Papua New Guinea,Australia & Oceania
+boi,Boiken,-3.5,143.5,PG,Papua New Guinea,Australia & Oceania
+grs,Garus,-4.95,145.66666666700002,PG,Papua New Guinea,Australia & Oceania
+har,Haruai,-5.08333333333,144.16666666700002,PG,Papua New Guinea,Australia & Oceania
+kap,Kela (Apoze),-7.416666666669999,147.08333333299998,PG,Papua New Guinea,Australia & Oceania
+knu,Konua,-5.833333333330001,154.83333333299998,PG,Papua New Guinea,Australia & Oceania
+mhk,Mehek,-3.75,142.5,PG,Papua New Guinea,Australia & Oceania
+mug,Bargam,-4.88333333333,145.75,PG,Papua New Guinea,Australia & Oceania
+mrk,Murik,-3.83333333333,144.25,PG,Papua New Guinea,Australia & Oceania
+suk,Suki,-8.0,141.75,PG,Papua New Guinea,Australia & Oceania
+yil,Yil,-3.53333333333,142.15,PG,Papua New Guinea,Australia & Oceania
+ape,Ampeeli,-6.75,146.08333333299998,PG,Papua New Guinea,Australia & Oceania
+awi,Aekyom,-5.75,141.41666666700002,PG,Papua New Guinea,Australia & Oceania
+bhn,Bahinemo,-4.58333333333,142.83333333299998,PG,Papua New Guinea,Australia & Oceania
+bnm,Binumarien,-6.283333333330001,146.08333333299998,PG,Papua New Guinea,Australia & Oceania
+bmr,Burum,-6.5,147.33333333299998,PG,Papua New Guinea,Australia & Oceania
+ena,Enga,-5.5,143.66666666700002,PG,Papua New Guinea,Australia & Oceania
+iat,Iatmul,-4.25,143.25,PG,Papua New Guinea,Australia & Oceania
+kak,Kamano-Kafe,-6.25,145.66666666700002,PG,Papua New Guinea,Australia & Oceania
+kra,Kara (in Papua New Guinea),-2.83333333333,151.116666667,PG,Papua New Guinea,Australia & Oceania
+mav,Maring,-5.5,144.66666666700002,PG,Papua New Guinea,Australia & Oceania
+mey,Menya,-7.25,146.0,PG,Papua New Guinea,Australia & Oceania
+nin,Ningil,-3.5,142.25,PG,Papua New Guinea,Australia & Oceania
+nmd,Samo,-6.166666666669999,142.25,PG,Papua New Guinea,Australia & Oceania
+ptp,Patpatar,-3.76666666667,152.5,PG,Papua New Guinea,Australia & Oceania
+pdp,Folopa,-7.0,144.5,PG,Papua New Guinea,Australia & Oceania
+tif,Tifal,-5.0,141.33333333299998,PG,Papua New Guinea,Australia & Oceania
+wer,Weri,-7.75,146.91666666700002,PG,Papua New Guinea,Australia & Oceania
+wog,Wogamusin,-4.25,142.33333333299998,PG,Papua New Guinea,Australia & Oceania
+zim,Zimakani,-7.43333333333,141.43333333299998,PG,Papua New Guinea,Australia & Oceania
+dun,Duna,-5.5,142.5,PG,Papua New Guinea,Australia & Oceania
+gog,Gogodala,-8.083333333330001,142.83333333299998,PG,Papua New Guinea,Australia & Oceania
+sur,Sursurunga,-4.0,152.766666667,PG,Papua New Guinea,Australia & Oceania
+ari,Aribwatsa,-6.716666666669999,147.0,PG,Papua New Guinea,Australia & Oceania
+mbo,Monumbo,-4.25,145.0,PG,Papua New Guinea,Australia & Oceania
+tga,Tangga,-3.46666666667,153.2,PG,Papua New Guinea,Australia & Oceania
+tba,Tabare,-6.083333333330001,145.0,PG,Papua New Guinea,Australia & Oceania
+tum,Tumleo,-3.08333333333,142.41666666700002,PG,Papua New Guinea,Australia & Oceania
+aba,Abau,-4.0,141.25,PG,Papua New Guinea,Australia & Oceania
+bun,Buin,-6.75,155.75,PG,Papua New Guinea,Australia & Oceania
+chb,Chambri,-4.16666666667,143.08333333299998,PG,Papua New Guinea,Australia & Oceania
+wtm,Watam,-3.91666666667,144.5,PG,Papua New Guinea,Australia & Oceania
+kbo,Kambot,-4.25,144.133333333,PG,Papua New Guinea,Australia & Oceania
+edo,Edolo,-6.166666666669999,142.66666666700002,PG,Papua New Guinea,Australia & Oceania
+foe,Foe,-6.5,143.5,PG,Papua New Guinea,Australia & Oceania
+kll,Kaluli,-6.5,142.75,PG,Papua New Guinea,Australia & Oceania
+kie,Kire,-4.25,144.75,PG,Papua New Guinea,Australia & Oceania
+mgi,Magi,-10.3333333333,149.33333333299998,PG,Papua New Guinea,Australia & Oceania
+oks,Oksapmin,-5.16666666667,142.16666666700002,PG,Papua New Guinea,Australia & Oceania
+ono,Ono,-6.166666666669999,147.58333333299998,PG,Papua New Guinea,Australia & Oceania
+ama,Amara,-5.666666666669999,148.5,PG,Papua New Guinea,Australia & Oceania
+aab,Arapesh (Abu),-3.45,142.95,PG,Papua New Guinea,Australia & Oceania
+boa,Boazi,-7.0,141.33333333299998,PG,Papua New Guinea,Australia & Oceania
+cve,Chuave,-6.11666666667,145.116666667,PG,Papua New Guinea,Australia & Oceania
+mnv,Minaveha,-9.6,150.466666667,PG,Papua New Guinea,Australia & Oceania
+nnd,Nend,-5.0,144.91666666700002,PG,Papua New Guinea,Australia & Oceania
+one,One,-3.25,141.91666666700002,PG,Papua New Guinea,Australia & Oceania
+rao,Rao,-4.75,144.5,PG,Papua New Guinea,Australia & Oceania
+guh,Guhu-Samane,-8.0,147.33333333299998,PG,Papua New Guinea,Australia & Oceania
+mke,Mekeo,-8.333333333330001,146.5,PG,Papua New Guinea,Australia & Oceania
+tap,Taiap,-4.08333333333,144.5,PG,Papua New Guinea,Australia & Oceania
+wom,Womo,-2.91666666667,141.83333333299998,PG,Papua New Guinea,Australia & Oceania
+dad,Dadibi,-6.55,144.58333333299998,PG,Papua New Guinea,Australia & Oceania
+kyr,Karkar-Yuri,-3.75,141.08333333299998,PG,Papua New Guinea,Australia & Oceania
+nal,Nalik,-2.95,151.33333333299998,PG,Papua New Guinea,Australia & Oceania
+rwa,Rawa,-5.833333333330001,146.0,PG,Papua New Guinea,Australia & Oceania
+rtk,Rotokas,-6.0,155.16666666700002,PG,Papua New Guinea,Australia & Oceania
+wnt,Wantoat,-6.166666666669999,146.5,PG,Papua New Guinea,Australia & Oceania
+amx,Anamuxra,-4.66666666667,145.0,PG,Papua New Guinea,Australia & Oceania
+bon,Bongu,-5.5,145.91666666700002,PG,Papua New Guinea,Australia & Oceania
+hhu,Hanga Hundi,-3.83333333333,142.91666666700002,PG,Papua New Guinea,Australia & Oceania
+mus,Mussau,-1.45,149.616666667,PG,Papua New Guinea,Australia & Oceania
+bry,Baruya,-6.916666666669999,145.91666666700002,PG,Papua New Guinea,Australia & Oceania
+iwm,Iwam,-4.33333333333,142.0,PG,Papua New Guinea,Australia & Oceania
+kae,Kaki Ae,-8.0,145.83333333299998,PG,Papua New Guinea,Australia & Oceania
+msm,Musom,-6.583333333330001,147.0,PG,Papua New Guinea,Australia & Oceania
+toa,Toaripi,-8.333333333330001,146.25,PG,Papua New Guinea,Australia & Oceania
+wed,Wedau,-10.1666666667,150.16666666700002,PG,Papua New Guinea,Australia & Oceania
+isa,I'saka,-2.83333333333,141.283333333,PG,Papua New Guinea,Australia & Oceania
+nnk,Nankina,-5.783333333330001,146.45,PG,Papua New Guinea,Australia & Oceania
+ror,Roro,-8.75,146.58333333299998,PG,Papua New Guinea,Australia & Oceania
+taf,Taiof,-5.533333333330001,154.633333333,PG,Papua New Guinea,Australia & Oceania
+tpi,Tok Pisin,-9.5,147.16666666700002,PG,Papua New Guinea,Australia & Oceania
+tnk,Tungak,-2.55,150.25,PG,Papua New Guinea,Australia & Oceania
+all,Ala'ala,-8.916666666669999,146.75,PG,Papua New Guinea,Australia & Oceania
+ant,Angaataha,-7.216666666669999,146.25,PG,Papua New Guinea,Australia & Oceania
+bng,Qaget,-4.58333333333,152.0,PG,Papua New Guinea,Australia & Oceania
+bin,Binandere,-8.25,148.0,PG,Papua New Guinea,Australia & Oceania
+kat,Kâte,-6.5,147.75,PG,Papua New Guinea,Australia & Oceania
+kmn,Kuman,-5.916666666669999,145.0,PG,Papua New Guinea,Australia & Oceania
+lou,Lou,-2.38333333333,147.31666666700002,PG,Papua New Guinea,Australia & Oceania
+neh,Nehan,-4.5,154.2,PG,Papua New Guinea,Australia & Oceania
+sir,Siar,-4.66666666667,152.91666666700002,PG,Papua New Guinea,Australia & Oceania
+sud,Sudest,-11.5,153.45,PG,Papua New Guinea,Australia & Oceania
+trr,Tairora,-6.5,146.0,PG,Papua New Guinea,Australia & Oceania
+adz,Adzera,-6.25,146.25,PG,Papua New Guinea,Australia & Oceania
+kel,Kele,-2.08333333333,147.08333333299998,PG,Papua New Guinea,Australia & Oceania
+omi,Ömie,-9.05,148.08333333299998,PG,Papua New Guinea,Australia & Oceania
+sia,Siane,-6.083333333330001,145.2,PG,Papua New Guinea,Australia & Oceania
+bvi,Bali-Vitu,-4.9,149.116666667,PG,Papua New Guinea,Australia & Oceania
+gap,Gapapaiwa,-9.75,149.83333333299998,PG,Papua New Guinea,Australia & Oceania
+nag,Nagatman,-3.75,141.5,PG,Papua New Guinea,Australia & Oceania
+pat,Patep,-6.916666666669999,146.58333333299998,PG,Papua New Guinea,Australia & Oceania
+usr,Usarufa,-6.416666666669999,145.58333333299998,PG,Papua New Guinea,Australia & Oceania
+amn,Amanab,-3.58333333333,141.25,PG,Papua New Guinea,Australia & Oceania
+awa,Awa,-6.666666666669999,145.75,PG,Papua New Guinea,Australia & Oceania
+bnn,Banoni,-6.416666666669999,155.25,PG,Papua New Guinea,Australia & Oceania
+gah,Gahuku,-6.0,145.41666666700002,PG,Papua New Guinea,Australia & Oceania
+idn,Iduna,-9.333333333330001,150.25,PG,Papua New Guinea,Australia & Oceania
+klq,Kalam,-5.25,144.58333333299998,PG,Papua New Guinea,Australia & Oceania
+kta,Koita,-9.333333333330001,147.08333333299998,PG,Papua New Guinea,Australia & Oceania
+mmb,Mangap-Mbula,-5.666666666669999,148.08333333299998,PG,Papua New Guinea,Australia & Oceania
+tak,Takia,-4.66666666667,146.0,PG,Papua New Guinea,Australia & Oceania
+alk,Arop-Lokep,-5.38333333333,147.05,PG,Papua New Guinea,Australia & Oceania
+kmo,Koiali (Mountain),-9.0,147.5,PG,Papua New Guinea,Australia & Oceania
+oro,Orokaiva,-8.833333333330001,148.25,PG,Papua New Guinea,Australia & Oceania
+aga,Agarabi,-6.166666666669999,146.0,PG,Papua New Guinea,Australia & Oceania
+gln,Golin,-6.333333333330001,144.75,PG,Papua New Guinea,Australia & Oceania
+kau,Kaulong,-6.166666666669999,149.66666666700002,PG,Papua New Guinea,Australia & Oceania
+kyk,Kyaka,-5.55,144.08333333299998,PG,Papua New Guinea,Australia & Oceania
+mlu,Maleu,-5.716666666669999,148.41666666700002,PG,Papua New Guinea,Australia & Oceania
+pok,Poko-Rawo,-2.83333333333,141.58333333299998,PG,Papua New Guinea,Australia & Oceania
+rum,Rumu,-7.166666666669999,144.25,PG,Papua New Guinea,Australia & Oceania
+ang,Anggor,-3.75,141.16666666700002,PG,Papua New Guinea,Australia & Oceania
+mot,Motuna,-6.61666666667,155.41666666700002,PG,Papua New Guinea,Australia & Oceania
+sar,Sare,-4.5,143.16666666700002,PG,Papua New Guinea,Australia & Oceania
+tlf,Telefol,-5.0,141.75,PG,Papua New Guinea,Australia & Oceania
+wal,Walman,-3.21666666667,142.5,PG,Papua New Guinea,Australia & Oceania
+hal,Halia,-5.25,154.66666666700002,PG,Papua New Guinea,Australia & Oceania
+nam,Namia,-3.83333333333,141.75,PG,Papua New Guinea,Australia & Oceania
+olo,Olo,-3.41666666667,142.0,PG,Papua New Guinea,Australia & Oceania
+teo,Teop,-5.666666666669999,155.0,PG,Papua New Guinea,Australia & Oceania
+for,Fore,-6.75,145.5,PG,Papua New Guinea,Australia & Oceania
+nab,Nabak,-6.416666666669999,147.0,PG,Papua New Guinea,Australia & Oceania
+ane,Anêm,-5.583333333330001,149.08333333299998,PG,Papua New Guinea,Australia & Oceania
+koi,Koiari,-9.5,147.33333333299998,PG,Papua New Guinea,Australia & Oceania
+msn,Maisin,-9.5,149.16666666700002,PG,Papua New Guinea,Australia & Oceania
+sng,Sinaugoro,-9.833333333330001,147.83333333299998,PG,Papua New Guinea,Australia & Oceania
+amb,Ambulas,-3.83333333333,143.0,PG,Papua New Guinea,Australia & Oceania
+fas,Fasu,-6.583333333330001,143.33333333299998,PG,Papua New Guinea,Australia & Oceania
+krr,Kairiru,-3.33333333333,143.58333333299998,PG,Papua New Guinea,Australia & Oceania
+mtu,Motu,-9.333333333330001,147.0,PG,Papua New Guinea,Australia & Oceania
+gds,Gadsup,-6.25,146.0,PG,Papua New Guinea,Australia & Oceania
+sio,Sio,-5.95,147.33333333299998,PG,Papua New Guinea,Australia & Oceania
+au,Au,-3.58333333333,142.08333333299998,PG,Papua New Guinea,Australia & Oceania
+paw,Pawaian,-7.0,145.08333333299998,PG,Papua New Guinea,Australia & Oceania
+slb,Saliba (in Papua New Guinea),-10.5833333333,150.716666667,PG,Papua New Guinea,Australia & Oceania
+kmp,Kunimaipa,-8.0,146.83333333299998,PG,Papua New Guinea,Australia & Oceania
+yar,Yareba,-9.5,148.5,PG,Papua New Guinea,Australia & Oceania
+yes,Yessan-Mayo,-4.16666666667,142.58333333299998,PG,Papua New Guinea,Australia & Oceania
+baa,Barai,-9.333333333330001,148.08333333299998,PG,Papua New Guinea,Australia & Oceania
+jab,Jabêm,-6.583333333330001,147.783333333,PG,Papua New Guinea,Australia & Oceania
+kuo,Kuot,-3.05,151.5,PG,Papua New Guinea,Australia & Oceania
+nak,Nakanai,-5.583333333330001,150.58333333299998,PG,Papua New Guinea,Australia & Oceania
+sro,Siroi,-5.5,146.0,PG,Papua New Guinea,Australia & Oceania
+sul,Sulka,-5.08333333333,151.91666666700002,PG,Papua New Guinea,Australia & Oceania
+gmw,Gumawana,-9.25,150.83333333299998,PG,Papua New Guinea,Australia & Oceania
+mnm,Manam,-4.0,145.0,PG,Papua New Guinea,Australia & Oceania
+slp,Selepet,-6.166666666669999,147.16666666700002,PG,Papua New Guinea,Australia & Oceania
+syu,Salt-Yui,-6.283333333330001,145.033333333,PG,Papua New Guinea,Australia & Oceania
+lon,Loniu,-2.0666666666699998,147.33333333299998,PG,Papua New Guinea,Australia & Oceania
+kiw, Kiwai (Southern),-8.0,143.5,PG,Papua New Guinea,Australia & Oceania
+kwo,Kwoma,-4.16666666667,142.75,PG,Papua New Guinea,Australia & Oceania
+taw,Tawala,-10.3333333333,150.66666666700002,PG,Papua New Guinea,Australia & Oceania
+wah,Wahgi,-5.833333333330001,144.716666667,PG,Papua New Guinea,Australia & Oceania
+hua,Hua,-6.333333333330001,145.33333333299998,PG,Papua New Guinea,Australia & Oceania
+kkv,Lusi,-5.583333333330001,149.66666666700002,PG,Papua New Guinea,Australia & Oceania
+wsk,Waskia,-4.5,146.0,PG,Papua New Guinea,Australia & Oceania
+dum,Dumo,-2.6833333333300002,141.3,PG,Papua New Guinea,Australia & Oceania
+tla,Tolai,-4.25,152.08333333299998,PG,Papua New Guinea,Australia & Oceania
+yel,Yelî Dnye,-11.3666666667,154.16666666700002,PG,Papua New Guinea,Australia & Oceania
+nas,Nasioi,-6.333333333330001,155.58333333299998,PG,Papua New Guinea,Australia & Oceania
+ygr,Yagaria,-6.333333333330001,145.41666666700002,PG,Papua New Guinea,Australia & Oceania
+awt,Awtuw,-3.58333333333,142.0,PG,Papua New Guinea,Australia & Oceania
+tau,Tauya,-5.75,145.33333333299998,PG,Papua New Guinea,Australia & Oceania
+tgk,Tigak,-2.71666666667,150.8,PG,Papua New Guinea,Australia & Oceania
+ham,Hamtai,-7.5,146.25,PG,Papua New Guinea,Australia & Oceania
+sue,Suena,-7.75,147.55,PG,Papua New Guinea,Australia & Oceania
+usa,Usan,-4.83333333333,145.16666666700002,PG,Papua New Guinea,Australia & Oceania
+dag,Daga,-10.0,149.33333333299998,PG,Papua New Guinea,Australia & Oceania
+yim,Yimas,-4.66666666667,143.55,PG,Papua New Guinea,Australia & Oceania
+arp,Arapesh (Mountain),-3.46666666667,143.16666666700002,PG,Papua New Guinea,Australia & Oceania
+klv,Kilivila,-8.5,151.08333333299998,PG,Papua New Guinea,Australia & Oceania
+kew,Kewa,-6.5,143.83333333299998,PG,Papua New Guinea,Australia & Oceania
+imo,Imonda,-3.33333333333,141.16666666700002,PG,Papua New Guinea,Australia & Oceania
+kob,Kobon,-5.16666666667,144.33333333299998,PG,Papua New Guinea,Australia & Oceania
+ala,Alamblak,-4.66666666667,143.33333333299998,PG,Papua New Guinea,Australia & Oceania
+ame,Amele,-5.25,145.58333333299998,PG,Papua New Guinea,Australia & Oceania
+lab,Labu,-6.75,146.91666666700002,PG,Papua New Guinea,Australia & Oceania
+mpt,Mian,-4.75,141.5,PG,Papua New Guinea,Australia & Oceania
+dlm,Dla (Menggwa),-3.55,141.033333333,PG,Papua New Guinea,Australia & Oceania
+brp,Barupu,-3.08333333333,142.08333333299998,PG,Papua New Guinea,Australia & Oceania
+fqs,Momu,-3.0,141.58333333299998,PG,Papua New Guinea,Australia & Oceania
+kwt,Kwomtari,-3.5,141.5,PG,Papua New Guinea,Australia & Oceania
+bio,Nai,-3.71666666667,141.266666667,PG,Papua New Guinea,Australia & Oceania
+amm,Ama,-4.21666666667,141.616666667,PG,Papua New Guinea,Australia & Oceania
+owi,Owininga,-4.5,141.75,PG,Papua New Guinea,Australia & Oceania
+urt,Urat,-3.66666666667,142.83333333299998,PG,Papua New Guinea,Australia & Oceania
+xbi,Kombio,-3.5,142.75,PG,Papua New Guinea,Australia & Oceania
+aoj,Mufian,-3.5,143.0,PG,Papua New Guinea,Australia & Oceania
+kmz,Kamasau,-3.91666666667,143.66666666700002,PG,Papua New Guinea,Australia & Oceania
+com,Comorian,-12.0,44.0,YT,Mayotte,Africa
+krb,Kiribati,1.33333333333,173.0,KI,Kiribati,Australia & Oceania
+cha,Chamorro,13.45,144.75,GU,Guam,Australia & Oceania
+krz,Kryz,41.0833333333,48.0,AZ,Azerbaijan,Asia
+taz,Talysh (Azerbaijan),38.75,48.6666666667,AZ,Azerbaijan,Asia
+tmu,Tat (Muslim),41.25,48.75,AZ,Azerbaijan,Asia
+bdk,Budukh,41.1666666667,48.4166666667,AZ,Azerbaijan,Asia
+khi,Khinalug,41.1666666667,48.0833333333,AZ,Azerbaijan,Asia
+tsa,Tsakhur,41.6666666667,47.1666666667,AZ,Azerbaijan,Asia
+udi,Udi,41.0,48.0,AZ,Azerbaijan,Asia
+rut,Rutul,41.5,47.4166666667,AZ,Azerbaijan,Asia
+aze,Azerbaijani,40.5,48.5,AZ,Azerbaijan,Asia
+ava,Avar,42.5,46.5,AZ,Azerbaijan,Asia
+lez,Lezgian,41.6666666667,47.8333333333,AZ,Azerbaijan,Asia
+hsl,Haisla,54.0,-128.75,CA,Canada,North America
+mcf,Michif,52.0,-100.166666667,CA,Canada,North America
+sch,Saanich,48.5833333333,-123.416666667,CA,Canada,North America
+sst,Salish (Straits),48.75,-123.25,CA,Canada,North America
+sgs,Songish,48.45,-123.333333333,CA,Canada,North America
+soo,Sooke,48.3333333333,-123.75,CA,Canada,North America
+abw,Abenaki (Western),44.0,-72.25,CA,Canada,North America
+alg,Algonquin,46.0,-77.0,CA,Canada,North America
+asl,American Sign Language,39.0,-78.0,CA,Canada,North America
+ati,Atikamekw,48.0,-74.0,CA,Canada,North America
+beo,Beothuk,48.0,-57.0,CA,Canada,North America
+inr,Inuktitut (Rankin Inlet),63.0,-92.0,CA,Canada,North America
+kgt,Kangiryuarmiut,68.3333333333,-133.75,CA,Canada,North America
+kth,Kutchin,67.0,-146.0,CA,Canada,North America
+lsq,Langue des Signes Québecoise,48.0,-75.0,CA,Canada,North America
+nsk,Naskapi,56.0,-70.0,CA,Canada,North America
+nit,Nitinaht,48.6666666667,-124.75,CA,Canada,North America
+slv,Slavey,60.0,-120.0,CA,Canada,North America
+tut,Tutchone (Northern),63.0,-137.0,CA,Canada,North America
+crq,Carrier,53.75,-123.5,CA,Canada,North America
+hno,Haida (Northern),54.0,-132.5,CA,Canada,North America
+iql,Inuktitut (Quebec-Labrador),62.0,-73.0,CA,Canada,North America
+ins,Inuktitut (Salluit),62.0,-76.0,CA,Canada,North America
+sto,Stoney,53.75,-116.5,CA,Canada,North America
+oka,Okanagan,49.5,-118.5,CA,Canada,North America
+ojs,Ojibwa (Severn),53.0,-90.0,CA,Canada,North America
+mic,Micmac,45.0,-63.0,CA,Canada,North America
+mtg,Montagnais,52.0,-65.0,CA,Canada,North America
+wya,Wyandot,44.3333333333,-77.5,CA,Canada,North America
+tho,Thompson,49.75,-121.75,CA,Canada,North America
+kyq,Kyuquot,50.1666666667,-127.166666667,CA,Canada,North America
+hei,Heiltsuk,52.0,-127.5,CA,Canada,North America
+cmx,Comox,50.1666666667,-125.0,CA,Canada,North America
+git,Gitksan,55.3333333333,-127.75,CA,Canada,North America
+cea,Cree (Swampy),56.0,-90.0,CA,Canada,North America
+lil,Lillooet,50.75,-122.0,CA,Canada,North America
+src,Sarcee,52.5,-116.0,CA,Canada,North America
+hlu,Halkomelem (Upriver),49.25,-121.916666667,CA,Canada,North America
+nsg,Nisgha,55.0,-130.0,CA,Canada,North America
+chp,Chipewyan,59.0,-106.0,CA,Canada,North America
+moh,Mohawk,43.5,-74.25,CA,Canada,North America
+bla,Blackfoot,50.0,-112.666666667,CA,Canada,North America
+bco,Bella Coola,52.5,-126.666666667,CA,Canada,North America
+kwk,Kwakw'ala,51.0,-127.0,CA,Canada,North America
+nuu,Nuuchahnulth,49.6666666667,-126.666666667,CA,Canada,North America
+oji,Ojibwa (Eastern),46.0,-80.0,CA,Canada,North America
+shu,Shuswap,52.0,-120.0,CA,Canada,North America
+tsi,Tsimshian (Coast),52.5,-129.0,CA,Canada,North America
+psm,Passamaquoddy-Maliseet,45.0,-67.0,CA,Canada,North America
+hai,Haida,53.0,-132.0,CA,Canada,North America
+squ,Squamish,49.6666666667,-123.166666667,CA,Canada,North America
+cre,Cree (Plains),54.0,-110.0,CA,Canada,North America
+kut,Kutenai,49.5,-116.0,CA,Canada,North America
+sla,Slave,67.0,-125.0,CA,Canada,North America
+hli,Halkomelem (Island),49.2,-123.0,CA,Canada,North America
+msq,Musqueam,49.1666666667,-123.0,CA,Canada,North America
+atm,Atacameño,-23.0,-69.0,CL,Chile,South America
+yah,Yahgan,-55.0,-68.0,CL,Chile,South America
+qaw,Qawasqar,-49.0,-75.0,CL,Chile,South America
+aym,Aymara (Central),-17.0,-69.0,CL,Chile,South America
+rap,Rapanui,-27.116666666700002,-109.366666667,CL,Chile,South America
+map,Mapudungun,-38.0,-72.0,CL,Chile,South America
+atm,Atacameño,-23.0,-69.0,BO,Bolivia,South America
+aym,Aymara (Central),-17.0,-69.0,BO,Bolivia,South America
+crt,Chorote,-22.5,-62.5,BO,Bolivia,South America
+crg,Chiriguano,-23.6666666667,-64.3333333333,BO,Bolivia,South America
+qbo,Quechua (Bolivian),-20.0,-66.0,BO,Bolivia,South America
+yrc,Yuracare,-16.5833333333,-65.25,BO,Bolivia,South America
+puq,Puquina,-16.5,-68.5,BO,Bolivia,South America
+uru,Uru,-16.75,-69.0,BO,Bolivia,South America
+cqt,Chiquitano,-17.5,-60.0,BO,Bolivia,South America
+qco,Quechua (Cochabamba),-17.5,-66.0,BO,Bolivia,South America
+cav,Cavineña,-13.333333333299999,-66.5,BO,Bolivia,South America
+mov,Movima,-13.833333333299999,-65.6666666667,BO,Bolivia,South America
+baq,Baure,-13.083333333299999,-64.1666666667,BO,Bolivia,South America
+ign,Ignaciano,-15.166666666700001,-65.4166666667,BO,Bolivia,South America
+ito,Itonama,-12.833333333299999,-64.3333333333,BO,Bolivia,South America
+ese,Ese Ejja,-11.0,-66.0,BO,Bolivia,South America
+mos,Mosetén,-14.75,-67.8333333333,BO,Bolivia,South America
+cbo,Chácobo,-12.166666666700001,-66.75,BO,Bolivia,South America
+srn,Sirionó,-15.583333333299999,-64.0,BO,Bolivia,South America
+tac,Tacana,-13.5,-68.0,BO,Bolivia,South America
+ana,Araona,-12.333333333299999,-67.75,BO,Bolivia,South America
+cyv,Cayuvava,-13.5,-65.5,BO,Bolivia,South America
+wch,Wichí,-22.5,-62.5833333333,BO,Bolivia,South America
+lec,Leko,-15.0,-67.9166666667,BO,Bolivia,South America
+cpy,Chipaya,-18.75,-67.8333333333,BO,Bolivia,South America
+atm,Atacameño,-23.0,-69.0,AR,Argentina,South America
+crt,Chorote,-22.5,-62.5,AR,Argentina,South America
+crg,Chiriguano,-23.6666666667,-64.3333333333,AR,Argentina,South America
+wch,Wichí,-22.5,-62.5833333333,AR,Argentina,South America
+lsa,Lengua de Señas Argentina,-34.0,-63.0,AR,Argentina,South America
+alc,Allentiac,-31.0,-68.0,AR,Argentina,South America
+lul,Lule,-28.0,-64.0,AR,Argentina,South America
+teh,Tehuelche,-48.0,-68.0,AR,Argentina,South America
+gku,Gününa Küne,-41.0,-67.0,AR,Argentina,South America
+tob,Toba,-26.5,-59.0,AR,Argentina,South America
+pga,Pilagá,-25.0,-60.0,AR,Argentina,South America
+mcv,Mocoví,-28.0,-60.5,AR,Argentina,South America
+sel,Selknam,-53.0,-70.0,AR,Argentina,South America
+abi,Abipón,-29.0,-61.0,AR,Argentina,South America
+qaf,Qafar,12.0,42.0,DJ,Djibouti,Africa
+fiw,Fijian (Wayan),-17.0,177.3,FJ,Fiji,Australia & Oceania
+rot,Rotuman,-12.5,177.06666666700002,FJ,Fiji,Australia & Oceania
+fij,Fijian,-17.8333333333,178.0,FJ,Fiji,Australia & Oceania
+ndr,Nadroga,-18.0833333333,177.41666666700002,FJ,Fiji,Australia & Oceania
+mal,Malagasy,-20.0,47.0,MG,Madagascar,Africa
+uby,Ubykh,43.6666666667,39.6666666667,TR,Turkey,Eurasia
+laz,Laz,41.5,41.5,TR,Turkey,Eurasia
+rse,Romani (Sepecides),38.25,27.0,TR,Turkey,Eurasia
+tui,Türk Isaret Dili,39.0,34.0,TR,Turkey,Eurasia
+lno,Ladino,40.0,33.0,TR,Turkey,Eurasia
+kji,Kurmanji,38.0,42.0,TR,Turkey,Eurasia
+zaz,Zazaki,39.0,41.0,TR,Turkey,Eurasia
+arw,Armenian (Western),38.5,43.5,TR,Turkey,Eurasia
+tur,Turkish,39.0,35.0,TR,Turkey,Eurasia
+nzs,New Zealand Sign Language,-43.0,172.0,NZ,New Zealand,Australia & Oceania
+niu,Niuean,-19.05,-170.116666667,NZ,New Zealand,Australia & Oceania
+mao,Maori,-40.0,176.0,NZ,New Zealand,Australia & Oceania
+dan,Dan,7.5,-8.0,LR,Liberia,Africa
+gol,Gola,7.25,-10.833333333299999,LR,Liberia,Africa
+vai,Vai,6.916666666669999,-11.25,LR,Liberia,Africa
+kis,Kisi,8.833333333330001,-10.1666666667,LR,Liberia,Africa
+lma,Loma,8.0,-9.5,LR,Liberia,Africa
+kss,Kisi (Southern),8.5,-10.25,LR,Liberia,Africa
+man,Mano,7.0,-9.0,LR,Liberia,Africa
+bnd,Bandi,8.083333333330001,-10.25,LR,Liberia,Africa
+kla,Klao,4.75,-8.75,LR,Liberia,Africa
+kpe,Kpelle,7.0,-10.0,LR,Liberia,Africa
+grb,Grebo,5.0,-8.0,LR,Liberia,Africa
+rnd,Rundi,-3.5,30.0,BI,Burundi,Africa
+ahs,Arabic (Bani-Hassan),20.0,-10.0,MR,Mauritania,Africa
+fma,Fula (Mauritanian),16.5,-13.75,MR,Mauritania,Africa
+zen,Zenaga,17.3333333333,-16.0,MR,Mauritania,Africa
+mnk,Maninka,10.5,-9.5,SL,Sierra Leone,Africa
+lok,Loko,9.333333333330001,-12.083333333299999,SL,Sierra Leone,Africa
+kko,Koranko,9.333333333330001,-11.25,SL,Sierra Leone,Africa
+gol,Gola,7.25,-10.833333333299999,SL,Sierra Leone,Africa
+vai,Vai,6.916666666669999,-11.25,SL,Sierra Leone,Africa
+mde,Mende,7.833333333330001,-11.5,SL,Sierra Leone,Africa
+tne,Temne,8.666666666669999,-13.083333333299999,SL,Sierra Leone,Africa
+kis,Kisi,8.833333333330001,-10.1666666667,SL,Sierra Leone,Africa
+nif,Niuafo'ou,-15.566666666700002,-175.616666667,TO,Tonga,Australia & Oceania
+tng,Tongan,-21.1666666667,-175.16666666700002,TO,Tonga,Australia & Oceania
+kiq,Kalmyk (Issyk-Kul),42.4166666667,78.3333333333,KG,Kyrgyzstan,Asia
+kgz,Kirghiz,42.0,75.0,KG,Kyrgyzstan,Asia
+son,Sonsorol-Tobi,5.33333333333,132.25,PW,Palau,Australia & Oceania
+pal,Palauan,7.5,134.58333333299998,PW,Palau,Australia & Oceania
+mol,Moldavian,47.0,29.0,MD,Moldova,Europe
+ydb,Yiddish (Bessarabian),47.0,28.5,MD,Moldova,Europe
+gag,Gagauz,46.3333333333,28.6666666667,MD,Moldova,Europe
+mca,Maca,-25.0,-57.5,PY,Paraguay,South America
+gna,Guana,-22.0,-58.0,PY,Paraguay,South America
+tpt,Tapieté,-19.75,-61.6666666667,PY,Paraguay,South America
+kaw,Kaiwá,-23.0,-55.0,PY,Paraguay,South America
+crt,Chorote,-22.5,-62.5,PY,Paraguay,South America
+crg,Chiriguano,-23.6666666667,-64.3333333333,PY,Paraguay,South America
+lng,Lengua,-22.5,-59.0,PY,Paraguay,South America
+ayr,Ayoreo,-20.25,-59.25,PY,Paraguay,South America
+ach,Aché,-25.25,-55.1666666667,PY,Paraguay,South America
+chu,Nivacle,-23.5,-60.5,PY,Paraguay,South America
+gua,Guaraní,-26.0,-56.0,PY,Paraguay,South America
+pgl,Pingilapese,6.216666666669999,160.7,FM,Micronesia,Australia & Oceania
+kpn,Kapingamarangi,1.05,154.75,FM,Micronesia,Australia & Oceania
+nkr,Nukuoro,3.83333333333,154.91666666700002,FM,Micronesia,Australia & Oceania
+uli,Ulithian,9.916666666669999,139.58333333299998,FM,Micronesia,Australia & Oceania
+cuu,Chuukese,7.333333333330001,151.75,FM,Micronesia,Australia & Oceania
+pul,Puluwat,7.333333333330001,149.33333333299998,FM,Micronesia,Australia & Oceania
+wol,Woleaian,7.333333333330001,143.83333333299998,FM,Micronesia,Australia & Oceania
+kos,Kosraean,5.3,163.0,FM,Micronesia,Australia & Oceania
+poh,Pohnpeian,6.88333333333,158.25,FM,Micronesia,Australia & Oceania
+mok,Mokilese,6.666666666669999,159.75,FM,Micronesia,Australia & Oceania
+yap,Yapese,9.583333333330001,138.16666666700002,FM,Micronesia,Australia & Oceania
+aul,Aulua,-16.3333333333,167.66666666700002,VU,Vanuatu,Australia & Oceania
+rag,Raga,-15.5,168.16666666700002,VU,Vanuatu,Australia & Oceania
+bsm,Bislama,-16.0,168.0,VU,Vanuatu,Australia & Oceania
+ark,Araki,-15.666666666700001,166.91666666700002,VU,Vanuatu,Australia & Oceania
+tmm,Tamabo,-15.666666666700001,167.16666666700002,VU,Vanuatu,Australia & Oceania
+tns,Tanna (Southwest),-19.5666666667,169.33333333299998,VU,Vanuatu,Australia & Oceania
+kwr,Kwamera,-19.5833333333,169.41666666700002,VU,Vanuatu,Australia & Oceania
+lnw,Lonwolwol,-16.2166666667,168.0,VU,Vanuatu,Australia & Oceania
+atc,Atchin,-16.0,167.33333333299998,VU,Vanuatu,Australia & Oceania
+sea,Southeast Ambrym,-16.3,168.216666667,VU,Vanuatu,Australia & Oceania
+nbb,Nambas (Big),-16.0833333333,167.2,VU,Vanuatu,Australia & Oceania
+ngu,Nguna,-16.9166666667,168.5,VU,Vanuatu,Australia & Oceania
+lew,Lewo,-16.75,168.33333333299998,VU,Vanuatu,Australia & Oceania
+aml,Ambae (Lolovoli Northeast),-15.416666666700001,167.883333333,VU,Vanuatu,Australia & Oceania
+ura,Ura,-18.6666666667,169.08333333299998,VU,Vanuatu,Australia & Oceania
+mwo,Mwotlap,-13.583333333299999,167.58333333299998,VU,Vanuatu,Australia & Oceania
+mae,Mae,-16.0,167.25,VU,Vanuatu,Australia & Oceania
+sak,Sakao,-15.166666666700001,167.08333333299998,VU,Vanuatu,Australia & Oceania
+anj,Anejom,-20.2,169.8,VU,Vanuatu,Australia & Oceania
+fut,Futuna-Aniwa,-19.5333333333,170.216666667,VU,Vanuatu,Australia & Oceania
+err,Erromangan,-18.8333333333,169.16666666700002,VU,Vanuatu,Australia & Oceania
+len,Lenakel,-19.45,169.25,VU,Vanuatu,Australia & Oceania
+pms,Paamese,-16.5,168.25,VU,Vanuatu,Australia & Oceania
+vnm,Vinmavis,-16.1666666667,167.41666666700002,VU,Vanuatu,Australia & Oceania
+psw,Port Sandwich,-16.5,167.75,VU,Vanuatu,Australia & Oceania
+lmu,Lamen,-16.5833333333,168.16666666700002,VU,Vanuatu,Australia & Oceania
+erk,Efate (South),-17.75,168.41666666700002,VU,Vanuatu,Australia & Oceania
+mxe,Ifira-Mele,-17.75,168.25,VU,Vanuatu,Australia & Oceania
+msh,Marshallese,7.11666666667,171.05,MH,Marshall Islands,Australia & Oceania
+far,Faroese,62.0,-7.0,DK,Denmark,Europe
+dsh,Danish,56.0,10.0,DK,Denmark,Europe
+crl,Carolinian,15.2,145.75,MP,Northern Mariana Islands,Australia & Oceania
+bul,Bulgarian,42.5,25.0,BG,Bulgaria,Europe
+pri,Príncipense,1.61666666667,7.36666666667,ST,São Tomé e Príncipe,Africa
+ago,Angolar,0.25,6.5,ST,São Tomé e Príncipe,Africa
+nau,Nauruan,-0.5,166.91666666700002,NR,Nauru,Australia & Oceania
+lgp,Língua Gestual Portuguesa,40.0,-8.0,PT,Portugal,Europe
+por,Portuguese,39.0,-8.0,PT,Portugal,Europe
+dhi,Dhivehi,4.16666666667,73.5,MV,Maldives,Asia
+nih,Nihon Shuwa (Japanese Sign Language),36.0,139.0,JP,Japan,Asia
+ain,Ainu,43.0,143.0,JP,Japan,Asia
+jpn,Japanese,37.0,140.0,JP,Japan,Asia
+ryu,Shuri,26.5,127.5,JP,Japan,Asia
+pip,Pipil,13.833333333299999,-89.5833333333,SV,El Salvador,North America
+ckh,Cheke Holo,-8.333333333330001,159.66666666700002,SB,Solomon Islands,Australia & Oceania
+lga,Luangiua,-5.33333333333,159.41666666700002,SB,Solomon Islands,Australia & Oceania
+arx,'Are'are,-9.25,161.16666666700002,SB,Solomon Islands,Australia & Oceania
+lau,Lau,-9.583333333330001,161.5,SB,Solomon Islands,Australia & Oceania
+rnn,Rennellese,-11.6166666667,160.25,SB,Solomon Islands,Australia & Oceania
+hoa,Hoava,-8.083333333330001,157.5,SB,Solomon Islands,Australia & Oceania
+pil,Pileni,-10.2166666667,166.216666667,SB,Solomon Islands,Australia & Oceania
+toq,Toqabaqita,-8.416666666669999,160.58333333299998,SB,Solomon Islands,Australia & Oceania
+saa,Sa'a,-9.61666666667,161.45,SB,Solomon Islands,Australia & Oceania
+nbk,Natügu,-10.7833333333,165.866666667,SB,Solomon Islands,Australia & Oceania
+ayw,Ayiwo,-10.3333333333,166.25,SB,Solomon Islands,Australia & Oceania
+svs,Savosavo,-9.13333333333,159.8,SB,Solomon Islands,Australia & Oceania
+gel,Gela,-9.083333333330001,160.25,SB,Solomon Islands,Australia & Oceania
+rov,Roviana,-8.25,157.33333333299998,SB,Solomon Islands,Australia & Oceania
+bum,Buma,-11.6333333333,166.83333333299998,SB,Solomon Islands,Australia & Oceania
+kkt,Kokota,-8.0,159.133333333,SB,Solomon Islands,Australia & Oceania
+sis,Sisiqa,-7.0,156.83333333299998,SB,Solomon Islands,Australia & Oceania
+bil,Bilua,-7.75,156.66666666700002,SB,Solomon Islands,Australia & Oceania
+moa,Mono-Alu,-7.05,155.75,SB,Solomon Islands,Australia & Oceania
+lgu,Longgu,-9.75,160.66666666700002,SB,Solomon Islands,Australia & Oceania
+aro,Arosi,-10.25,161.33333333299998,SB,Solomon Islands,Australia & Oceania
+kwa,Kwaio,-8.95,161.0,SB,Solomon Islands,Australia & Oceania
+lav,Lavukaleve,-9.083333333330001,159.2,SB,Solomon Islands,Australia & Oceania
+mcd,Macedonian,41.6666666667,21.75,MK,Macedonia,Europe
+tay,Tayo,-22.0,166.33333333299998,NC,New Caledonia,Australia & Oceania
+aji,Ajië,-21.3333333333,165.5,NC,New Caledonia,Australia & Oceania
+xar,Xârâcùù,-21.6666666667,166.0,NC,New Caledonia,Australia & Oceania
+nyl,Nyelâyu,-20.3333333333,164.33333333299998,NC,New Caledonia,Australia & Oceania
+pta,Paita,-22.0833333333,166.5,NC,New Caledonia,Australia & Oceania
+nel,Nelemwa,-20.25,164.08333333299998,NC,New Caledonia,Australia & Oceania
+nne,Nengone,-21.5,168.0,NC,New Caledonia,Australia & Oceania
+poa,Po-Ai,-20.6666666667,164.83333333299998,NC,New Caledonia,Australia & Oceania
+cem,Cèmuhî,-20.8333333333,165.16666666700002,NC,New Caledonia,Australia & Oceania
+tin,Tinrin,-21.6666666667,165.75,NC,New Caledonia,Australia & Oceania
+iaa,Iaai,-20.4166666667,166.58333333299998,NC,New Caledonia,Australia & Oceania
+dre,Drehu,-21.0,167.25,NC,New Caledonia,Australia & Oceania

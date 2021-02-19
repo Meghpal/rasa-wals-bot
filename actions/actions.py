@@ -1,12 +1,3 @@
-# This files contains your custom actions which can be used to run
-# custom Python code.
-#
-# See this guide on how to implement these action:
-# https://rasa.com/docs/rasa/custom-actions
-
-
-# This is a simple example for a custom action which utters "Hello World!"
-
 from typing import Any, Text, Dict, List
 
 from rasa_sdk import Action, Tracker
@@ -16,14 +7,8 @@ import pandas as pd
 import os
 
 # preload the csvs in the server for faster resolution
-lang_path = os.path.join("data", "cldf-datasets-wals-014143f", "raw", "language.csv")
-lang_data = pd.read_csv(lang_path)
-
-country_path = os.path.join("data", "cldf-datasets-wals-014143f", "raw", "country.csv")
-country_data = pd.read_csv(country_path)
-
-cl_path = os.path.join("data", "cldf-datasets-wals-014143f", "raw", "countrylanguage.csv")
-cl_data = pd.read_csv(cl_path)
+lang_data = pd.read_csv(os.path.join("data", "lang_data.csv"))
+featuremap = pd.read_csv(os.path.join("data", "featuremap.csv"))
 
 class ActionLanguageSearch(Action):
 
@@ -39,23 +24,125 @@ class ActionLanguageSearch(Action):
         if len(entities) > 0:
             query_lang = entities.pop()
             query_lang = query_lang.lower().capitalize()
-            print(query_lang)
+            print("Looking up", query_lang)
             
-            out_lang = lang_data[lang_data["name"] == query_lang].to_dict("records")
+            result= lang_data[lang_data["lang_name"] == query_lang]
 
-            if len(out_lang) > 0:
-                out_lang = out_lang[0]
-                
-                # use the private keys to find the corresponding country
-                matched_country = cl_data[cl_data["language_pk"] == out_lang["pk"]].to_dict("records")
-                country_name = country_data[country_data["pk"] == matched_country[0]["country_pk"]].to_dict("records")
-                if len(country_name) > 0:
-                    country_name = country_name[0]["name"]
-                else:
-                    country_name = "<Not found>"
-                out_text = "'%s' pertenece al país '%s'\nLatitud, Longitud: (%s, %s)\nCódigo ISO '%s'\n" % (out_lang["name"], country_name, out_lang["latitude"], out_lang["longitude"], out_lang["id"])
+            if len(result) > 0:
+                lang = result.iloc[0]
+                out_text = "'%s' se habla en los países: %s\nWALS Latitud, Longitud: (%s, %s)\nCódigo ISO '%s'\n" % (
+                    query_lang,
+                    ", ".join(result.iloc[:, -2].values),
+                    lang["lat"],
+                    lang["long"],
+                    lang["iso_code"]
+                )
                 dispatcher.utter_message(text = out_text)
             else:
-                dispatcher.utter_message(text = "¡Lo siento! No tenemos registros para el idioma %s\n" % query_lang)
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros para el idioma %s\n" % query_lang)
+
+        return []
+
+class FeatureOfLanguageSearch(Action):
+
+    def name(self) -> Text:
+        return "action_feature_of_lang_search"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        entities = list(tracker.get_latest_entity_values("language"))
+        feat = list(tracker.get_latest_entity_values("feature"))
+
+        if len(entities) > 0 and len(feat)>0:
+            query_feature = feat.pop()
+
+            query_lang = entities.pop()
+            query_lang = query_lang.lower().capitalize()
+            print("Looking up", query_feature, "for", query_lang)
+            
+            result= featuremap[
+                (featuremap["Language_name"] == query_lang)
+                & (featuremap["Parameter_name"] == query_feature)
+            ]
+
+            if len(result) > 0:
+                out_text = "El valor de característica de '%s' para '%s' es '%s'\n" % (
+                    query_feature,
+                    query_lang,
+                    result.iloc[0, -3]
+                )
+                dispatcher.utter_message(text = out_text)
+            else:
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la función %s para el idioma %s\n" % (query_feature, query_lang),
+                button={"title": "¿Qué es el The Optative de Spanish?", "payload": "/action_feature_of_lang_search"})
+
+        return []
+
+class RandomTypeSearch(Action):
+
+    def name(self) -> Text:
+        return "action_random_type_search"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        val = list(tracker.get_latest_entity_values("val"))
+        feat = list(tracker.get_latest_entity_values("feature"))
+
+        if len(val) > 0 and len(feat)>0:
+            query_feature = feat.pop()
+
+            query_val = val.pop()
+
+            print("Looking up languages with", query_val, "for", query_feature)
+            
+            result= featuremap[
+                (featuremap["Value"] == query_val)
+                & (featuremap["Parameter_name"] == query_feature)
+            ]
+            max_num = len(result.iloc[:, 3].values)
+            n_samples = 5
+            if max_num < n_samples:
+                n_samples =  max_num
+            if len(result) > 0:
+                out_text = "Otros idiomas con la característica %s como '%s' son: %s\n" % (
+                    query_feature,
+                    query_val,
+                    ", ".join(result.iloc[:, 3].sample(n=n_samples).values)
+                )
+                dispatcher.utter_message(text = out_text)
+            else:
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la característica %s con valor %s\n" % (query_feature, query_val))
+
+        return []
+
+class FeatureCatSearch(Action):
+
+    def name(self) -> Text:
+        return "action_feature_cat_search"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        feat = list(tracker.get_latest_entity_values("feature"))
+
+        if len(feat)>0:
+            query_feature = feat.pop()
+
+            print("Looking up types of", query_feature)
+            
+            result= featuremap[featuremap["Parameter_name"] == "Rhythm Types"]["Value"].unique()
+            if len(result) > 0:
+                out_text = "Los diferentes tipos de característica '%s' son: %s\n" % (
+                    query_feature,
+                    ", ".join(result)
+                )
+                dispatcher.utter_message(text = out_text)
+            else:
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la característica %s\n" % query_feature)
 
         return []
