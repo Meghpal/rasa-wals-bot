@@ -30,6 +30,11 @@ rules:
    - intent: feature_cat_search
    - action: action_feature_cat_search
 
+ - rule: get all the types a particular feature can behave
+   steps:
+   - intent: get_description
+   - action: action_get_description
+
  - rule: respond positively when the user says thank you
    steps:
    - intent: thanks

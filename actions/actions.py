@@ -9,6 +9,7 @@ import os
 # preload the csvs in the server for faster resolution
 lang_data = pd.read_csv(os.path.join("data", "lang_data.csv"))
 featuremap = pd.read_csv(os.path.join("data", "featuremap.csv"))
+feature_def = pd.read_csv(os.path.join("data", "feature_definitions.csv"), sep=",,, ")
 
 class ActionLanguageSearch(Action):
 
@@ -75,8 +76,7 @@ class FeatureOfLanguageSearch(Action):
                 )
                 dispatcher.utter_message(text = out_text)
             else:
-                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la función %s para el idioma %s\n" % (query_feature, query_lang),
-                button={"title": "¿Qué es el The Optative de Spanish?", "payload": "/action_feature_of_lang_search"})
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la función %s para el idioma %s\n" % (query_feature, query_lang))
 
         return []
 
@@ -135,11 +135,39 @@ class FeatureCatSearch(Action):
 
             print("Looking up types of", query_feature)
             
-            result= featuremap[featuremap["Parameter_name"] == "Rhythm Types"]["Value"].unique()
+            result= featuremap[featuremap["Parameter_name"] == query_feature]["Value"].unique()
             if len(result) > 0:
                 out_text = "Los diferentes tipos de característica '%s' son: %s\n" % (
                     query_feature,
                     ", ".join(result)
+                )
+                dispatcher.utter_message(text = out_text)
+            else:
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la característica %s\n" % query_feature)
+
+        return []
+
+class GetDescription(Action):
+
+    def name(self) -> Text:
+        return "action_get_description"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        feat = list(tracker.get_latest_entity_values("feature"))
+
+        if len(feat)>0:
+            query_feature = feat.pop()
+
+            print("Looking up the definition of", query_feature)
+            
+            result= feature_def[feature_def["Feature_Name"] == query_feature]["Feature_Definition"].values
+            print(result)
+            if len(result) > 0:
+                out_text = "Esto es lo que encontré: '%s'\n" % (
+                    result[0]
                 )
                 dispatcher.utter_message(text = out_text)
             else:

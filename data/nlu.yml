@@ -76,16 +76,16 @@ nlu:
     - ¿Qué es el [The Optative](feature) de [French](language)?
     - ¿Qué es el [Asymmetrical Case-Marking](feature) de [Afrikaans](language)?
     - ¿Qué es el [Irregular Negatives in Sign Languages](feature) de [Arabic](language)?
-    - ¿Qué es el [Presence of Uncommon Consonants](feature) de [Chinese](language)?
-    - ¿Qué es el [Glottalized Consonants](feature) de [Danish](language)?
-    - ¿Qué es el [Pronominal and Adnominal Demonstratives](feature) de [Dutch](language)?
-    - ¿Qué es el [Number of Basic Colour Categories](feature) de [English](language)?
-    - ¿Qué es el [Suppletion According to Tense and Aspect](feature) de [Esperanto](language)?
-    - ¿Qué es el [Suppletion in Imperatives and Hortatives](feature) de [Estonian](language)?
-    - ¿Qué es el [Genitives, Adjectives and Relative Clauses](feature) de [Filipino](language)?
-    - ¿Qué es el [Vowel Nasalization](feature) de [Finnish](language)?
-    - ¿Qué es el [Nasal Vowels in West Africa](feature) de [French](language)?
-    - ¿Qué es el [Verbal Number and Suppletion](feature) de [German](language)?
+    - ¿Qué puedes decirme sobre el [Presence of Uncommon Consonants](feature) de [Chinese](language)?
+    - ¿Qué puedes decirme sobre el [Glottalized Consonants](feature) de [Danish](language)?
+    - ¿Qué puedes decirme sobre el [Pronominal and Adnominal Demonstratives](feature) de [Dutch](language)?
+    - ¿Qué puedes decirme sobre el [Number of Basic Colour Categories](feature) de [English](language)?
+    - ¿Qué puedes decirme sobre el [Suppletion According to Tense and Aspect](feature) de [Esperanto](language)?
+    - ¿Qué puedes decirme sobre el [Suppletion in Imperatives and Hortatives](feature) de [Estonian](language)?
+    - ¿Qué puedes decirme sobre el [Genitives, Adjectives and Relative Clauses](feature) de [Filipino](language)?
+    - ¿Qué puedes decirme sobre el [Vowel Nasalization](feature) de [Finnish](language)?
+    - ¿Qué puedes decirme sobre el [Nasal Vowels in West Africa](feature) de [French](language)?
+    - ¿Qué puedes decirme sobre el [Verbal Number and Suppletion](feature) de [German](language)?
     - ¿Qué es el [Purpose Clauses](feature) de [Greek](language)?
     - ¿Qué es el [Obligatory Possessive Inflection](feature) de [Gujarati](language)?
     - ¿Qué es el [Number of Possessive Nouns](feature) de [Hawaiian](language)?
@@ -98,18 +98,18 @@ nlu:
     - ¿Cuál es el valor de característica [Coding of Nominal Plurality](feature) de [Kannada](language)?
     - ¿Cuál es el valor de característica [Order of Subject, Object and Verb](feature) de [Korean](language)?
     - ¿Cuál es el valor de característica [Languages with two Dominant Orders of Subject, Object, and Verb](feature) de [Kurdish](language)?
-    - ¿Cuál es el valor de característica [Locus of Marking in Possessive Noun Phrases](feature) de [Latin](language)?
-    - ¿Cuál es el valor de característica [Order of Degree Word and Adjective](feature) de [Malayalam](language)?
-    - ¿Cuál es el valor de característica [Inclusive/Exclusive Distinction in Independent Pronouns](feature) de [Maori](language)?
-    - ¿Cuál es el valor de característica [Inclusive/Exclusive Forms in Pama-Nyungan](feature) de [Marathi](language)?
-    - ¿Cuál es el valor de característica [Distance Contrasts in Demonstratives](feature) de [Nepali](language)?
-    - ¿Cuál es el valor de característica [Inclusive/Exclusive Distinction in Verbal Inflection](feature) de [Persian](language)?
-    - ¿Cuál es el valor de característica [Order of Demonstrative and Noun](feature) de [Polish](language)?
-    - ¿Cuál es el valor de característica [Uvular Consonants](feature) de [Portuguese](language)?
-    - ¿Cuál es el valor de característica [Negative Morphemes](feature) de [Punjabi](language)?
-    - ¿Cuál es el valor de característica [Relativization on Obliques "When Clauses"](feature) de [Russian](language)?
-    - ¿Cuál es el valor de característica [Action Nominal Constructions](feature) de [Scottish Gaelic](language)?
-    - ¿Cuál es el valor de característica [The Position of Negative Morphemes in Object-Initial Languages](feature) de [Slovak](language)?
+    - ¿¿Qué puedes decirme sobre el [Locus of Marking in Possessive Noun Phrases](feature) de [Latin](language)?
+    - ¿¿Qué puedes decirme sobre el [Order of Degree Word and Adjective](feature) de [Malayalam](language)?
+    - ¿¿Qué puedes decirme sobre el [Inclusive/Exclusive Distinction in Independent Pronouns](feature) de [Maori](language)?
+    - ¿¿Qué puedes decirme sobre el [Inclusive/Exclusive Forms in Pama-Nyungan](feature) de [Marathi](language)?
+    - ¿¿Qué puedes decirme sobre el [Distance Contrasts in Demonstratives](feature) de [Nepali](language)?
+    - ¿¿Qué puedes decirme sobre el [Inclusive/Exclusive Distinction in Verbal Inflection](feature) de [Persian](language)?
+    - ¿¿Qué puedes decirme sobre el [Order of Demonstrative and Noun](feature) de [Polish](language)?
+    - ¿¿Qué puedes decirme sobre el [Uvular Consonants](feature) de [Portuguese](language)?
+    - ¿¿Qué puedes decirme sobre el [Negative Morphemes](feature) de [Punjabi](language)?
+    - ¿¿Qué puedes decirme sobre el [Relativization on Obliques "When Clauses"](feature) de [Russian](language)?
+    - ¿¿Qué puedes decirme sobre el [Action Nominal Constructions](feature) de [Scottish Gaelic](language)?
+    - ¿¿Qué puedes decirme sobre el [The Position of Negative Morphemes in Object-Initial Languages](feature) de [Slovak](language)?
     - ¿Cuál es el valor de característica [NegSOV Order](feature) de [Sundanese](language)?
     - ¿Cuál es el valor de característica [SVNegO Order](feature) de [Swahili](language)?
     - ¿Cuál es el valor de característica [Obligatory Double Negation in SOV languages](feature) de [Swedish](language)?
@@ -153,3 +153,8 @@ nlu:
   examples: |
     - ¿Qué tipos puede ser esta característica [Rhythm Types](feature)?
     - ¿Qué categorías hay en la característica [Tone](feature)?
+
+- intent: get_description
+  examples: |
+    - ¿Cuál es la característica [Rhythm Types](feature)?
+    - ¿Cuál es la característica [Tone](feature)?

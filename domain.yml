@@ -13,6 +13,7 @@ intents:
   - feature_of_lang_search
   - random_type_search
   - feature_cat_search
+  - get_description
 entities:
   - language
   - feature
@@ -45,6 +46,7 @@ actions:
 - action_feature_of_lang_search
 - action_random_type_search
 - action_feature_cat_search
+- action_get_description
 - utter_thanks
 - utter_req_feedback
 - utter_thanks_feedback
