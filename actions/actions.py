@@ -2,6 +2,7 @@ from typing import Any, Text, Dict, List
 
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
+from rasa_sdk.events import ReminderScheduled, ReminderCancelled
 
 import pandas as pd
 import os
@@ -38,9 +39,17 @@ class ActionLanguageSearch(Action):
                     lang["long"],
                     lang["iso_code"]
                 )
-                dispatcher.utter_message(text = out_text)
+                dispatcher.utter_message(text = out_text,
+                buttons=[{
+                    "title":" ¿Cuál es la característica Rhythm Types?",
+                    "payload":"¿Cuál es la característica Rhythm Types?"
+                }])
             else:
-                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros para el idioma %s\n" % query_lang)
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros para el idioma %s\n" % query_lang,
+                buttons=[{
+                    "title":" Quiero saber más sobre Spanish",
+                    "payload":" Quiero saber más sobre Spanish"
+                }])
 
         return []
 
@@ -74,9 +83,19 @@ class FeatureOfLanguageSearch(Action):
                     query_lang,
                     result.iloc[0, -3]
                 )
-                dispatcher.utter_message(text = out_text)
+                
+                print(len("¿Otros idiomas con Trochaic para característica Rhythm Types?".encode('utf-8')))
+                dispatcher.utter_message(text = out_text,
+                buttons=[{
+                    "title":"¿Otros idiomas con Trochaic para característica Rhythm Types?",
+                    "payload":"¿Otros idiomas con Trochaic para característica Rhythm Types?"
+                }])
             else:
-                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la función %s para el idioma %s\n" % (query_feature, query_lang))
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la función %s para el idioma %s\n" % (query_feature, query_lang),
+                buttons=[{
+                    "title":" Qué es el Rhythm Types de Spanish?",
+                    "payload":"Qué es el Rhythm Types de Spanish?"
+                }])
 
         return []
 
@@ -113,9 +132,18 @@ class RandomTypeSearch(Action):
                     query_val,
                     ", ".join(result.iloc[:, 3].sample(n=n_samples).values)
                 )
-                dispatcher.utter_message(text = out_text)
+                dispatcher.utter_message(text = out_text,
+                buttons=[{
+                    "title":" ¡Gracias mayordomo!",
+                    "payload":"¡Gracias mayordomo!"
+                }])
             else:
-                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la característica %s con valor %s\n" % (query_feature, query_val))
+                print(len("¿Otros idiomas con Trochaic para característica Rhythm Types?".encode('utf-8')))
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la característica %s con valor %s\n" % (query_feature, query_val),
+                buttons=[{
+                    "title":"¿Otros idiomas con Trochaic para característica Rhythm Types?",
+                    "payload":"¿Otros idiomas con Trochaic para característica Rhythm Types?"
+                }])
 
         return []
 
@@ -141,9 +169,17 @@ class FeatureCatSearch(Action):
                     query_feature,
                     ", ".join(result)
                 )
-                dispatcher.utter_message(text = out_text)
+                dispatcher.utter_message(text = out_text,
+                buttons=[{
+                    "title":" ¿Cuál es el valor de característica Rhythm Types de Spanish?",
+                    "payload":"¿Cuál es el valor de característica Rhythm Types de Spanish?"
+                }])
             else:
-                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la característica %s\n" % query_feature)
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la característica %s\n" % query_feature,
+                buttons=[{
+                    "title":" ¿Qué tipos puede ser esta característica Rhythm Types?",
+                    "payload":"¿Qué tipos puede ser esta característica Rhythm Types?"
+                }])
 
         return []
 
@@ -169,8 +205,16 @@ class GetDescription(Action):
                 out_text = "Esto es lo que encontré: '%s'\n" % (
                     result[0]
                 )
-                dispatcher.utter_message(text = out_text)
+                dispatcher.utter_message(text = out_text,
+                buttons=[{
+                    "title":" ¿Qué tipos puede ser esta característica Rhythm Types?",
+                    "payload":"¿Qué tipos puede ser esta característica Rhythm Types?"
+                }])
             else:
-                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la característica %s\n" % query_feature)
+                dispatcher.utter_message(text = "¡Lo siento señor! No tenemos registros de la característica %s\n" % query_feature,
+                buttons=[{
+                    "title":" ¿Cuál es la característica Rhythm Types?",
+                    "payload":"¿Cuál es la característica Rhythm Types?"
+                }])
 
         return []

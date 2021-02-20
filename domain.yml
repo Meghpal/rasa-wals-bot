@@ -21,8 +21,17 @@ entities:
 responses:
   utter_greet:
   - text: ¡Hola!
+    buttons:
+      - title: "Quiero saber más sobre Spanish"
+        payload: "Quiero saber más sobre Spanish"
   - text: ¡Hola señor!
+    buttons:
+      - title: "Quiero saber más sobre Spanish"
+        payload: "Quiero saber más sobre Spanish"
   - text: ¿Cómo estás?
+    buttons:
+      - title: "Quiero saber más sobre Spanish"
+        payload: "Quiero saber más sobre Spanish"
   utter_goodbye:
   - text: ¡Adiós!
   - text: ¡Adiós señor!
